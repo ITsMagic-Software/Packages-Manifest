@@ -55,6 +55,25 @@
         "img3.jpg",
         "img4.jpg"
       ]
-    }
+    },
+    {
+      "id": "0a75bd6c-b34f-4bd9-840e-09da2fd78466",
+      "userName": "ITsMagic",
+      "titleB64": "QUNQIC0gRHJpZnQgY2Fy",
+      "descriptionB64": "RHJpZnQgY2FyIG1hZGUgdXNpbmcgQUNQ",
+      "tags": "acp",
+      "version": 1,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Drift-ACP",
+      "isTemplate": true,
+      "date": "02/02/2026",
+      "mediaFolder": "itsmagic/drift-acp",
+      "thumbnail": "thumb.jpg",
+      "images": [
+        "img1.jpg",
+        "img2.jpg",
+        "img3.jpg",
+        "img4.jpg"
+      ]
+    },
   ]
 }
