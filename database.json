@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "id": "6cb01fa1-a3dc-4cf8-a7c6-e115a36d8801",
+      "id": "itsm-1",
       "userName": "ITsMagic",
       "titleB64": "Q2F2ZSBjaHVyY2ggKEhJR0ggR1JBUEhJQ1Mp",
       "descriptionB64": "VW5kZXJncm91bmQgY2h1cmNoIHByb2plY3Qgd2l0aCBhbWF6aW5nIGdyYXBoY2lzLg==",
@@ -9,6 +9,7 @@
       "version": 1,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-CaveChurch",
       "isTemplate": true,
+      "date": "02/02/2026",
       "mediaFolder": "itsmagic/cavechurch",
       "thumbnail": "thumb.jpg",
       "images": [
@@ -19,7 +20,7 @@
       ]
     },
     {
-      "id": "6cb01fa1-a3dc-4cf8-a7c6-e115a36d8802",
+      "id": "itsm-2",
       "userName": "ITsMagic",
       "titleB64": "Rmlyc3QgcGVyc29uIHBsYXllciBwcm9qZWN0IChBRlBQKQ==",
       "descriptionB64": "T2ZmaWNpYWwgYWR2YW5jZWQgZmlyc3QgcGVyc29uIHBsYXllcgoKSXQgaXMgYSBmdWxseSBjb25maWd1cmVkIGFuZCBmdW5jdGlvbmFsIHBsYXllci4KCkl0IGhhcyBhIGNvbnRyb2wgaW50ZXJmYWNlLgpBZHZhbmNlZCBmb290c3RlcCBzb3VuZHMgd2l0aCBmcmVxdWVuY3ksIHBpdGNoIGFuZCB2b2x1bWUgdmFyaWF0aW9uIGJhc2VkIG9uIHNwZWVkIGFuZCBzY2VuZSBzZXR0aW5ncy4KRGlmZmVyZW50IHR5cGVzIG9mIGZvb3RzdGVwIHNvdW5kcyBhcmUgZW1pdHRlZCBiYXNlZCBvbiB0aGUgc3VyZmFjZSB0aGUgcGxheWVyIGlzIHN0YW5kaW5nIG9uLgoKQ2hhcmFjdGVyaXN0aWNzOgpkb2VzIG5vdCBjcm9zcyBjb2xsaXNpb25zCnVzZSBqb3lzdGljawpPbmx5IHVzZXMgc3dpcGVzIGlmIHdpdGhpbiBhIGRlZmluZWQgYXJlYSBvZiB0aGUgc2NyZWVuCkl0IGhhcyBhIHNsaWRpbmcgc3lzdGVtCldvbnQgdHJpcCwgZmFsbCwgb3ZlcnR1cm4gb3IgaGFuZyBhbnl3aGVyZQpIYXMgcm90YXRpb24gYW5nbGUgbGltaXQgb24gdmVydGljYWwgZmluZ2VyIHNsaWRlIGF4aXMgKGxvb2sgdXAgYW5kIGRvd24pCkFkdmFuY2VkIGp1bXAgZmVhdHVyZQoKRXh0cmFzOgpBIHdvcmxkIG9mIGV4YW1wbGUKVGhlIFVJIGNvbmZpZ3VyZWQgZm9yIHBsYXllciBjb250cm9s",
@@ -27,12 +28,32 @@
       "version": 1,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-AFPP",
       "isTemplate": true,
+      "date": "02/02/2026",
       "mediaFolder": "itsmagic/afpp",
       "thumbnail": "thumb.jpg",
       "images": [
         "img1.jpg",
         "img2.jpg",
         "img3.jpg"
+      ]
+    },
+    {
+      "id": "itsm-3",
+      "userName": "ITsMagic",
+      "titleB64": "Q2FyIHBoeXNpY3MgLSBBQ1A=",
+      "descriptionB64": "QWR2YW5jZWQgY2FyIHBoeXNpY3M=",
+      "tags": "acp",
+      "version": 1,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-ACP",
+      "isTemplate": true,
+      "date": "02/02/2026",
+      "mediaFolder": "itsmagic/acp",
+      "thumbnail": "thumb.jpg",
+      "images": [
+        "img1.jpg",
+        "img2.jpg",
+        "img3.jpg",
+        "img4.jpg"
       ]
     }
   ]
