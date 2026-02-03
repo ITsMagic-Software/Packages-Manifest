@@ -8,12 +8,12 @@
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-ACP",
       "isTemplate": true,
       "date": "02/02/2026",
-      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/thumb.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/acp/thumb.jpg",
       "images": [
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/img1.jpg",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/img2.jpg",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/img3.jpg",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/img4.jpg"
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/acp/img1.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/acp/img2.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/acp/img3.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/acp/img4.jpg"
       ],
       "id": "7df7230e-fd01-4eb1-9651-06075ebfbd0e",
       "userName": "ITsMagic"
@@ -26,11 +26,11 @@
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-AFPP",
       "isTemplate": true,
       "date": "02/02/2026",
-      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/thumb.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/afpp/thumb.jpg",
       "images": [
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/img1.jpg",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/img2.jpg",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/img3.jpg"
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/afpp/img1.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/afpp/img2.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/afpp/img3.jpg"
       ],
       "id": "9405b011-855a-4cbd-8264-a93e91b680b3",
       "userName": "ITsMagic"
@@ -43,12 +43,12 @@
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-CaveChurch",
       "isTemplate": true,
       "date": "02/02/2026",
-      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/thumb.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/cavechurch/thumb.jpg",
       "images": [
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/img1.jpg",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/img2.jpg",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/img3.jpg",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/img4.jpg"
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/cavechurch/img1.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/cavechurch/img2.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/cavechurch/img3.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/cavechurch/img4.jpg"
       ],
       "id": "f0fda940-257a-448d-be47-a8e90e807a5f",
       "userName": "ITsMagic"
@@ -61,12 +61,12 @@
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Drift-ACP",
       "isTemplate": true,
       "date": "02/02/2026",
-      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/thumb.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/drift-acp/thumb.jpg",
       "images": [
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/img1.jpg",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/img2.jpg",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/img3.jpg",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/img4.jpg"
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/drift-acp/img1.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/drift-acp/img2.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/drift-acp/img3.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/drift-acp/img4.jpg"
       ],
       "id": "08d46151-22bc-4749-af1a-44a8c485163d",
       "userName": "ITsMagic"
@@ -79,15 +79,15 @@
       "repositoryURL": "https://github.com/Vitg1/Mesh-Simulation-System-v1",
       "isTemplate": false,
       "date": "02/02/2026",
-      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/capa.png",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V1/capa.png",
       "images": [
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/img2.png",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/img3.png",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/img4.png",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/img5.png",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/img6.png",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/img7.png",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/img8.png"
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V1/img2.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V1/img3.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V1/img4.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V1/img5.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V1/img6.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V1/img7.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V1/img8.png"
       ],
       "id": "e2efc1e7-9d48-4d77-94b1-efe90b890048",
       "userName": "Vitg1"

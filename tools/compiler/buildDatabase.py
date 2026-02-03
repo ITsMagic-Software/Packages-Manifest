@@ -316,9 +316,12 @@ def main() -> None:
         updated_manifest = dict(manifest)
         updated_manifest["id"] = package_id
         updated_manifest["userName"] = username_from_path
+        rel_package_dir = manifest_path.parent.relative_to(packages_root).as_posix()
         media_folder = updated_manifest.get("mediaFolder")
         folder = media_folder.strip() if isinstance(media_folder, str) else ""
-        if folder and not folder.startswith("/"):
+        if not folder:
+            folder = f"/{rel_package_dir}"
+        elif not folder.startswith("/"):
             folder = f"/{folder}"
         updated_manifest.pop("mediaFolder", None)
 
