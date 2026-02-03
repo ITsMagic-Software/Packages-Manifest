@@ -224,6 +224,20 @@ def main() -> None:
                         "ERROR: Image not found "
                         f"({ _format_value(image) }) in {package_label}."
                     )
+                else:
+                    try:
+                        image_size = image_path.stat().st_size
+                        if image_size > 1_048_576:
+                            errors.append(
+                                "ERROR: Image exceeds 1MB "
+                                f"(bytes={image_size}, limit=1048576) "
+                                f"({ _format_value(image) }) in {package_label}."
+                            )
+                    except OSError as exc:
+                        errors.append(
+                            "ERROR: Failed to stat image "
+                            f"({ _format_value(image) }) in {package_label}: {exc}"
+                        )
 
         repository_url = manifest.get("repositoryURL")
         if not isinstance(repository_url, str) or not repository_url.strip():
