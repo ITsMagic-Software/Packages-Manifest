@@ -72,9 +72,9 @@
       "userName": "ITsMagic"
     },
     {
-      "titleB64": "U2lzdGVtYSBkZSBzaW11bGHDp8OjbyBkZSBwYW5vIHBhcmEgSXRzIE1hZ2ljIEVuZ2luZS4=",
-      "descriptionB64": "U2lzdGVtYSBkZSBzaW11bGHDp8OjbyBkZSBwYW5vIHNpbXBsZXMgcGFyYSBJdHMgTWFnaWMgRW5naW5lLiBwb3NzdWkgc2lzdGVtYSBkZSBjb2xpc29lcyBzaW1wbGVzLHZhcmlhcyBjb25maWd1cmHDp29lcyBlIHVtIHNpc3RlbWEgZGUgZWRpdG9yLHBvc3N1aSBIT1dfVE9fVVNF",
-      "tags": "cloth,mesh,physics,malha,pano,fisica",
+      "titleB64": "Q2xvdGggU2ltdWxhdGlvbiBTeXN0ZW0gZm9yIElUc01hZ2ljIEVuZ2luZQ==",
+      "descriptionB64": "U2ltcGxlIGNsb3RoIHNpbXVsYXRpb24gc3lzdGVtIGZvciBJVHNNYWdpYyBFbmdpbmUuIEluY2x1ZGVzIGJhc2ljIGNvbGxpc2lvbiBzdXBwb3J0LCBtdWx0aXBsZSBjb25maWd1cmF0aW9uIG9wdGlvbnMsIGFuZCBhbiBlZGl0b3Igc2V0dXAuIENvbWVzIHdpdGggYSBjb21wbGV0ZSBIT1dfVE9fVVNFIGd1aWRlLg==",
+      "tags": "cloth,mesh,physics,fisica",
       "version": 1,
       "repositoryURL": "https://github.com/Vitg1/Mesh-Simulation-System-v1",
       "isTemplate": false,
