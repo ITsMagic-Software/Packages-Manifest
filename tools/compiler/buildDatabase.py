@@ -137,6 +137,8 @@ def main() -> None:
     repo_base = _build_raw_base(config["url"])
     title_max_length = config.get("titleMaxLength", 100)
     description_max_length = config.get("descriptionMaxLength", 500)
+    images_max_count = config.get("imagesMaxCount", 8)
+    image_max_bytes = config.get("imageMaxBytes", 1_048_576)
 
     for manifest_path in manifest_paths:
         package_label = str(manifest_path.relative_to(repo_root))
@@ -198,6 +200,20 @@ def main() -> None:
                     "ERROR: Thumbnail not found "
                     f"({ _format_value(thumbnail) }) in {package_label}."
                 )
+            else:
+                try:
+                    thumbnail_size = thumbnail_path.stat().st_size
+                    if thumbnail_size > image_max_bytes:
+                        errors.append(
+                            "ERROR: Thumbnail exceeds max size "
+                            f"(bytes={thumbnail_size}, limit={image_max_bytes}) "
+                            f"({ _format_value(thumbnail) }) in {package_label}."
+                        )
+                except OSError as exc:
+                    errors.append(
+                        "ERROR: Failed to stat thumbnail "
+                        f"({ _format_value(thumbnail) }) in {package_label}: {exc}"
+                    )
 
         images = manifest.get("images")
         if not isinstance(images, list) or not images:
@@ -206,10 +222,11 @@ def main() -> None:
                 f"({ _format_value(images) }) in {package_label}."
             )
         else:
-            if len(images) > 8:
+            if len(images) > images_max_count:
                 errors.append(
                     "ERROR: Too many images "
-                    f"(len={len(images)}, limit=8) in {package_label}."
+                    f"(len={len(images)}, limit={images_max_count}) "
+                    f"in {package_label}."
                 )
             for image in images:
                 if not isinstance(image, str) or not image.strip():
@@ -227,10 +244,10 @@ def main() -> None:
                 else:
                     try:
                         image_size = image_path.stat().st_size
-                        if image_size > 1_048_576:
+                        if image_size > image_max_bytes:
                             errors.append(
-                                "ERROR: Image exceeds 1MB "
-                                f"(bytes={image_size}, limit=1048576) "
+                                "ERROR: Image exceeds max size "
+                                f"(bytes={image_size}, limit={image_max_bytes}) "
                                 f"({ _format_value(image) }) in {package_label}."
                             )
                     except OSError as exc:
