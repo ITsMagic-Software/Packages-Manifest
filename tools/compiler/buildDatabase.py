@@ -349,6 +349,13 @@ def main() -> None:
                     f"({ _format_value(description_b64) }) in {package_label}."
                 )
 
+        app_major_version = manifest.get("appMajorVersion")
+        if app_major_version not in {1, 2}:
+            errors.append(
+                "ERROR: appMajorVersion must be 1 or 2 "
+                f"({ _format_value(app_major_version) }) in {package_label}."
+            )
+
         updated_manifest = dict(manifest)
         updated_manifest["id"] = package_id
         updated_manifest["userName"] = username_from_path

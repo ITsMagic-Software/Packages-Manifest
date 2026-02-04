@@ -7,6 +7,7 @@
     "isTemplate": false,
     "date": "02/02/2026",
     "thumbnail": "capa.png",
+    "appMajorVersion": 2,
     "images": [
         "img2.png",
         "img3.png",

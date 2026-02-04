@@ -9,6 +9,7 @@
       "isTemplate": true,
       "date": "02/02/2026",
       "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/acp/thumb.jpg",
+      "appMajorVersion": 2,
       "images": [
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/acp/img1.jpg",
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/acp/img2.jpg",
@@ -27,6 +28,7 @@
       "isTemplate": true,
       "date": "02/02/2026",
       "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/afpp/thumb.jpg",
+      "appMajorVersion": 2,
       "images": [
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/afpp/img1.jpg",
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/afpp/img2.jpg",
@@ -44,6 +46,7 @@
       "isTemplate": true,
       "date": "02/02/2026",
       "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/cavechurch/thumb.jpg",
+      "appMajorVersion": 2,
       "images": [
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/cavechurch/img1.jpg",
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/cavechurch/img2.jpg",
@@ -62,6 +65,7 @@
       "isTemplate": true,
       "date": "02/02/2026",
       "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/drift-acp/thumb.jpg",
+      "appMajorVersion": 2,
       "images": [
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/drift-acp/img1.jpg",
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/drift-acp/img2.jpg",
@@ -80,6 +84,7 @@
       "isTemplate": false,
       "date": "02/02/2026",
       "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V1/capa.png",
+      "appMajorVersion": 2,
       "images": [
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V1/img2.png",
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V1/img3.png",
