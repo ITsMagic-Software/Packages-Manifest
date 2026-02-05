@@ -1,7 +1,7 @@
 {
     "titleB64": "Q2xvdGggU2ltdWxhdGlvbiBTeXN0ZW0gZm9yIElUc01hZ2ljIEVuZ2luZQ==",
     "descriptionB64": "U2ltcGxlIGNsb3RoIHNpbXVsYXRpb24gc3lzdGVtIGZvciBJVHNNYWdpYyBFbmdpbmUuIEluY2x1ZGVzIGJhc2ljIGNvbGxpc2lvbiBzdXBwb3J0LCBtdWx0aXBsZSBjb25maWd1cmF0aW9uIG9wdGlvbnMsIGFuZCBhbiBlZGl0b3Igc2V0dXAuIENvbWVzIHdpdGggYSBjb21wbGV0ZSBIT1dfVE9fVVNFIGd1aWRlLg==",
-    "tags": "cloth,mesh,physics,fisica",
+    "tags": "cloth,mesh,physics",
     "version": 1,
     "repositoryURL": "https://github.com/Vitg1/Mesh-Simulation-System-v1",
     "isTemplate": false,

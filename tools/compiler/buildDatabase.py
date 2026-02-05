@@ -359,6 +359,8 @@ def main() -> None:
         updated_manifest = dict(manifest)
         updated_manifest["id"] = package_id
         updated_manifest["userName"] = username_from_path
+        if isinstance(tags, str):
+            updated_manifest["tags"] = tags.lower()
         rel_package_dir = manifest_path.parent.relative_to(packages_root).as_posix()
         media_folder = updated_manifest.get("mediaFolder")
         folder = media_folder.strip() if isinstance(media_folder, str) else ""
