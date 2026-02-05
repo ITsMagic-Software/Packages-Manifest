@@ -114,8 +114,27 @@
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V2/img6.png",
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V2/img7.png"
       ],
-      "id": "123bed93-1be6-439f-8d44-e94d79026de9",
+      "id": "4beff607-dba3-4804-9d1a-9814bcb4945d",
       "userName": "Vitg1"
+    },
+    {
+      "titleB64": "Q2FyZ28gdHJ1Y2sgcGh5c2ljcw==",
+      "descriptionB64": "VmVyeSBzaW1wbGUgY2FyIHBoeXNpY3MgbWFkZSBvbiBJVHNNYWdpYyBFbmdpbmU=",
+      "tags": "truck,car,physics,control",
+      "version": 3,
+      "appMajorVersion": 1,
+      "repositoryURL": "https://github.com/malik-mohamed-2009/truck-physics-for-itsmagic-1",
+      "isTemplate": true,
+      "date": "07/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/malik-mohamed/cargo-truck/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/malik-mohamed/cargo-truck/img1.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/malik-mohamed/cargo-truck/img2.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/malik-mohamed/cargo-truck/img3.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/malik-mohamed/cargo-truck/img4.jpg"
+      ],
+      "id": "d3e3a326-3620-4def-9a95-4e0e482ad0ee",
+      "userName": "malik-mohamed"
     },
     {
       "titleB64": "VUkgZXhhbXBsZXM=",
@@ -131,7 +150,7 @@
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/malik-mohamed/ui-exp/img1.jpg",
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/malik-mohamed/ui-exp/img2.jpg"
       ],
-      "id": "75855a9f-bfee-45aa-b261-cb83a942c543",
+      "id": "a9d252c8-8cf0-4647-aa25-35f987740d47",
       "userName": "malik-mohamed"
     }
   ]
