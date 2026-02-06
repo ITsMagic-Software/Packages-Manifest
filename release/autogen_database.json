@@ -38,6 +38,38 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "Qm90dGxl",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJvdHRsZQ==",
+      "tags": "prop,bottle,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Bottle",
+      "isTemplate": false,
+      "date": "06/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/bottle/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/bottle/img1.jpg"
+      ],
+      "id": "2561f4ea-a203-4d0b-bfc1-1776c8c2ab7e",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "Qm94",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJveA==",
+      "tags": "box,props,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Box",
+      "isTemplate": false,
+      "date": "06/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/box/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/box/img1.jpg"
+      ],
+      "id": "ac746369-91cc-4d5e-ab09-7abb67dd6703",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "Q2F2ZSBjaHVyY2ggKEhJR0ggR1JBUEhJQ1Mp",
       "descriptionB64": "VW5kZXJncm91bmQgY2h1cmNoIHByb2plY3Qgd2l0aCBhbWF6aW5nIGdyYXBoY2lzLg==",
       "tags": "graphics,afpp",
@@ -114,7 +146,7 @@
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V2/img6.png",
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V2/img7.png"
       ],
-      "id": "1c258445-f480-4e88-996b-da275a9cd8ae",
+      "id": "d1c9e847-9f53-4d4e-b889-a4f7385b049e",
       "userName": "Vitg1"
     },
     {
@@ -133,7 +165,7 @@
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/malik-mohamed/cargo-truck/img3.jpg",
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/malik-mohamed/cargo-truck/img4.jpg"
       ],
-      "id": "648a8cdd-1a65-436e-b954-17684d1a1df5",
+      "id": "ef181efb-ff26-47c4-8591-8c49a5434ef6",
       "userName": "malik-mohamed"
     },
     {
@@ -150,7 +182,7 @@
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/malik-mohamed/ui-exp/img1.jpg",
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/malik-mohamed/ui-exp/img2.jpg"
       ],
-      "id": "34ba0a99-0242-4558-baea-d07832397c76",
+      "id": "b6dfb8e1-5a25-4cea-b36f-2f207a6dd92c",
       "userName": "malik-mohamed"
     }
   ]
