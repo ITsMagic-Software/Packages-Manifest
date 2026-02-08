@@ -1,0 +1,15 @@
+{
+    "titleB64": "RHluYW1pYyBJbnB1dCBLZXk=",
+    "descriptionB64": "U2ltcGxlLCBDYXN1YWwgS2V5IFN5c3RlbXMgd2l0aCBEb3VibGUgVGFwcywgUmVsZWFzZSwgZXRjLg==",
+    "tags": "ui,key",
+    "version": 1,
+    "appMajorVersion": 1,
+    "repositoryURL": "https://github.com/malik-mohamed-2009/input-key-itsmagic",
+    "isTemplate": false,
+    "date": "08/02/2026",
+    "thumbnail": "thumb.png",
+    "images": [
+        "img1.png",
+        "img2.png"
+    ]
+}
