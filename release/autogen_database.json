@@ -20,6 +20,25 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "QUNQIC0gQWR2YW5jZWQgQ2FyIFBoeXNpY3M=",
+      "descriptionB64": "QUNQIC0gQWR2YW5jZWQgQ2FyIFBoeXNpY3MKQWR2YW5jZWQgVmVoaWNsZSBQaHljaWNzCgpJdCBoYXMgc21hcnQgc2tpZCBtYXJrcyB3aXRoIHZhcmlvdXMgc2V0dGluZ3MuCgpDYXIgc291bmQ6Ci0gU3BvcnQgQ2FyIFNvdW5kCi0gRGllc2VsIEVuZ2luZSBTb3VuZAoKU3VzcGVuc2lvbiBTaW11bGF0aW9uOgotIFNpbXVsYXRlcyB3aGVlbCBjYW1iZXIKLSBBZHZhbmNlZCBzdXNwZW5zaW9uCi0gU3VzcGVuc2lvbiBzcHJpbmdzCi0gU3VzcGVuc2lvbiBheGxlCgpBIHRydWNrIGV4YW1wbGUgd2l0aCB0cmFpbGVyLgoKSXQgaXMgcG9zc2libGUgdG8gY29uZmlndXJlIHRoZSB2ZWhpY2xlJ3MgcG93ZXIgaW4gaG9yc2Vwb3dlci4=",
+      "tags": "acp",
+      "version": 1,
+      "repositoryURL": "https://github.com/itsvks19/TemplateV1-ACP",
+      "isTemplate": true,
+      "date": "12/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/acp-v1/thumb.jpg",
+      "appMajorVersion": 1,
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/acp-v1/img1.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/acp-v1/img2.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/acp-v1/img3.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/acp-v1/img4.jpg"
+      ],
+      "id": "5d42a97f-2b73-4737-8a82-2002a7bcea91",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "Rmlyc3QgcGVyc29uIHBsYXllciBwcm9qZWN0IChBRlBQKQ==",
       "descriptionB64": "T2ZmaWNpYWwgYWR2YW5jZWQgZmlyc3QgcGVyc29uIHBsYXllcgoKSXQgaXMgYSBmdWxseSBjb25maWd1cmVkIGFuZCBmdW5jdGlvbmFsIHBsYXllci4KCkl0IGhhcyBhIGNvbnRyb2wgaW50ZXJmYWNlLgpBZHZhbmNlZCBmb290c3RlcCBzb3VuZHMgd2l0aCBmcmVxdWVuY3ksIHBpdGNoIGFuZCB2b2x1bWUgdmFyaWF0aW9uIGJhc2VkIG9uIHNwZWVkIGFuZCBzY2VuZSBzZXR0aW5ncy4KRGlmZmVyZW50IHR5cGVzIG9mIGZvb3RzdGVwIHNvdW5kcyBhcmUgZW1pdHRlZCBiYXNlZCBvbiB0aGUgc3VyZmFjZSB0aGUgcGxheWVyIGlzIHN0YW5kaW5nIG9uLgoKQ2hhcmFjdGVyaXN0aWNzOgpkb2VzIG5vdCBjcm9zcyBjb2xsaXNpb25zCnVzZSBqb3lzdGljawpPbmx5IHVzZXMgc3dpcGVzIGlmIHdpdGhpbiBhIGRlZmluZWQgYXJlYSBvZiB0aGUgc2NyZWVuCkl0IGhhcyBhIHNsaWRpbmcgc3lzdGVtCldvbnQgdHJpcCwgZmFsbCwgb3ZlcnR1cm4gb3IgaGFuZyBhbnl3aGVyZQpIYXMgcm90YXRpb24gYW5nbGUgbGltaXQgb24gdmVydGljYWwgZmluZ2VyIHNsaWRlIGF4aXMgKGxvb2sgdXAgYW5kIGRvd24pCkFkdmFuY2VkIGp1bXAgZmVhdHVyZQoKRXh0cmFzOgpBIHdvcmxkIG9mIGV4YW1wbGUKVGhlIFVJIGNvbmZpZ3VyZWQgZm9yIHBsYXllciBjb250cm9s",
       "tags": "afpp",
@@ -35,6 +54,66 @@
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/afpp/img3.jpg"
       ],
       "id": "9405b011-855a-4cbd-8264-a93e91b680b3",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QUZQUCAoT2ZmaWNpYWwgSVRzTWFnaWMp",
+      "descriptionB64": "T2ZmaWNpYWwgZmlyc3QgcGVyc29uIHBsYXllcgoKSXQgaXMgYSBmdWxseSBjb25maWd1cmVkIGFuZCBmdW5jdGlvbmFsIHBsYXllci4KCkl0IGhhcyBhIGNvbnRyb2wgaW50ZXJmYWNlLgpBZHZhbmNlZCBmb290c3RlcCBzb3VuZCB3aXRoIGZyZXF1ZW5jeSwgcGl0Y2ggYW5kIHZvbHVtZSB2YXJpYXRpb24gYmFzZWQgb24gc3BlZWQgYW5kIHNjZW5lIHNldHRpbmdzLgpEaWZmZXJlbnQgdHlwZXMgb2YgZm9vdHN0ZXAgc291bmRzIGFyZSBlbWl0dGVkIGJhc2VkIG9uIHRoZSBzdXJmYWNlIHRoZSBwbGF5ZXIgaXMgc3RhbmRpbmcgb24uCgpEZXZlbG9wZWQgaW4gSmF2YS4KCkNoYXJhY3RlcmlzdGljczoKLSBkb2VzIG5vdCBjcm9zcyBjb2xsaXNpb25zCi0gdXNlcyBqb3lzdGljawotIG9ubHkgdXNlcyBzd2lwZXMgaWYgd2l0aGluIGEgZGVmaW5lZCBhcmVhIG9mIHRoZSBzY3JlZW4KLSBoYXMgc2xpZGluZyBzeXN0ZW0KLSB3b250IHRyaXAsIGZhbGwsIG92ZXJ0dXJuIG9yIGhhbmcgYW55d2hlcmUKLSBoYXMgcm90YXRpb24gYW5nbGUgbGltaXQgb24gdmVydGljYWwgZmluZ2VyIHNsaWRlIGF4aXMgKGxvb2sgdXAgYW5kIGRvd24pCi0gYWR2YW5jZWQganVtcCBmZWF0dXJlCgpFeHRyYXM6Ci0gQSB3b3JsZCBvZiBleGFtcGxlCi0gVGhlIFVJIGNvbmZpZ3VyZWQgZm9yIHBsYXllciBjb250cm9s",
+      "tags": "afpp,fpp",
+      "version": 1,
+      "repositoryURL": "https://github.com/itsvks19/TemplateV1-AFPP",
+      "isTemplate": true,
+      "date": "12/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/afpp-v1/img1.png",
+      "appMajorVersion": 1,
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/afpp-v1/img2.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/afpp-v1/img3.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/afpp-v1/img4.png"
+      ],
+      "id": "a45b21ec-fcd2-4718-ac57-a4a4ec0d552f",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QU1QIC0gQWR2YW5jZWQgTW90ZXJjeWNsZSBQaHlzaWNz",
+      "descriptionB64": "VU5ERVIgREVWRUxPUE1FTlQhCgpQYWNrYWdlIHdpbGwgYmUgdXBkYXRlZCBjb25zdGFudGx5LgotIE1vdGVyY3ljbGUgcGh5c2ljcw==",
+      "tags": "amp,motercycle,physics",
+      "version": 1,
+      "repositoryURL": "https://github.com/itsvks19/TemplateV1-AMP",
+      "isTemplate": true,
+      "date": "12/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/amp-v1/img4.png",
+      "appMajorVersion": 1,
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/amp-v1/img1.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/amp-v1/img3.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/amp-v1/img2.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/amp-v1/img4.png"
+      ],
+      "id": "db259d95-f826-4f00-9a75-e4884c7eb7dd",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QmF5IENpdHkgKHdpdGggY2FyKQ==",
+      "descriptionB64": "QSBjb21wbGV0ZSBjaXR5IHdpdGggYSBuaWNlIHBpY2t1cCBmb3IgZXhwbG9yYXRpb24u",
+      "tags": "city,baycity",
+      "version": 1,
+      "repositoryURL": "https://github.com/itsvks19/TemplateV1-BayCity",
+      "isTemplate": true,
+      "date": "12/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/baycity-v1/img5.png",
+      "appMajorVersion": 1,
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/baycity-v1/img1.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/baycity-v1/img3.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/baycity-v1/img2.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/baycity-v1/img4.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/baycity-v1/img5.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/baycity-v1/img6.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/baycity-v1/img7.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/baycity-v1/img8.png"
+      ],
+      "id": "e9f6e1e1-efc2-470f-b50a-7288678b35d7",
       "userName": "ITsMagic"
     },
     {
@@ -99,6 +178,24 @@
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/broken-coffee-cup/img1.jpg"
       ],
       "id": "1dda545c-ad4d-4a6c-964f-47488a8ac89f",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "Q2FyZ28gVHJ1Y2sgUGh5c2ljcw==",
+      "descriptionB64": "U2ltcGxlIGNhcmdvIHRydWNrIHBoeXNpY3MgbWFkZSB3aXRoIGphdmE=",
+      "tags": "truck,cargo,physics",
+      "version": 1,
+      "repositoryURL": "https://github.com/itsvks19/TemplateV1-CargoTruckPhysics",
+      "isTemplate": true,
+      "date": "12/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/cargo-truck-physics-v1/img2.png",
+      "appMajorVersion": 1,
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/cargo-truck-physics-v1/img1.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/cargo-truck-physics-v1/img3.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/cargo-truck-physics-v1/img2.png"
+      ],
+      "id": "d2bdb066-2021-46fa-a9f6-d3598bdd25ec",
       "userName": "ITsMagic"
     },
     {
@@ -201,6 +298,44 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "Q3JhenkgUmFjZXJz",
+      "descriptionB64": "VGhlIENyYXp5UmFjZXJz",
+      "tags": "crazyracers,car,racing,crazy",
+      "version": 1,
+      "repositoryURL": "https://github.com/itsvks19/TemplateV1-CrazyRacers",
+      "isTemplate": true,
+      "date": "12/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/crazy-racers-v1/img1.png",
+      "appMajorVersion": 1,
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/crazy-racers-v1/img1.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/crazy-racers-v1/img3.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/crazy-racers-v1/img2.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/crazy-racers-v1/img4.png"
+      ],
+      "id": "bfbd6d34-4d75-4777-993e-4fd35e32e784",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "Q1MgQXNzYXVsdCBNYXA=",
+      "descriptionB64": "Q291bnRlciBTdHJpa2UgMS42IEFzc2F1bHQgTWFwIHdpdGggQUZQUAoKVGhpcyBwcm9qZWN0IGNvbnRhaW5zIGNvcHlyaWdodGVkIGNvbnRlbnQuIEl0IHNob3VsZCBiZSB1c2VkIGZvciBzdHVkeSBwdXJwb3NlcyBvbmx5Lg==",
+      "tags": "cs,map,afpp,csassaultmap",
+      "version": 1,
+      "repositoryURL": "https://github.com/itsvks19/TemplateV1-CSAssaultMap",
+      "isTemplate": true,
+      "date": "12/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/cs-assault-map-v1/img4.png",
+      "appMajorVersion": 1,
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/cs-assault-map-v1/img1.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/cs-assault-map-v1/img3.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/cs-assault-map-v1/img2.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/cs-assault-map-v1/img4.png"
+      ],
+      "id": "f94db85d-e3d7-44e7-8932-7510ea94dc07",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "QUNQIC0gRHJpZnQgY2Fy",
       "descriptionB64": "RHJpZnQgY2FyIG1hZGUgdXNpbmcgQUNQ",
       "tags": "acp",
@@ -252,6 +387,101 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "R1RBIDEgRnVsbCBNYXA=",
+      "descriptionB64": "R1RBIDEgRnVsbCBNYXAKClRoaXMgcHJvamVjdCBjb250YWlucyBjb3B5cmlnaHRlZCBjb250ZW50LiBJdCBzaG91bGQgYmUgdXNlZCBmb3Igc3R1ZHkgcGVycG9zZXMgb25seS4=",
+      "tags": "gta,map,fullmap",
+      "version": 1,
+      "repositoryURL": "https://github.com/itsvks19/TemplateV1-GTA1FullMap",
+      "isTemplate": true,
+      "date": "12/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/gta1-full-map-v1/thumb.png",
+      "appMajorVersion": 1,
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/gta1-full-map-v1/img1.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/gta1-full-map-v1/img3.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/gta1-full-map-v1/img2.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/gta1-full-map-v1/img4.png"
+      ],
+      "id": "716c4c66-9b94-4ae2-a1eb-3ef5ce81372e",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "SW5maW5pdGUgVm94ZWwgR2FtZQ==",
+      "descriptionB64": "SW5maW5pdGUgd29ybGQgdm94ZWwgZ2FtZSBpbiBkZXZlbG9wZW1lbnQKdXBkYXRlcyBhcmUgY29taW5nLg==",
+      "tags": "voxel,infinite,world",
+      "version": 1,
+      "repositoryURL": "https://github.com/itsvks19/TemplateV1-InfiniteVoxel",
+      "isTemplate": true,
+      "date": "12/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/infinite-voxel-v1/img2.png",
+      "appMajorVersion": 1,
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/infinite-voxel-v1/img1.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/infinite-voxel-v1/img3.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/infinite-voxel-v1/img2.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/infinite-voxel-v1/img4.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/infinite-voxel-v1/img5.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/infinite-voxel-v1/img6.png"
+      ],
+      "id": "1c563a24-f9ba-4cb9-99a7-ed5c1f405037",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "TWFnaWNCb3kgLSBUaGlyZCBQZXJzb24gUGxheWVy",
+      "descriptionB64": "TWFnaWNCb3kgQWR2ZW50dXJlcwpUaGlyZCBwZXJzb24gcGxheWVyIHByb2plY3QKClpvbWJpZXMga2VlcCBzcGF3bmluZw==",
+      "tags": "magicboy,zombie,tpp",
+      "version": 1,
+      "repositoryURL": "https://github.com/itsvks19/TemplateV1-MagicBoy",
+      "isTemplate": true,
+      "date": "12/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/magicboy-v1/thumb.png",
+      "appMajorVersion": 1,
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/magicboy-v1/img1.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/magicboy-v1/img3.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/magicboy-v1/img4.png"
+      ],
+      "id": "b945efa4-f3a7-4580-8308-2236e33114dd",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "TWFnaWMgRmFybWVy",
+      "descriptionB64": "QSBmdW4gZmFybWluZyBnYW1lIHVuZGVyIGRldmVsb3BlbWVudApXaWxsIHJlY2lldmUgdXBkYXRlcy4=",
+      "tags": "magicfarmer,farmer,magic",
+      "version": 1,
+      "repositoryURL": "https://github.com/itsvks19/TemplateV1-MagicFarmer",
+      "isTemplate": true,
+      "date": "12/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/magicfarmer-v1/img1.png",
+      "appMajorVersion": 1,
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/magicfarmer-v1/img1.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/magicfarmer-v1/img2.png"
+      ],
+      "id": "de357506-7068-4512-ba33-ef518cf87fb0",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "UmVhbGlzdGljIFdhdGVyIFBoeXNpY3M=",
+      "descriptionB64": "UmVhbGlzdGljIHdhdGVyIHNoYWRlciB3aXRoIHBoeXNpY3MKClRoaXMgcHJvamVjdCB3aWxsIHJlY2VpdmUgdXBkYXRlcy4KCllvdSBuZWVkIHRvIGFkZCAiV2F0ZXIgY29udHJvbGxlciIgdG8gZXZlcnkgd29ybGQgeW91IG5lZWQgd2F0ZXIgcGh5c2ljcw==",
+      "tags": "water,realistic,shader",
+      "version": 1,
+      "repositoryURL": "https://github.com/itsvks19/TemplateV1-RealisticWaterPhysics",
+      "isTemplate": true,
+      "date": "12/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/realistic-water-physics-v1/img1.png",
+      "appMajorVersion": 1,
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/realistic-water-physics-v1/img1.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/realistic-water-physics-v1/img3.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/realistic-water-physics-v1/img2.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/realistic-water-physics-v1/img4.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/realistic-water-physics-v1/img5.png"
+      ],
+      "id": "d4ca4424-08e1-4147-8271-b09698237b42",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "Q291bnRlcg==",
       "descriptionB64": "QXNzZXRzIHBhY2s6IENvdW50ZXI=",
       "tags": "graphics,assets,model",
@@ -265,6 +495,63 @@
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/table/img1.jpg"
       ],
       "id": "adae89d4-6567-4884-a46f-914a903699de",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "VGhlIExhc3QgSG91cg==",
+      "descriptionB64": "Rm9yZXN0IG1hcAoKRGV2ZWxvcGVkIGJ5IERhdml6aW0zRA==",
+      "tags": "thelasthour,map,forest,lasthour",
+      "version": 1,
+      "repositoryURL": "https://github.com/itsvks19/TemplateV1-TheLastHour",
+      "isTemplate": true,
+      "date": "12/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/the-last-hour-v1/img6.png",
+      "appMajorVersion": 1,
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/the-last-hour-v1/img1.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/the-last-hour-v1/img3.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/the-last-hour-v1/img2.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/the-last-hour-v1/img4.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/the-last-hour-v1/img5.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/the-last-hour-v1/img6.png"
+      ],
+      "id": "4ca042af-2b64-4cbc-a962-4c5f09918f81",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "VHJvcGljYWwgSXNsYW5k",
+      "descriptionB64": "UmVhbGlzdGljIHRyb3BpY2FsIGlzbGFuZCBwcm9qZWN0IHdpdGggYWZwcA==",
+      "tags": "island,tropicalisland,tropical,afpp",
+      "version": 1,
+      "repositoryURL": "https://github.com/itsvks19/TemplateV1-TropicalIsland",
+      "isTemplate": true,
+      "date": "12/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/tropical-island-v1/img1.png",
+      "appMajorVersion": 1,
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/tropical-island-v1/img1.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/tropical-island-v1/img3.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/tropical-island-v1/img2.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/tropical-island-v1/img4.png"
+      ],
+      "id": "f225f555-ffc0-458a-96ce-f87c4214c919",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "Wm9tYmllIEhvcmRl",
+      "descriptionB64": "QSByZWFsaXN0aWMgRlBTIGdhbWUuClByb2plY3QgaW4gZGV2ZWxvcG1lbnQsIHdpbGwgcmVjZWl2ZSB1cGRhdGVzLg==",
+      "tags": "zombie,zombiehorde,fps",
+      "version": 1,
+      "repositoryURL": "https://github.com/itsvks19/TemplateV1-ZombieHorde",
+      "isTemplate": true,
+      "date": "12/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/zombie-horde-v1/img1.png",
+      "appMajorVersion": 1,
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/zombie-horde-v1/img1.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/zombie-horde-v1/img2.png"
+      ],
+      "id": "a83bf052-b3b8-4e45-a997-a937eb44696b",
       "userName": "ITsMagic"
     },
     {
