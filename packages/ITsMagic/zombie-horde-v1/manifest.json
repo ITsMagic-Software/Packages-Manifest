@@ -1,0 +1,15 @@
+{
+    "titleB64": "Wm9tYmllIEhvcmRl",
+    "descriptionB64": "QSByZWFsaXN0aWMgRlBTIGdhbWUuClByb2plY3QgaW4gZGV2ZWxvcG1lbnQsIHdpbGwgcmVjZWl2ZSB1cGRhdGVzLg==",
+    "tags": "zombie,zombiehorde,fps",
+    "version": 1,
+    "repositoryURL": "https://github.com/itsvks19/TemplateV1-ZombieHorde",
+    "isTemplate": true,
+    "date": "12/02/2026",
+    "thumbnail": "img1.jpg",
+    "appMajorVersion": 1,
+    "images": [
+        "img1.jpg",
+        "img2.jpg"
+    ]
+}

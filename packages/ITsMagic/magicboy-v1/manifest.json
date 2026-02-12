@@ -1,0 +1,16 @@
+{
+    "titleB64": "TWFnaWNCb3kgLSBUaGlyZCBQZXJzb24gUGxheWVy",
+    "descriptionB64": "TWFnaWNCb3kgQWR2ZW50dXJlcwpUaGlyZCBwZXJzb24gcGxheWVyIHByb2plY3QKClpvbWJpZXMga2VlcCBzcGF3bmluZw==",
+    "tags": "magicboy,zombie,tpp",
+    "version": 1,
+    "repositoryURL": "https://github.com/itsvks19/TemplateV1-MagicBoy",
+    "isTemplate": true,
+    "date": "12/02/2026",
+    "thumbnail": "thumb.jpg",
+    "appMajorVersion": 1,
+    "images": [
+        "img1.jpg",
+        "img3.jpg",
+        "img4.jpg"
+    ]
+}

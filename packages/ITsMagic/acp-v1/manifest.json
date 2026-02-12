@@ -1,0 +1,17 @@
+{
+    "titleB64": "QUNQIC0gQWR2YW5jZWQgQ2FyIFBoeXNpY3M=",
+    "descriptionB64": "QUNQIC0gQWR2YW5jZWQgQ2FyIFBoeXNpY3MKQWR2YW5jZWQgVmVoaWNsZSBQaHljaWNzCgpJdCBoYXMgc21hcnQgc2tpZCBtYXJrcyB3aXRoIHZhcmlvdXMgc2V0dGluZ3MuCgpDYXIgc291bmQ6Ci0gU3BvcnQgQ2FyIFNvdW5kCi0gRGllc2VsIEVuZ2luZSBTb3VuZAoKU3VzcGVuc2lvbiBTaW11bGF0aW9uOgotIFNpbXVsYXRlcyB3aGVlbCBjYW1iZXIKLSBBZHZhbmNlZCBzdXNwZW5zaW9uCi0gU3VzcGVuc2lvbiBzcHJpbmdzCi0gU3VzcGVuc2lvbiBheGxlCgpBIHRydWNrIGV4YW1wbGUgd2l0aCB0cmFpbGVyLgoKSXQgaXMgcG9zc2libGUgdG8gY29uZmlndXJlIHRoZSB2ZWhpY2xlJ3MgcG93ZXIgaW4gaG9yc2Vwb3dlci4=",
+    "tags": "acp",
+    "version": 1,
+    "repositoryURL": "https://github.com/itsvks19/TemplateV1-ACP",
+    "isTemplate": true,
+    "date": "12/02/2026",
+    "thumbnail": "thumb.jpg",
+    "appMajorVersion": 1,
+    "images": [
+        "img1.jpg",
+        "img2.jpg",
+        "img3.jpg",
+        "img4.jpg"
+    ]
+}

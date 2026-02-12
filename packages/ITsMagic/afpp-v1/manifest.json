@@ -1,0 +1,16 @@
+{
+    "titleB64": "QUZQUCAoT2ZmaWNpYWwgSVRzTWFnaWMp",
+    "descriptionB64": "T2ZmaWNpYWwgZmlyc3QgcGVyc29uIHBsYXllcgoKSXQgaXMgYSBmdWxseSBjb25maWd1cmVkIGFuZCBmdW5jdGlvbmFsIHBsYXllci4KCkl0IGhhcyBhIGNvbnRyb2wgaW50ZXJmYWNlLgpBZHZhbmNlZCBmb290c3RlcCBzb3VuZCB3aXRoIGZyZXF1ZW5jeSwgcGl0Y2ggYW5kIHZvbHVtZSB2YXJpYXRpb24gYmFzZWQgb24gc3BlZWQgYW5kIHNjZW5lIHNldHRpbmdzLgpEaWZmZXJlbnQgdHlwZXMgb2YgZm9vdHN0ZXAgc291bmRzIGFyZSBlbWl0dGVkIGJhc2VkIG9uIHRoZSBzdXJmYWNlIHRoZSBwbGF5ZXIgaXMgc3RhbmRpbmcgb24uCgpEZXZlbG9wZWQgaW4gSmF2YS4KCkNoYXJhY3RlcmlzdGljczoKLSBkb2VzIG5vdCBjcm9zcyBjb2xsaXNpb25zCi0gdXNlcyBqb3lzdGljawotIG9ubHkgdXNlcyBzd2lwZXMgaWYgd2l0aGluIGEgZGVmaW5lZCBhcmVhIG9mIHRoZSBzY3JlZW4KLSBoYXMgc2xpZGluZyBzeXN0ZW0KLSB3b250IHRyaXAsIGZhbGwsIG92ZXJ0dXJuIG9yIGhhbmcgYW55d2hlcmUKLSBoYXMgcm90YXRpb24gYW5nbGUgbGltaXQgb24gdmVydGljYWwgZmluZ2VyIHNsaWRlIGF4aXMgKGxvb2sgdXAgYW5kIGRvd24pCi0gYWR2YW5jZWQganVtcCBmZWF0dXJlCgpFeHRyYXM6Ci0gQSB3b3JsZCBvZiBleGFtcGxlCi0gVGhlIFVJIGNvbmZpZ3VyZWQgZm9yIHBsYXllciBjb250cm9s",
+    "tags": "afpp,fpp",
+    "version": 1,
+    "repositoryURL": "https://github.com/itsvks19/TemplateV1-AFPP",
+    "isTemplate": true,
+    "date": "12/02/2026",
+    "thumbnail": "img1.jpg",
+    "appMajorVersion": 1,
+    "images": [
+        "img2.jpg",
+        "img3.jpg",
+        "img4.jpg"
+    ]
+}

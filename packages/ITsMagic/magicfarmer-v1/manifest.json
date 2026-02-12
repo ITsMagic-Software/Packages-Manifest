@@ -1,0 +1,15 @@
+{
+    "titleB64": "TWFnaWMgRmFybWVy",
+    "descriptionB64": "QSBmdW4gZmFybWluZyBnYW1lIHVuZGVyIGRldmVsb3BlbWVudApXaWxsIHJlY2lldmUgdXBkYXRlcy4=",
+    "tags": "magicfarmer,farmer,magic",
+    "version": 1,
+    "repositoryURL": "https://github.com/itsvks19/TemplateV1-MagicFarmer",
+    "isTemplate": true,
+    "date": "12/02/2026",
+    "thumbnail": "img1.jpg",
+    "appMajorVersion": 1,
+    "images": [
+        "img1.jpg",
+        "img2.jpg"
+    ]
+}

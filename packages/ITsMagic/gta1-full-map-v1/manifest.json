@@ -1,0 +1,17 @@
+{
+    "titleB64": "R1RBIDEgRnVsbCBNYXA=",
+    "descriptionB64": "R1RBIDEgRnVsbCBNYXAKClRoaXMgcHJvamVjdCBjb250YWlucyBjb3B5cmlnaHRlZCBjb250ZW50LiBJdCBzaG91bGQgYmUgdXNlZCBmb3Igc3R1ZHkgcGVycG9zZXMgb25seS4=",
+    "tags": "gta,map,fullmap",
+    "version": 1,
+    "repositoryURL": "https://github.com/itsvks19/TemplateV1-GTA1FullMap",
+    "isTemplate": true,
+    "date": "12/02/2026",
+    "thumbnail": "thumb.jpg",
+    "appMajorVersion": 1,
+    "images": [
+        "img1.jpg",
+        "img3.jpg",
+        "img2.jpg",
+        "img4.jpg"
+    ]
+}

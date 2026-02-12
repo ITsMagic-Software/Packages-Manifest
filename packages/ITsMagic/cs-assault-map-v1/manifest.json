@@ -1,0 +1,17 @@
+{
+    "titleB64": "Q1MgQXNzYXVsdCBNYXA=",
+    "descriptionB64": "Q291bnRlciBTdHJpa2UgMS42IEFzc2F1bHQgTWFwIHdpdGggQUZQUAoKVGhpcyBwcm9qZWN0IGNvbnRhaW5zIGNvcHlyaWdodGVkIGNvbnRlbnQuIEl0IHNob3VsZCBiZSB1c2VkIGZvciBzdHVkeSBwdXJwb3NlcyBvbmx5Lg==",
+    "tags": "cs,map,afpp,csassaultmap",
+    "version": 1,
+    "repositoryURL": "https://github.com/itsvks19/TemplateV1-CSAssaultMap",
+    "isTemplate": true,
+    "date": "12/02/2026",
+    "thumbnail": "img4.jpg",
+    "appMajorVersion": 1,
+    "images": [
+        "img1.jpg",
+        "img3.jpg",
+        "img2.jpg",
+        "img4.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "titleB64": "VGhlIExhc3QgSG91cg==",
+    "descriptionB64": "Rm9yZXN0IG1hcAoKRGV2ZWxvcGVkIGJ5IERhdml6aW0zRA==",
+    "tags": "thelasthour,map,forest,lasthour",
+    "version": 1,
+    "repositoryURL": "https://github.com/itsvks19/TemplateV1-TheLastHour",
+    "isTemplate": true,
+    "date": "12/02/2026",
+    "thumbnail": "img6.jpg",
+    "appMajorVersion": 1,
+    "images": [
+        "img1.jpg",
+        "img3.jpg",
+        "img2.jpg",
+        "img4.jpg",
+        "img5.jpg",
+        "img6.jpg"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "titleB64": "SW5maW5pdGUgVm94ZWwgR2FtZQ==",
+    "descriptionB64": "SW5maW5pdGUgd29ybGQgdm94ZWwgZ2FtZSBpbiBkZXZlbG9wZW1lbnQKdXBkYXRlcyBhcmUgY29taW5nLg==",
+    "tags": "voxel,infinite,world",
+    "version": 1,
+    "repositoryURL": "https://github.com/itsvks19/TemplateV1-InfiniteVoxel",
+    "isTemplate": true,
+    "date": "12/02/2026",
+    "thumbnail": "img2.jpg",
+    "appMajorVersion": 1,
+    "images": [
+        "img1.jpg",
+        "img3.jpg",
+        "img2.jpg",
+        "img4.jpg",
+        "img5.jpg",
+        "img6.jpg"
+    ]
+}

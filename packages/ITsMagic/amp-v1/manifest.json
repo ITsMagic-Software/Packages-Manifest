@@ -1,0 +1,17 @@
+{
+    "titleB64": "QU1QIC0gQWR2YW5jZWQgTW90ZXJjeWNsZSBQaHlzaWNz",
+    "descriptionB64": "VU5ERVIgREVWRUxPUE1FTlQhCgpQYWNrYWdlIHdpbGwgYmUgdXBkYXRlZCBjb25zdGFudGx5LgotIE1vdGVyY3ljbGUgcGh5c2ljcw==",
+    "tags": "amp,motercycle,physics",
+    "version": 1,
+    "repositoryURL": "https://github.com/itsvks19/TemplateV1-AMP",
+    "isTemplate": true,
+    "date": "12/02/2026",
+    "thumbnail": "img4.jpg",
+    "appMajorVersion": 1,
+    "images": [
+        "img1.jpg",
+        "img3.jpg",
+        "img2.jpg",
+        "img4.jpg"
+    ]
+}

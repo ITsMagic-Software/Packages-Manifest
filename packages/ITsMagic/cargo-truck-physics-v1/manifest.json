@@ -1,0 +1,16 @@
+{
+    "titleB64": "Q2FyZ28gVHJ1Y2sgUGh5c2ljcw==",
+    "descriptionB64": "U2ltcGxlIGNhcmdvIHRydWNrIHBoeXNpY3MgbWFkZSB3aXRoIGphdmE=",
+    "tags": "truck,cargo,physics",
+    "version": 1,
+    "repositoryURL": "https://github.com/itsvks19/TemplateV1-CargoTruckPhysics",
+    "isTemplate": true,
+    "date": "12/02/2026",
+    "thumbnail": "img2.jpg",
+    "appMajorVersion": 1,
+    "images": [
+        "img1.jpg",
+        "img3.jpg",
+        "img2.jpg"
+    ]
+}
