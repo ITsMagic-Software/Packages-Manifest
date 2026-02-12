@@ -6,11 +6,11 @@
     "repositoryURL": "https://github.com/itsvks19/TemplateV1-MagicBoy",
     "isTemplate": true,
     "date": "12/02/2026",
-    "thumbnail": "thumb.jpg",
+    "thumbnail": "thumb.png",
     "appMajorVersion": 1,
     "images": [
-        "img1.jpg",
-        "img3.jpg",
-        "img4.jpg"
+        "img1.png",
+        "img3.png",
+        "img4.png"
     ]
 }
