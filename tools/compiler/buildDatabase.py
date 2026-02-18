@@ -379,7 +379,9 @@ def main() -> None:
                 )
             else:
                 invalid_tags = [
-                    tag for tag in tags.split(",") if not re.fullmatch(r"[A-Za-z_]+", tag)
+                    tag
+                    for tag in tags.split(",")
+                    if not re.fullmatch(r"[A-Za-z0-9_]+", tag)
                 ]
                 if invalid_tags:
                     errors.append(
