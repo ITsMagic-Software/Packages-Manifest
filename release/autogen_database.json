@@ -802,22 +802,6 @@
       "userName": "ITsMagic"
     },
     {
-      "titleB64": "U3F1YXJlVG93ZWw=",
-      "descriptionB64": "QXNzZXRzIHBhY2s6IFNxdWFyZVRvd2Vs",
-      "tags": "graphics,assets,model",
-      "version": 1,
-      "appMajorVersion": 2,
-      "repositoryURL": "https://github.com/ITsMagic-Software/Package-SquareTowel",
-      "isTemplate": false,
-      "date": "18/02/2026",
-      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/squaretowel/thumb.jpg",
-      "images": [
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/squaretowel/img1.jpg"
-      ],
-      "id": "4e53775c-64b1-44f0-ac0e-9289739ed1b3",
-      "userName": "ITsMagic"
-    },
-    {
       "titleB64": "Q291bnRlcg==",
       "descriptionB64": "QXNzZXRzIHBhY2s6IENvdW50ZXI=",
       "tags": "props,assets,model,3d",
@@ -857,7 +841,7 @@
     {
       "titleB64": "VHJhZmZpY1NpZ24=",
       "descriptionB64": "QXNzZXRzIHBhY2s6IFRyYWZmaWNTaWdu",
-      "tags": "props,assets,model,3d",
+      "tags": "graphics,assets,model",
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-TrafficSign",
@@ -951,22 +935,6 @@
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/wooden-pallet/img1.jpg"
       ],
       "id": "39545597-cd27-4093-949b-6bbe789c75b5",
-      "userName": "ITsMagic"
-    },
-    {
-      "titleB64": "V29vZGVuUGFsbGV0",
-      "descriptionB64": "QXNzZXRzIHBhY2s6IFdvb2RlblBhbGxldA==",
-      "tags": "graphics,assets,model",
-      "version": 1,
-      "appMajorVersion": 2,
-      "repositoryURL": "https://github.com/ITsMagic-Software/Package-WoodenPallet",
-      "isTemplate": false,
-      "date": "18/02/2026",
-      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/woodenpallet/thumb.jpg",
-      "images": [
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/woodenpallet/img1.jpg"
-      ],
-      "id": "7849caf8-d226-47cd-9df5-6fc4cd84c1c5",
       "userName": "ITsMagic"
     },
     {
