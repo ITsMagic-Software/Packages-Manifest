@@ -1,10 +1,10 @@
 {
-    "titleB64": "Qm94",
-    "descriptionB64": "QXNzZXRzIHBhY2s6IEJveA==",
+    "titleB64": "VGFibGVWYXJpYW50",
+    "descriptionB64": "QXNzZXRzIHBhY2s6IFRhYmxlVmFyaWFudA==",
     "tags": "graphics,assets,model",
     "version": 1,
     "appMajorVersion": 2,
-    "repositoryURL": "https://github.com/ITsMagic-Software/Package-Box",
+    "repositoryURL": "https://github.com/ITsMagic-Software/Package-TableVariant",
     "isTemplate": false,
     "date": "19/02/2026",
     "thumbnail": "thumb.jpg",
