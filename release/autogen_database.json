@@ -286,6 +286,22 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "QmFycmVsVmFyaWFudA==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJhcnJlbFZhcmlhbnQ=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-BarrelVariant",
+      "isTemplate": false,
+      "date": "23/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/barrel-variant/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/barrel-variant/img1.jpg"
+      ],
+      "id": "ccae1208-7ac2-44c5-8f57-69ff2e2e7592",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "QmF5IENpdHkgKHdpdGggY2FyKQ==",
       "descriptionB64": "QSBjb21wbGV0ZSBjaXR5IHdpdGggYSBuaWNlIHBpY2t1cCBmb3IgZXhwbG9yYXRpb24u",
       "tags": "city,baycity",
@@ -373,6 +389,22 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "Qm94VmFyaWFudA==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJveFZhcmlhbnQ=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-BoxVariant",
+      "isTemplate": false,
+      "date": "23/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/box-variant/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/box-variant/img1.jpg"
+      ],
+      "id": "6f4bc659-b3cf-42cc-b32b-42fe38ac07c5",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "QnJva2VuQm90dGxl",
       "descriptionB64": "QXNzZXRzIHBhY2s6IEJyb2tlbkJvdHRsZQ==",
       "tags": "props,assets,model,3d",
@@ -402,6 +434,22 @@
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/broken-coffee-cup/img1.jpg"
       ],
       "id": "1dda545c-ad4d-4a6c-964f-47488a8ac89f",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QnVja2V0",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJ1Y2tldA==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Bucket",
+      "isTemplate": false,
+      "date": "23/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/bucket/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/bucket/img1.jpg"
+      ],
+      "id": "4badf991-0740-4195-870a-5ccf44d5a701",
       "userName": "ITsMagic"
     },
     {
@@ -930,6 +978,38 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "U21hbGxUcmVl",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFNtYWxsVHJlZQ==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-SmallTree",
+      "isTemplate": false,
+      "date": "23/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/small-tree/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/small-tree/img1.jpg"
+      ],
+      "id": "a23061ff-4e42-40c2-a92d-b66a5c510e27",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "U21hbGxXYXRlclNvdXJjZQ==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFNtYWxsV2F0ZXJTb3VyY2U=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-SmallWaterSource",
+      "isTemplate": false,
+      "date": "23/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/small-water-source/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/small-water-source/img1.jpg"
+      ],
+      "id": "f52ad04c-2b48-48a1-9e1a-7f19d0bde4a6",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "U3F1YXJlVG93ZWw=",
       "descriptionB64": "QXNzZXRzIHBhY2s6IFNxdWFyZVRvd2Vs",
       "tags": "graphics,assets,model",
@@ -991,6 +1071,22 @@
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/table-variant/img1.jpg"
       ],
       "id": "8d212ce3-acf8-452a-ad11-b0ade50211bf",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "VGVudA==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFRlbnQ=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Tent",
+      "isTemplate": false,
+      "date": "23/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/tent/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/tent/img1.jpg"
+      ],
+      "id": "693ef0f0-3d95-43fe-acb1-6f95c17ed7f6",
       "userName": "ITsMagic"
     },
     {
@@ -1079,6 +1175,22 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "VHJlZQ==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFRyZWU=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Tree",
+      "isTemplate": false,
+      "date": "23/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/tree/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/tree/img1.jpg"
+      ],
+      "id": "1f3478a0-d545-4928-afd4-739e80cea87f",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "VHJvcGljYWwgSXNsYW5k",
       "descriptionB64": "UmVhbGlzdGljIHRyb3BpY2FsIGlzbGFuZCBwcm9qZWN0IHdpdGggYWZwcA==",
       "tags": "island,tropicalisland,tropical,afpp",
@@ -1098,6 +1210,22 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "VmFzZQ==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFZhc2U=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Vase",
+      "isTemplate": false,
+      "date": "23/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/vase/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/vase/img1.jpg"
+      ],
+      "id": "f326da09-8378-42e0-baff-f3dfcd70d801",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "V2FyZG9icmU=",
       "descriptionB64": "QXNzZXRzIHBhY2s6IFdhcmRvYnJl",
       "tags": "graphics,assets,model",
@@ -1111,6 +1239,22 @@
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/wardobre/img1.jpg"
       ],
       "id": "1935dbf4-42a4-4efd-989f-0b7dab7edd0b",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "V2F0ZXJTb3VyY2U=",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFdhdGVyU291cmNl",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-WaterSource",
+      "isTemplate": false,
+      "date": "23/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/water-source/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/water-source/img1.jpg"
+      ],
+      "id": "f7aca34c-251f-4d2c-9930-98273024c192",
       "userName": "ITsMagic"
     },
     {
@@ -1143,6 +1287,22 @@
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/wooden-pallet/img1.jpg"
       ],
       "id": "39545597-cd27-4093-949b-6bbe789c75b5",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "V29vZGVuVHVi",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFdvb2RlblR1Yg==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-WoodenTub",
+      "isTemplate": false,
+      "date": "23/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/wooden-tub/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/wooden-tub/img1.jpg"
+      ],
+      "id": "b7ff27b6-249d-4bd7-abdb-9d9515f9a1cb",
       "userName": "ITsMagic"
     },
     {
