@@ -1,0 +1,14 @@
+{
+    "titleB64": "TWV0YWxCYXJyZWw=",
+    "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsQmFycmVs",
+    "tags": "graphics,assets,model",
+    "version": 1,
+    "appMajorVersion": 2,
+    "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalBarrel2",
+    "isTemplate": false,
+    "date": "25/02/2026",
+    "thumbnail": "thumb.jpg",
+    "images": [
+        "img1.jpg"
+    ]
+}

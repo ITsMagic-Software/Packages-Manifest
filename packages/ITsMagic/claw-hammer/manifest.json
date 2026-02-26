@@ -1,0 +1,14 @@
+{
+    "titleB64": "Q2xhd0hhbW1lcg==",
+    "descriptionB64": "QXNzZXRzIHBhY2s6IENsYXdIYW1tZXI=",
+    "tags": "graphics,assets,model",
+    "version": 1,
+    "appMajorVersion": 2,
+    "repositoryURL": "https://github.com/ITsMagic-Software/Package-ClawHammer",
+    "isTemplate": false,
+    "date": "25/02/2026",
+    "thumbnail": "thumb.jpg",
+    "images": [
+        "img1.jpg"
+    ]
+}

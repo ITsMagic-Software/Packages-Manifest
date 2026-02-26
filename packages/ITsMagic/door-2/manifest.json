@@ -1,0 +1,14 @@
+{
+    "titleB64": "RG9vcg==",
+    "descriptionB64": "QXNzZXRzIHBhY2s6IERvb3I=",
+    "tags": "graphics,assets,model",
+    "version": 1,
+    "appMajorVersion": 2,
+    "repositoryURL": "https://github.com/ITsMagic-Software/Package-Door2",
+    "isTemplate": false,
+    "date": "25/02/2026",
+    "thumbnail": "thumb.jpg",
+    "images": [
+        "img1.jpg"
+    ]
+}
