@@ -1,0 +1,15 @@
+{
+    "titleB64": "TWV0YWxQaXBl",
+    "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsUGlwZQ==",
+    "tags": "graphics,assets,model",
+    "version": 1,
+    "appMajorVersion": 2,
+    "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalPipe6",
+    "isTemplate": false,
+    "date": "26/02/2026",
+    "thumbnail": "thumb.jpg",
+    "images": [
+        "img1.jpg"
+    ],
+    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh"
+}
