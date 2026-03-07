@@ -1,0 +1,15 @@
+{
+    "titleB64": "TGlnaHRSZWZsZWN0b3I=",
+    "descriptionB64": "QXNzZXRzIHBhY2s6IExpZ2h0UmVmbGVjdG9y",
+    "tags": "graphics,assets,model",
+    "version": 1,
+    "appMajorVersion": 2,
+    "repositoryURL": "https://github.com/ITsMagic-Software/Package-LightReflector",
+    "isTemplate": false,
+    "date": "07/03/2026",
+    "thumbnail": "thumb.jpg",
+    "images": [
+        "img1.jpg"
+    ],
+    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh"
+}
