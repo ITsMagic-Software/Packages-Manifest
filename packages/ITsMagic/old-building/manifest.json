@@ -7,7 +7,9 @@
     "repositoryURL": "https://github.com/ITsMagic-Software/Package-OldBuilding",
     "isTemplate": false,
     "date": "12/03/2026",
-    "thumbnail": "",
-    "images": [],
+    "thumbnail": "thumb.jpg",
+    "images": [
+        "img1.jpg"
+    ],
     "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9vbGQtYnVpbGRpbmctcGFjay1sb3dwb2x5LTA4MWVjY2I5N2JlODQyOWM4M2IyZTlmYjQwNzcyN2U3"
 }
