@@ -128,6 +128,40 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "QmFuYW5hVHJlZQ==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJhbmFuYVRyZWU=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-BananaTree",
+      "isTemplate": false,
+      "date": "04/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/banana-tree/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/banana-tree/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy90cm9waWNhbC1wbGFudHMtcGFjay1tMDJwLTJmMDkzYWZiNzkyNzQyNDM4ZjBmN2JhN2VhYWI5MGYw",
+      "id": "23ea737c-7285-4092-88b0-f678339fd9ad",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QmFuYW5hVHJlZQ==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJhbmFuYVRyZWU=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-BananaTree2",
+      "isTemplate": false,
+      "date": "04/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/banana-tree-2/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/banana-tree-2/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy90cm9waWNhbC1wbGFudHMtcGFjay1tMDJwLTJmMDkzYWZiNzkyNzQyNDM4ZjBmN2JhN2VhYWI5MGYw",
+      "id": "ce0b9b18-b538-43dd-bbfc-4aac5c83ac04",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "QmFycmVs",
       "descriptionB64": "QXNzZXRzIHBhY2s6IEJhcnJlbA==",
       "tags": "graphics,assets,model",
@@ -959,6 +993,108 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "RmVybg==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEZlcm4=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Fern",
+      "isTemplate": false,
+      "date": "04/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fern/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fern/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy90cm9waWNhbC1wbGFudHMtcGFjay1tMDJwLTJmMDkzYWZiNzkyNzQyNDM4ZjBmN2JhN2VhYWI5MGYw",
+      "id": "222b1648-e4d9-41f6-9bd2-a041753d1aec",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "RmVybg==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEZlcm4=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Fern2",
+      "isTemplate": false,
+      "date": "04/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fern-2/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fern-2/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy90cm9waWNhbC1wbGFudHMtcGFjay1tMDJwLTJmMDkzYWZiNzkyNzQyNDM4ZjBmN2JhN2VhYWI5MGYw",
+      "id": "9a49d9f5-ff74-42f1-b697-942257032c3c",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "RmVybg==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEZlcm4=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Fern3",
+      "isTemplate": false,
+      "date": "04/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fern-3/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fern-3/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy90cm9waWNhbC1wbGFudHMtcGFjay1tMDJwLTJmMDkzYWZiNzkyNzQyNDM4ZjBmN2JhN2VhYWI5MGYw",
+      "id": "574c0a6f-815a-4355-b319-87b402f81d3e",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "RmVybg==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEZlcm4=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Fern4",
+      "isTemplate": false,
+      "date": "04/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fern-4/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fern-4/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy90cm9waWNhbC1wbGFudHMtcGFjay1tMDJwLTJmMDkzYWZiNzkyNzQyNDM4ZjBmN2JhN2VhYWI5MGYw",
+      "id": "ba28814d-d615-4e86-bb13-2b9af4c23527",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "RmVybg==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEZlcm4=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Fern5",
+      "isTemplate": false,
+      "date": "04/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fern-5/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fern-5/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy90cm9waWNhbC1wbGFudHMtcGFjay1tMDJwLTJmMDkzYWZiNzkyNzQyNDM4ZjBmN2JhN2VhYWI5MGYw",
+      "id": "cc62b8d2-383d-4bac-9efe-916d94ab5d63",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "RmVybg==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEZlcm4=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Fern6",
+      "isTemplate": false,
+      "date": "04/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fern-6/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fern-6/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy90cm9waWNhbC1wbGFudHMtcGFjay1tMDJwLTJmMDkzYWZiNzkyNzQyNDM4ZjBmN2JhN2VhYWI5MGYw",
+      "id": "608ec3cc-1c0b-4498-a7d3-0402aef24612",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "RmlyZUV4dGluZ3Vpc2hlcg==",
       "descriptionB64": "QXNzZXRzIHBhY2s6IEZpcmVFeHRpbmd1aXNoZXI=",
       "tags": "graphics,assets,model",
@@ -1186,6 +1322,23 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "TGFrZQ==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IExha2U=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Lake",
+      "isTemplate": false,
+      "date": "04/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/lake/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/lake/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy90cm9waWNhbC1wbGFudHMtcGFjay1tMDJwLTJmMDkzYWZiNzkyNzQyNDM4ZjBmN2JhN2VhYWI5MGYw",
+      "id": "10e47d98-da9e-481f-8139-91bde78cf402",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "TGlnaHRCdWxi",
       "descriptionB64": "QXNzZXRzIHBhY2s6IExpZ2h0QnVsYg==",
       "tags": "graphics,assets,model",
@@ -1251,6 +1404,23 @@
       ],
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
       "id": "654394db-8039-4d15-8439-3a75b5f57bd8",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "TGlnaHRSZWZsZWN0b3I=",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IExpZ2h0UmVmbGVjdG9y",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-LightReflector",
+      "isTemplate": false,
+      "date": "07/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/light-reflector/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/light-reflector/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
+      "id": "3b474aa2-e9fc-4612-8ab1-b8c3edd9b2b1",
       "userName": "ITsMagic"
     },
     {
@@ -1595,6 +1765,74 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "TW9uc3RlcmFEZWxpY2lvc2FQbGFudA==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1vbnN0ZXJhRGVsaWNpb3NhUGxhbnQ=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-MonsteraDeliciosaPlant",
+      "isTemplate": false,
+      "date": "04/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/monstera-deliciosa-plant/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/monstera-deliciosa-plant/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy90cm9waWNhbC1wbGFudHMtcGFjay1tMDJwLTJmMDkzYWZiNzkyNzQyNDM4ZjBmN2JhN2VhYWI5MGYw",
+      "id": "59f5eede-f0bd-4f16-8f68-ff6753169aa3",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "TW9uc3RlcmFEZWxpY2lvc2FQbGFudA==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1vbnN0ZXJhRGVsaWNpb3NhUGxhbnQ=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-MonsteraDeliciosaPlant2",
+      "isTemplate": false,
+      "date": "04/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/monstera-deliciosa-plant-2/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/monstera-deliciosa-plant-2/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy90cm9waWNhbC1wbGFudHMtcGFjay1tMDJwLTJmMDkzYWZiNzkyNzQyNDM4ZjBmN2JhN2VhYWI5MGYw",
+      "id": "ad1b076d-670e-49d9-b7b4-c6e6322378e3",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "TW9uc3RlcmFEZWxpY2lvc2FQbGFudA==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1vbnN0ZXJhRGVsaWNpb3NhUGxhbnQ=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-MonsteraDeliciosaPlant3",
+      "isTemplate": false,
+      "date": "04/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/monstera-deliciosa-plant-3/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/monstera-deliciosa-plant-3/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy90cm9waWNhbC1wbGFudHMtcGFjay1tMDJwLTJmMDkzYWZiNzkyNzQyNDM4ZjBmN2JhN2VhYWI5MGYw",
+      "id": "7515db14-87f5-48f8-bfb2-54ecdccda514",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "TW9uc3RlcmFEZWxpY2lvc2FQbGFudA==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1vbnN0ZXJhRGVsaWNpb3NhUGxhbnQ=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-MonsteraDeliciosaPlant4",
+      "isTemplate": false,
+      "date": "04/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/monstera-deliciosa-plant-4/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/monstera-deliciosa-plant-4/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy90cm9waWNhbC1wbGFudHMtcGFjay1tMDJwLTJmMDkzYWZiNzkyNzQyNDM4ZjBmN2JhN2VhYWI5MGYw",
+      "id": "ede031ec-468c-4344-9fad-cec6e4fad19b",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "TXVn",
       "descriptionB64": "QXNzZXRzIHBhY2s6IE11Zw==",
       "tags": "graphics,assets,model",
@@ -1626,6 +1864,57 @@
       ],
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9zdHJlZXQtYXNzZXQtcGFjay1mM2ViNDdkMDJlMmU0YWIyOTBlNjY3NTJmYTM1NGI0OA==",
       "id": "3f208c5f-0921-400d-ac3d-0ec492d3b400",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "UGFsbVRyZWU=",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFBhbG1UcmVl",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-PalmTree",
+      "isTemplate": false,
+      "date": "04/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/palm-tree/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/palm-tree/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy90cm9waWNhbC1wbGFudHMtcGFjay1tMDJwLTJmMDkzYWZiNzkyNzQyNDM4ZjBmN2JhN2VhYWI5MGYw",
+      "id": "d2a02a84-ce22-4a8b-a8b4-130fe25ee2de",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "UGFsbVRyZWU=",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFBhbG1UcmVl",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-PalmTree2",
+      "isTemplate": false,
+      "date": "04/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/palm-tree-2/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/palm-tree-2/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy90cm9waWNhbC1wbGFudHMtcGFjay1tMDJwLTJmMDkzYWZiNzkyNzQyNDM4ZjBmN2JhN2VhYWI5MGYw",
+      "id": "49ab911e-caac-4cdb-841c-402ca4d7f849",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "UGFsbVRyZWU=",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFBhbG1UcmVl",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-PalmTree3",
+      "isTemplate": false,
+      "date": "04/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/palm-tree-3/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/palm-tree-3/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy90cm9waWNhbC1wbGFudHMtcGFjay1tMDJwLTJmMDkzYWZiNzkyNzQyNDM4ZjBmN2JhN2VhYWI5MGYw",
+      "id": "a99f97de-9a33-40f6-9d4b-cf0394c39bc2",
       "userName": "ITsMagic"
     },
     {
@@ -1748,6 +2037,74 @@
       ],
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
       "id": "e8588c77-9c17-4c8b-8caa-3e23d0f1c15e",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "U2NyZXdEcml2ZXI=",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFNjcmV3RHJpdmVy",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-ScrewDriver",
+      "isTemplate": false,
+      "date": "07/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/screw-driver/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/screw-driver/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
+      "id": "7fb0abf0-9a28-42fc-ae1d-81c2a2b7dd9d",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "U2NyZXdEcml2ZXI=",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFNjcmV3RHJpdmVy",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-ScrewDriver2",
+      "isTemplate": false,
+      "date": "07/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/screw-driver-2/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/screw-driver-2/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
+      "id": "bf5c201c-2001-41d6-9650-6a75d6e76abb",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "U2hlbGY=",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFNoZWxm",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Shelf",
+      "isTemplate": false,
+      "date": "07/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/shelf/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/shelf/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
+      "id": "68ed77e0-73da-4c3c-bf81-05790d87f2bc",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "U2hlbGY=",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFNoZWxm",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Shelf2",
+      "isTemplate": false,
+      "date": "07/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/shelf-2/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/shelf-2/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
+      "id": "3d10defb-564e-47e2-9b4e-c03853f0b38c",
       "userName": "ITsMagic"
     },
     {
@@ -1891,6 +2248,57 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "VG9pbGV0",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFRvaWxldA==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Toilet",
+      "isTemplate": false,
+      "date": "07/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/toilet/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/toilet/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
+      "id": "15fca621-1ae4-49d9-93ee-b4bf9661b15d",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "VHJhZmZpY0JlYWNvbg==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFRyYWZmaWNCZWFjb24=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-TrafficBeacon",
+      "isTemplate": false,
+      "date": "07/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/traffic-beacon/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/traffic-beacon/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
+      "id": "a0df24aa-78eb-4919-bc44-fee8839bea32",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "VHJhZmZpY0NvbmVWYXJpYW50",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFRyYWZmaWNDb25lVmFyaWFudA==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-TrafficConeVariant",
+      "isTemplate": false,
+      "date": "07/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/traffic-cone-variant/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/traffic-cone-variant/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
+      "id": "0535da95-d701-4ea0-8894-9e7a9d0a6a9b",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "VHJhZmZpY1NpZ24=",
       "descriptionB64": "QXNzZXRzIHBhY2s6IFRyYWZmaWNTaWdu",
       "tags": "graphics,assets,model",
@@ -1925,6 +2333,23 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "VHJhZmZpY1NpZ25WYXJpYW50",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFRyYWZmaWNTaWduVmFyaWFudA==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-TrafficSign2Variant",
+      "isTemplate": false,
+      "date": "07/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/traffic-sign-2variant/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/traffic-sign-2variant/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
+      "id": "e61c17f1-25d1-4a08-ac60-425756997a6d",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "VHJhZmZpY1NpZ24z",
       "descriptionB64": "QXNzZXRzIHBhY2s6IFRyYWZmaWNTaWduMw==",
       "tags": "props,assets,model,3d",
@@ -1942,6 +2367,23 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "VHJhZmZpY1NpZ25WYXJpYW50",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFRyYWZmaWNTaWduVmFyaWFudA==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-TrafficSign3Variant",
+      "isTemplate": false,
+      "date": "07/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/traffic-sign-3variant/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/traffic-sign-3variant/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
+      "id": "776df85e-a8b3-4793-afc6-c883d40f7ec4",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "VHJhZmZpY1NpZ240",
       "descriptionB64": "QXNzZXRzIHBhY2s6IFRyYWZmaWNTaWduNA==",
       "tags": "props,assets,model,3d",
@@ -1956,6 +2398,40 @@
       ],
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9zdHJlZXQtYXNzZXQtcGFjay1mM2ViNDdkMDJlMmU0YWIyOTBlNjY3NTJmYTM1NGI0OA==",
       "id": "d98f0a2e-9897-431a-afd7-5d56323caccb",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "VHJhZmZpY1NpZ25WYXJpYW50",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFRyYWZmaWNTaWduVmFyaWFudA==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-TrafficSign4Variant",
+      "isTemplate": false,
+      "date": "07/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/traffic-sign-4variant/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/traffic-sign-4variant/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
+      "id": "6256643c-cda0-4d59-83b2-23262e6eb068",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "VHJhZmZpY1NpZ25WYXJpYW50",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFRyYWZmaWNTaWduVmFyaWFudA==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-TrafficSignVariant",
+      "isTemplate": false,
+      "date": "07/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/traffic-sign-variant/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/traffic-sign-variant/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
+      "id": "51113e4e-e7ff-4863-ad9e-ae84b1a044b0",
       "userName": "ITsMagic"
     },
     {
@@ -2012,6 +2488,40 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "VmVudGlsYXRpb25Hcmlk",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFZlbnRpbGF0aW9uR3JpZA==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-VentilationGrid",
+      "isTemplate": false,
+      "date": "07/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/ventilation-grid/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/ventilation-grid/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
+      "id": "7400e798-f46c-454b-ad31-9babbd5423ea",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "VmVudGlsYXRpb25Hcmlk",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFZlbnRpbGF0aW9uR3JpZA==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-VentilationGrid2",
+      "isTemplate": false,
+      "date": "07/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/ventilation-grid-2/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/ventilation-grid-2/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
+      "id": "6bfe4d24-cc32-49ee-881c-5419fc1df4f2",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "V2FyZG9icmU=",
       "descriptionB64": "QXNzZXRzIHBhY2s6IFdhcmRvYnJl",
       "tags": "graphics,assets,model",
@@ -2046,6 +2556,74 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "V2hlZWxCYXJyb3c=",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFdoZWVsQmFycm93",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-WheelBarrow",
+      "isTemplate": false,
+      "date": "07/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/wheel-barrow/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/wheel-barrow/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
+      "id": "0fef3a2b-bbbd-4901-8b5a-f475b4560d86",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "V29vZGVuQm9hcmQ=",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFdvb2RlbkJvYXJk",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-WoodenBoard",
+      "isTemplate": false,
+      "date": "07/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/wooden-board/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/wooden-board/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
+      "id": "4d5bff8a-2c77-4e0c-8c4c-e2811633abdb",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "V29vZGVuQm9hcmQ=",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFdvb2RlbkJvYXJk",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-WoodenBoard2",
+      "isTemplate": false,
+      "date": "07/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/wooden-board-2/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/wooden-board-2/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
+      "id": "6fde41e6-de80-41d0-b1cf-8422d52578ff",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "V29vZGVuQm94",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFdvb2RlbkJveA==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-WoodenBox",
+      "isTemplate": false,
+      "date": "07/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/wooden-box/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/wooden-box/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
+      "id": "a8914741-d08e-4943-9045-a1856b439541",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "V29vZGVuQ3JhdGU=",
       "descriptionB64": "QXNzZXRzIHBhY2s6IFdvb2RlbkNyYXRl",
       "tags": "graphics,assets,model",
@@ -2077,6 +2655,23 @@
       ],
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9iYXJyZWwtcGFjay0wYzZmODdlYTUxMjM0YTMyOGIxMDZlZTIyMDgyNzU5NQ==",
       "id": "39545597-cd27-4093-949b-6bbe789c75b5",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "V29vZGVuUGFsbGV0VmFyaWFudA==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFdvb2RlblBhbGxldFZhcmlhbnQ=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-WoodenPalletVariant",
+      "isTemplate": false,
+      "date": "07/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/wooden-pallet-variant/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/wooden-pallet-variant/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
+      "id": "49423263-dbdf-4772-83e0-3fa0f9699c95",
       "userName": "ITsMagic"
     },
     {
