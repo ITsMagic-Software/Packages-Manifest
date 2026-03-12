@@ -7,7 +7,9 @@
     "repositoryURL": "https://github.com/ITsMagic-Software/Package-OldConcreteBuilding3",
     "isTemplate": false,
     "date": "12/03/2026",
-    "thumbnail": "",
-    "images": [],
+    "thumbnail": "thumb.jpg",
+    "images": [
+        "img1.jpg"
+    ],
     "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9vbGQtY29uY2V0ZS1idWlsZGluZy1wYWNrLWxvd3BvbHktNmQwNzBmY2M4NmIwNDMwZGFkZjUzZGE2NzU0NWM2ZjM="
 }
