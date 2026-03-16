@@ -1850,6 +1850,108 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "T2xkQnVpbGRpbmc=",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE9sZEJ1aWxkaW5n",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-OldBuilding",
+      "isTemplate": false,
+      "date": "12/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/old-building/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/old-building/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9vbGQtYnVpbGRpbmctcGFjay1sb3dwb2x5LTA4MWVjY2I5N2JlODQyOWM4M2IyZTlmYjQwNzcyN2U3",
+      "id": "7f72c874-c6fd-4ed4-b691-ec6c14c45098",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "T2xkQnVpbGRpbmc=",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE9sZEJ1aWxkaW5n",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-OldBuilding2",
+      "isTemplate": false,
+      "date": "12/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/old-building-2/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/old-building-2/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9vbGQtYnVpbGRpbmctcGFjay1sb3dwb2x5LTA4MWVjY2I5N2JlODQyOWM4M2IyZTlmYjQwNzcyN2U3",
+      "id": "70c9d52b-598c-4556-b2e1-a7753eff9e90",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "T2xkQnVpbGRpbmc=",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE9sZEJ1aWxkaW5n",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-OldBuilding3",
+      "isTemplate": false,
+      "date": "12/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/old-building-3/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/old-building-3/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9vbGQtYnVpbGRpbmctcGFjay1sb3dwb2x5LTA4MWVjY2I5N2JlODQyOWM4M2IyZTlmYjQwNzcyN2U3",
+      "id": "5d5009f3-171e-4727-9874-565f0bee7931",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "T2xkQ29uY3JldGVCdWlsZGluZw==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE9sZENvbmNyZXRlQnVpbGRpbmc=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-OldConcreteBuilding",
+      "isTemplate": false,
+      "date": "12/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/old-concrete-building/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/old-concrete-building/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9vbGQtY29uY2V0ZS1idWlsZGluZy1wYWNrLWxvd3BvbHktNmQwNzBmY2M4NmIwNDMwZGFkZjUzZGE2NzU0NWM2ZjM=",
+      "id": "50aa8f5b-6d6b-4e2b-954a-cc9e0658c08f",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "T2xkQ29uY3JldGVCdWlsZGluZw==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE9sZENvbmNyZXRlQnVpbGRpbmc=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-OldConcreteBuilding2",
+      "isTemplate": false,
+      "date": "12/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/old-concrete-building-2/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/old-concrete-building-2/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9vbGQtY29uY2V0ZS1idWlsZGluZy1wYWNrLWxvd3BvbHktNmQwNzBmY2M4NmIwNDMwZGFkZjUzZGE2NzU0NWM2ZjM=",
+      "id": "dfff8a19-3d6a-44c0-88b9-c78d7b842e32",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "T2xkQ29uY3JldGVCdWlsZGluZw==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE9sZENvbmNyZXRlQnVpbGRpbmc=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-OldConcreteBuilding3",
+      "isTemplate": false,
+      "date": "12/03/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/old-concrete-building-3/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/old-concrete-building-3/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9vbGQtY29uY2V0ZS1idWlsZGluZy1wYWNrLWxvd3BvbHktNmQwNzBmY2M4NmIwNDMwZGFkZjUzZGE2NzU0NWM2ZjM=",
+      "id": "648aee7e-8786-401b-a690-e6ac8dda9f80",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "T3BlbmVkQm94",
       "descriptionB64": "QXNzZXRzIHBhY2s6IE9wZW5lZEJveA==",
       "tags": "props,assets,model,3d",
