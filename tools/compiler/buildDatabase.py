@@ -143,8 +143,6 @@ def _decode_base64_utf8(
 def _normalize_media_entry(
     manifest_dir: Path,
     value: str,
-    package_label: str,
-    errors: list[str],
 ) -> tuple[str, Path | None]:
     normalized_value = value.strip()
     resolved_value = normalized_value
@@ -166,37 +164,6 @@ def _normalize_media_entry(
 
     if not resolved_path.is_file():
         return normalized_value, None
-
-    if resolved_value.lower().endswith(".jpeg"):
-        target_value = _replace_ext_case_insensitive(resolved_value, ".jpeg", ".jpg")
-        source_path = resolved_path
-        target_path = manifest_dir / target_value
-
-        if target_path.exists():
-            try:
-                same_file = target_path.samefile(source_path)
-            except OSError:
-                same_file = False
-            if not same_file:
-                errors.append(
-                    "ERROR: Cannot rename media because target already exists "
-                    f"({ _format_value(resolved_value) } -> "
-                    f"{ _format_value(target_value) }) in {package_label}."
-                )
-                return resolved_value, source_path
-        elif source_path != target_path:
-            try:
-                source_path.rename(target_path)
-            except OSError as exc:
-                errors.append(
-                    "ERROR: Failed to rename media "
-                    f"({ _format_value(resolved_value) } -> "
-                    f"{ _format_value(target_value) }) in {package_label}: {exc}"
-                )
-                return resolved_value, source_path
-
-        resolved_value = target_value
-        resolved_path = target_path
 
     return resolved_value, resolved_path
 
@@ -284,7 +251,7 @@ def main() -> None:
             )
         else:
             normalized_thumbnail, thumbnail_path = _normalize_media_entry(
-                manifest_dir, thumbnail, package_label, errors
+                manifest_dir, thumbnail
             )
             if normalized_thumbnail != thumbnail:
                 manifest["thumbnail"] = normalized_thumbnail
@@ -333,7 +300,7 @@ def main() -> None:
                     )
                     continue
                 normalized_image, image_path = _normalize_media_entry(
-                    manifest_dir, image, package_label, errors
+                    manifest_dir, image
                 )
                 if normalized_image != image:
                     normalized_images_for_manifest[index] = normalized_image
