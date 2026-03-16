@@ -2811,6 +2811,48 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "Q2xvdGggU2ltdWxhdGlvbiBTeXN0ZW0gZm9yIElUc01hZ2ljIEVuZ2luZQ==",
+      "descriptionB64": "U2ltcGxlIGNsb3RoIHNpbXVsYXRpb24gc3lzdGVtIGZvciBJVHNNYWdpYyBFbmdpbmUuIEluY2x1ZGVzIGJhc2ljIGNvbGxpc2lvbiBzdXBwb3J0LCBtdWx0aXBsZSBjb25maWd1cmF0aW9uIG9wdGlvbnMsIGFuZCBhbiBlZGl0b3Igc2V0dXAuIENvbWVzIHdpdGggYSBjb21wbGV0ZSBIT1dfVE9fVVNFIGd1aWRlLg==",
+      "tags": "cloth,mesh,physics",
+      "version": 1,
+      "repositoryURL": "https://github.com/Vitg1/Mesh-Simulation-System-v1",
+      "isTemplate": false,
+      "date": "02/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V1/capa.png",
+      "appMajorVersion": 1,
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V1/img2.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V1/img3.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V1/img4.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V1/img5.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V1/img6.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V1/img7.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V1/img8.png"
+      ],
+      "id": "e2efc1e7-9d48-4d77-94b1-efe90b890048",
+      "userName": "Vitg1"
+    },
+    {
+      "titleB64": "TWVzaCBTaW11bGF0aW9uIFYyIChJVHNNYWdpYyAyLjAp",
+      "descriptionB64": "TWVzaCBTaW11bGF0aW9uIFYyIGZvciBJVHNNYWdpYyAyLjAuIEluY2x1ZGVzIGJhc2ljIHdpbmQsIHBpbi9maXggc3lzdGVtIGFuZCBzaW1wbGUgY29sbGlzaW9ucy4gQWRkcyBhIG5ldyByaWdpZGJvZHktYmFzZWQgY29sbGlkZXIgc3lzdGVtIHVzaW5nIFhQQkQgYW5kIGEgc2ltcGxlIG1ldGFsL3BsYXN0aWMgbWF0ZXJpYWwgc3lzdGVtLiBUaGlzIHZlcnNpb24gZG9lcyBub3QgZnVuY3Rpb24gcHJvcGVybHkgb24gSVRzTWFnaWMgMS4wIHdpdGhvdXQgbW9kaWZpY2F0aW9ucy4=",
+      "tags": "cloth,mesh,physics",
+      "version": 2,
+      "repositoryURL": "https://github.com/Vitg1/Mesh-Simulation-for-itsmagic-V2",
+      "isTemplate": false,
+      "date": "04/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V2/capa.png",
+      "appMajorVersion": 2,
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V2/img1.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V2/img2.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V2/img4.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V2/img6.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V2/img7.png"
+      ],
+      "id": "f7eb6aae-b83b-46d7-8e06-7ca186b048f0",
+      "userName": "Vitg1"
+    },
+    {
       "titleB64": "Q2FyZ28gdHJ1Y2sgcGh5c2ljcw==",
       "descriptionB64": "VmVyeSBzaW1wbGUgY2FyIHBoeXNpY3MgbWFkZSBvbiBJVHNNYWdpYyBFbmdpbmU=",
       "tags": "truck,car,physics,control",
@@ -2862,48 +2904,6 @@
       ],
       "id": "11a9c2fd-aff2-4ada-8866-a393983c833a",
       "userName": "malik-mohamed"
-    },
-    {
-      "titleB64": "Q2xvdGggU2ltdWxhdGlvbiBTeXN0ZW0gZm9yIElUc01hZ2ljIEVuZ2luZQ==",
-      "descriptionB64": "U2ltcGxlIGNsb3RoIHNpbXVsYXRpb24gc3lzdGVtIGZvciBJVHNNYWdpYyBFbmdpbmUuIEluY2x1ZGVzIGJhc2ljIGNvbGxpc2lvbiBzdXBwb3J0LCBtdWx0aXBsZSBjb25maWd1cmF0aW9uIG9wdGlvbnMsIGFuZCBhbiBlZGl0b3Igc2V0dXAuIENvbWVzIHdpdGggYSBjb21wbGV0ZSBIT1dfVE9fVVNFIGd1aWRlLg==",
-      "tags": "cloth,mesh,physics",
-      "version": 1,
-      "repositoryURL": "https://github.com/Vitg1/Mesh-Simulation-System-v1",
-      "isTemplate": false,
-      "date": "02/02/2026",
-      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V1/capa.png",
-      "appMajorVersion": 1,
-      "images": [
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V1/img2.png",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V1/img3.png",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V1/img4.png",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V1/img5.png",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V1/img6.png",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V1/img7.png",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V1/img8.png"
-      ],
-      "id": "e2efc1e7-9d48-4d77-94b1-efe90b890048",
-      "userName": "Vitg1"
-    },
-    {
-      "titleB64": "TWVzaCBTaW11bGF0aW9uIFYyIChJVHNNYWdpYyAyLjAp",
-      "descriptionB64": "TWVzaCBTaW11bGF0aW9uIFYyIGZvciBJVHNNYWdpYyAyLjAuIEluY2x1ZGVzIGJhc2ljIHdpbmQsIHBpbi9maXggc3lzdGVtIGFuZCBzaW1wbGUgY29sbGlzaW9ucy4gQWRkcyBhIG5ldyByaWdpZGJvZHktYmFzZWQgY29sbGlkZXIgc3lzdGVtIHVzaW5nIFhQQkQgYW5kIGEgc2ltcGxlIG1ldGFsL3BsYXN0aWMgbWF0ZXJpYWwgc3lzdGVtLiBUaGlzIHZlcnNpb24gZG9lcyBub3QgZnVuY3Rpb24gcHJvcGVybHkgb24gSVRzTWFnaWMgMS4wIHdpdGhvdXQgbW9kaWZpY2F0aW9ucy4=",
-      "tags": "cloth,mesh,physics",
-      "version": 2,
-      "repositoryURL": "https://github.com/Vitg1/Mesh-Simulation-for-itsmagic-V2",
-      "isTemplate": false,
-      "date": "04/02/2026",
-      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V2/capa.png",
-      "appMajorVersion": 2,
-      "images": [
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V2/img1.png",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V2/img2.png",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V2/img4.png",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V2/img6.png",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V2/img7.png"
-      ],
-      "id": "f7eb6aae-b83b-46d7-8e06-7ca186b048f0",
-      "userName": "Vitg1"
     }
   ]
 }
