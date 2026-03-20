@@ -1850,6 +1850,23 @@
       "userName": "ITsMagic"
     },
     {
+      "appMajorVersion": 2,
+      "date": "20/03/2026",
+      "descriptionB64": "T2JqZWN0UG9vbCBleGFtcGxl",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/objectpool-example/img1.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/objectpool-example/img2.jpg"
+      ],
+      "isTemplate": true,
+      "repositoryURL": "https://github.com/ITsMagic-Software/objectpool-example",
+      "tags": "template,objectpool,vegetation",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/objectpool-example/thumb.jpg",
+      "titleB64": "T2JqZWN0UG9vbCBleGFtcGxl",
+      "version": 1,
+      "id": "ead19803-94e4-4dff-926b-016fbed3c7fe",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "T2xkQnVpbGRpbmc=",
       "descriptionB64": "QXNzZXRzIHBhY2s6IE9sZEJ1aWxkaW5n",
       "tags": "graphics,assets,model",
@@ -2851,23 +2868,6 @@
       ],
       "id": "f7eb6aae-b83b-46d7-8e06-7ca186b048f0",
       "userName": "Vitg1"
-    },
-    {
-      "appMajorVersion": 2,
-      "date": "20/03/2026",
-      "descriptionB64": "T2JqZWN0UG9vbCBleGFtcGxl",
-      "images": [
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/lucasleandro1805/objectpool-example/img1.jpg",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/lucasleandro1805/objectpool-example/img2.jpg"
-      ],
-      "isTemplate": true,
-      "repositoryURL": "https://github.com/lucasleandro1805/objectpool-example",
-      "tags": "template,objectpool,vegetation",
-      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/lucasleandro1805/objectpool-example/thumb.jpg",
-      "titleB64": "T2JqZWN0UG9vbCBleGFtcGxl",
-      "version": 1,
-      "id": "ead19803-94e4-4dff-926b-016fbed3c7fe",
-      "userName": "lucasleandro1805"
     },
     {
       "titleB64": "Q2FyZ28gdHJ1Y2sgcGh5c2ljcw==",
