@@ -2853,6 +2853,23 @@
       "userName": "Vitg1"
     },
     {
+      "appMajorVersion": 1,
+      "date": "20/03/2026",
+      "descriptionB64": "T2JqZWN0UG9vbCBleGFtcGxl",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/lucasleandro1805/objectpool-example/img1.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/lucasleandro1805/objectpool-example/img2.jpg"
+      ],
+      "isTemplate": true,
+      "repositoryURL": "https://github.com/lucasleandro1805/objectpool-example",
+      "tags": "template,objectpool,vegetation",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/lucasleandro1805/objectpool-example/thumb.jpg",
+      "titleB64": "T2JqZWN0UG9vbCBleGFtcGxl",
+      "version": 1,
+      "id": "ead19803-94e4-4dff-926b-016fbed3c7fe",
+      "userName": "lucasleandro1805"
+    },
+    {
       "titleB64": "Q2FyZ28gdHJ1Y2sgcGh5c2ljcw==",
       "descriptionB64": "VmVyeSBzaW1wbGUgY2FyIHBoeXNpY3MgbWFkZSBvbiBJVHNNYWdpYyBFbmdpbmU=",
       "tags": "truck,car,physics,control",
