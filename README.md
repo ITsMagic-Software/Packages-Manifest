@@ -2,7 +2,7 @@
 Manifest for itsmagic package manager
 
 How to upload packages
-https://itsmagic.com.br/documentation/docs/marketplace-submit-package
+https://itsmagic.com.br/documentation/docs/topics/marketplace-submit-package
 
 ## Automated Database Build (GitHub Actions)
 On every push to the `main` branch, a GitHub Actions workflow runs the build script and regenerates the database files.
