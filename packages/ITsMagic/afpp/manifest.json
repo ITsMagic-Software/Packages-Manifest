@@ -1,7 +1,7 @@
 {
     "titleB64": "Rmlyc3QgcGVyc29uIHBsYXllciBwcm9qZWN0IChBRlBQKQ==",
     "descriptionB64": "T2ZmaWNpYWwgYWR2YW5jZWQgZmlyc3QgcGVyc29uIHBsYXllcgoKSXQgaXMgYSBmdWxseSBjb25maWd1cmVkIGFuZCBmdW5jdGlvbmFsIHBsYXllci4KCkl0IGhhcyBhIGNvbnRyb2wgaW50ZXJmYWNlLgpBZHZhbmNlZCBmb290c3RlcCBzb3VuZHMgd2l0aCBmcmVxdWVuY3ksIHBpdGNoIGFuZCB2b2x1bWUgdmFyaWF0aW9uIGJhc2VkIG9uIHNwZWVkIGFuZCBzY2VuZSBzZXR0aW5ncy4KRGlmZmVyZW50IHR5cGVzIG9mIGZvb3RzdGVwIHNvdW5kcyBhcmUgZW1pdHRlZCBiYXNlZCBvbiB0aGUgc3VyZmFjZSB0aGUgcGxheWVyIGlzIHN0YW5kaW5nIG9uLgoKQ2hhcmFjdGVyaXN0aWNzOgpkb2VzIG5vdCBjcm9zcyBjb2xsaXNpb25zCnVzZSBqb3lzdGljawpPbmx5IHVzZXMgc3dpcGVzIGlmIHdpdGhpbiBhIGRlZmluZWQgYXJlYSBvZiB0aGUgc2NyZWVuCkl0IGhhcyBhIHNsaWRpbmcgc3lzdGVtCldvbnQgdHJpcCwgZmFsbCwgb3ZlcnR1cm4gb3IgaGFuZyBhbnl3aGVyZQpIYXMgcm90YXRpb24gYW5nbGUgbGltaXQgb24gdmVydGljYWwgZmluZ2VyIHNsaWRlIGF4aXMgKGxvb2sgdXAgYW5kIGRvd24pCkFkdmFuY2VkIGp1bXAgZmVhdHVyZQoKRXh0cmFzOgpBIHdvcmxkIG9mIGV4YW1wbGUKVGhlIFVJIGNvbmZpZ3VyZWQgZm9yIHBsYXllciBjb250cm9s",
-    "tags": "afpp",
+    "tags": "3d,model,assets,props,afpp",
     "version": 1,
     "repositoryURL": "https://github.com/ITsMagic-Software/Package-AFPP",
     "isTemplate": true,
@@ -12,5 +12,6 @@
         "img1.jpg",
         "img2.jpg",
         "img3.jpg"
-    ]
+    ],
+    "repivot": true
 }

@@ -1,7 +1,7 @@
 {
     "titleB64": "Q2F2ZSBjaHVyY2ggKEhJR0ggR1JBUEhJQ1Mp",
     "descriptionB64": "VW5kZXJncm91bmQgY2h1cmNoIHByb2plY3Qgd2l0aCBhbWF6aW5nIGdyYXBoY2lzLg==",
-    "tags": "graphics,afpp",
+    "tags": "3d,model,assets,props,cavechurch",
     "version": 1,
     "repositoryURL": "https://github.com/ITsMagic-Software/Package-CaveChurch",
     "isTemplate": true,
@@ -13,5 +13,6 @@
         "img2.jpg",
         "img3.jpg",
         "img4.jpg"
-    ]
+    ],
+    "repivot": true
 }

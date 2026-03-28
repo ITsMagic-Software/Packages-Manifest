@@ -1,7 +1,7 @@
 {
     "titleB64": "V2FyZG9icmU=",
     "descriptionB64": "QXNzZXRzIHBhY2s6IFdhcmRvYnJl",
-    "tags": "graphics,assets,model",
+    "tags": "3d,model,assets,props,wardobre",
     "version": 1,
     "appMajorVersion": 2,
     "repositoryURL": "https://github.com/ITsMagic-Software/Package-Wardobre",
@@ -11,5 +11,6 @@
     "images": [
         "img1.jpg"
     ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mdXJuaXR1cmUtcGFjay1sb3ctcG9seS1nYW1lLXJlYWR5LTFiZmE1ZTQ4NzhlYjRhOWY4M2YzY2JlYzgwMDIyYjVk"
+    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mdXJuaXR1cmUtcGFjay1sb3ctcG9seS1nYW1lLXJlYWR5LTFiZmE1ZTQ4NzhlYjRhOWY4M2YzY2JlYzgwMDIyYjVk",
+    "repivot": true
 }

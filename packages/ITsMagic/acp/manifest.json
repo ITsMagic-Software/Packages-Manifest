@@ -1,7 +1,7 @@
 {
     "titleB64": "Q2FyIHBoeXNpY3MgLSBBQ1A=",
     "descriptionB64": "QWR2YW5jZWQgY2FyIHBoeXNpY3M=",
-    "tags": "acp",
+    "tags": "3d,model,assets,props,acp",
     "version": 1,
     "repositoryURL": "https://github.com/ITsMagic-Software/Package-ACP",
     "isTemplate": true,
@@ -13,5 +13,6 @@
         "img2.jpg",
         "img3.jpg",
         "img4.jpg"
-    ]
+    ],
+    "repivot": true
 }

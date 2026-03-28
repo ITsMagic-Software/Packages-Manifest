@@ -1,7 +1,7 @@
 {
     "titleB64": "Qm90dGxl",
     "descriptionB64": "QXNzZXRzIHBhY2s6IEJvdHRsZQ==",
-    "tags": "props,assets,model,3d",
+    "tags": "3d,model,assets,props,bottle",
     "version": 1,
     "appMajorVersion": 2,
     "repositoryURL": "https://github.com/ITsMagic-Software/Package-Bottle",
@@ -11,5 +11,6 @@
     "images": [
         "img1.jpeg"
     ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9zdHJlZXQtYXNzZXQtcGFjay1mM2ViNDdkMDJlMmU0YWIyOTBlNjY3NTJmYTM1NGI0OA=="
+    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9zdHJlZXQtYXNzZXQtcGFjay1mM2ViNDdkMDJlMmU0YWIyOTBlNjY3NTJmYTM1NGI0OA==",
+    "repivot": true
 }
