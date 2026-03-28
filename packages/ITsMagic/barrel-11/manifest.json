@@ -1,7 +1,7 @@
 {
     "titleB64": "QmFycmVs",
     "descriptionB64": "QXNzZXRzIHBhY2s6IEJhcnJlbA==",
-    "tags": "graphics,assets,model",
+    "tags": "3d,model,assets,props,barrel,11",
     "version": 1,
     "appMajorVersion": 2,
     "repositoryURL": "https://github.com/ITsMagic-Software/Package-Barrel11",
@@ -11,5 +11,6 @@
     "images": [
         "img1.jpg"
     ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9iYXJyZWwtcGFjay0wYzZmODdlYTUxMjM0YTMyOGIxMDZlZTIyMDgyNzU5NQ=="
+    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9iYXJyZWwtcGFjay0wYzZmODdlYTUxMjM0YTMyOGIxMDZlZTIyMDgyNzU5NQ==",
+    "repivot": true
 }

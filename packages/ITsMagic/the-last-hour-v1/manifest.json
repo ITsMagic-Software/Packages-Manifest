@@ -1,7 +1,7 @@
 {
     "titleB64": "VGhlIExhc3QgSG91cg==",
     "descriptionB64": "Rm9yZXN0IG1hcAoKRGV2ZWxvcGVkIGJ5IERhdml6aW0zRA==",
-    "tags": "thelasthour,map,forest,lasthour",
+    "tags": "3d,model,assets,props,the,last,hour,v1",
     "version": 1,
     "repositoryURL": "https://github.com/itsvks19/TemplateV1-TheLastHour",
     "isTemplate": true,
@@ -15,5 +15,6 @@
         "img4.png",
         "img5.png",
         "img6.png"
-    ]
+    ],
+    "repivot": true
 }

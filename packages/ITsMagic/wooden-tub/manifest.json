@@ -1,7 +1,7 @@
 {
     "titleB64": "V29vZGVuVHVi",
     "descriptionB64": "QXNzZXRzIHBhY2s6IFdvb2RlblR1Yg==",
-    "tags": "graphics,assets,model",
+    "tags": "3d,model,assets,props,wooden,tub",
     "version": 1,
     "appMajorVersion": 2,
     "repositoryURL": "https://github.com/ITsMagic-Software/Package-WoodenTub",
@@ -11,5 +11,6 @@
     "images": [
         "img1.jpg"
     ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9tZWRpZXZhbC1wcm9wcy1lNjk3NzdmYTQ3MjQ0NDM0YjMzNzQ4OGI5N2NlY2QwZQ=="
+    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9tZWRpZXZhbC1wcm9wcy1lNjk3NzdmYTQ3MjQ0NDM0YjMzNzQ4OGI5N2NlY2QwZQ==",
+    "repivot": true
 }

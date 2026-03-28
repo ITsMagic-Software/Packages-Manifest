@@ -1,7 +1,7 @@
 {
     "titleB64": "UGFsbVRyZWU=",
     "descriptionB64": "QXNzZXRzIHBhY2s6IFBhbG1UcmVl",
-    "tags": "graphics,assets,model",
+    "tags": "3d,model,assets,props,palm,tree,2,nature,vegetation,forest",
     "version": 1,
     "appMajorVersion": 2,
     "repositoryURL": "https://github.com/ITsMagic-Software/Package-PalmTree2",
@@ -11,5 +11,6 @@
     "images": [
         "img1.jpg"
     ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy90cm9waWNhbC1wbGFudHMtcGFjay1tMDJwLTJmMDkzYWZiNzkyNzQyNDM4ZjBmN2JhN2VhYWI5MGYw"
+    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy90cm9waWNhbC1wbGFudHMtcGFjay1tMDJwLTJmMDkzYWZiNzkyNzQyNDM4ZjBmN2JhN2VhYWI5MGYw",
+    "repivot": true
 }

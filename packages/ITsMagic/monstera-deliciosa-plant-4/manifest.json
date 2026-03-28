@@ -1,7 +1,7 @@
 {
     "titleB64": "TW9uc3RlcmFEZWxpY2lvc2FQbGFudA==",
     "descriptionB64": "QXNzZXRzIHBhY2s6IE1vbnN0ZXJhRGVsaWNpb3NhUGxhbnQ=",
-    "tags": "graphics,assets,model",
+    "tags": "3d,model,assets,props,monstera,deliciosa,plant,4",
     "version": 1,
     "appMajorVersion": 2,
     "repositoryURL": "https://github.com/ITsMagic-Software/Package-MonsteraDeliciosaPlant4",
@@ -11,5 +11,6 @@
     "images": [
         "img1.jpg"
     ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy90cm9waWNhbC1wbGFudHMtcGFjay1tMDJwLTJmMDkzYWZiNzkyNzQyNDM4ZjBmN2JhN2VhYWI5MGYw"
+    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy90cm9waWNhbC1wbGFudHMtcGFjay1tMDJwLTJmMDkzYWZiNzkyNzQyNDM4ZjBmN2JhN2VhYWI5MGYw",
+    "repivot": true
 }

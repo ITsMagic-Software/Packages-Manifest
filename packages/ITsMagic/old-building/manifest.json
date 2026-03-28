@@ -1,7 +1,7 @@
 {
     "titleB64": "T2xkQnVpbGRpbmc=",
     "descriptionB64": "QXNzZXRzIHBhY2s6IE9sZEJ1aWxkaW5n",
-    "tags": "graphics,assets,model",
+    "tags": "3d,model,assets,props,old,building",
     "version": 1,
     "appMajorVersion": 2,
     "repositoryURL": "https://github.com/ITsMagic-Software/Package-OldBuilding",
@@ -11,5 +11,6 @@
     "images": [
         "img1.jpg"
     ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9vbGQtYnVpbGRpbmctcGFjay1sb3dwb2x5LTA4MWVjY2I5N2JlODQyOWM4M2IyZTlmYjQwNzcyN2U3"
+    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9vbGQtYnVpbGRpbmctcGFjay1sb3dwb2x5LTA4MWVjY2I5N2JlODQyOWM4M2IyZTlmYjQwNzcyN2U3",
+    "repivot": true
 }
