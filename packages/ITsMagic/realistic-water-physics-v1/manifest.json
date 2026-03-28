@@ -1,0 +1,18 @@
+{
+    "titleB64": "UmVhbGlzdGljIFdhdGVyIFBoeXNpY3M=",
+    "descriptionB64": "UmVhbGlzdGljIHdhdGVyIHNoYWRlciB3aXRoIHBoeXNpY3MKClRoaXMgcHJvamVjdCB3aWxsIHJlY2VpdmUgdXBkYXRlcy4KCllvdSBuZWVkIHRvIGFkZCAiV2F0ZXIgY29udHJvbGxlciIgdG8gZXZlcnkgd29ybGQgeW91IG5lZWQgd2F0ZXIgcGh5c2ljcw==",
+    "tags": "water,realistic,shader",
+    "version": 1,
+    "repositoryURL": "https://github.com/itsvks19/TemplateV1-RealisticWaterPhysics",
+    "isTemplate": true,
+    "date": "12/02/2026",
+    "thumbnail": "img1.png",
+    "appMajorVersion": 1,
+    "images": [
+        "img1.png",
+        "img3.png",
+        "img2.png",
+        "img4.png",
+        "img5.png"
+    ]
+}

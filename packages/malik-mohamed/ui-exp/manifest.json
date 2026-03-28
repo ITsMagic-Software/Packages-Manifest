@@ -1,0 +1,15 @@
+{
+    "titleB64": "VUkgZXhhbXBsZXM=",
+    "descriptionB64": "VmVyeSBuaWNlIGFuZCBjb29sZXIgVUkncw==",
+    "tags": "ui",
+    "version": 1,
+    "appMajorVersion": 1,
+    "repositoryURL": "https://github.com/malik-mohamed-2009/UI-examples",
+    "isTemplate": true,
+    "date": "07/02/2026",
+    "thumbnail": "thumb.jpg",
+    "images": [
+        "img1.jpg",
+        "img2.jpg"
+    ]
+}

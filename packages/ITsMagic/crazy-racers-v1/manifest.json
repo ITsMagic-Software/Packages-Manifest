@@ -1,0 +1,17 @@
+{
+    "titleB64": "Q3JhenkgUmFjZXJz",
+    "descriptionB64": "VGhlIENyYXp5UmFjZXJz",
+    "tags": "crazyracers,car,racing,crazy",
+    "version": 1,
+    "repositoryURL": "https://github.com/itsvks19/TemplateV1-CrazyRacers",
+    "isTemplate": true,
+    "date": "12/02/2026",
+    "thumbnail": "img1.png",
+    "appMajorVersion": 1,
+    "images": [
+        "img1.png",
+        "img3.png",
+        "img2.png",
+        "img4.png"
+    ]
+}

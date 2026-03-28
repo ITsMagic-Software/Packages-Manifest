@@ -1,0 +1,15 @@
+{
+  "appMajorVersion": 2,
+  "date": "20/03/2026",
+  "descriptionB64": "T2JqZWN0UG9vbCBleGFtcGxl",
+  "images": [
+    "img1.jpg",
+    "img2.jpg"
+  ],
+  "isTemplate": true,
+  "repositoryURL": "https://github.com/ITsMagic-Software/objectpool-example",
+  "tags": "template,objectpool,vegetation",
+  "thumbnail": "thumb.jpg",
+  "titleB64": "T2JqZWN0UG9vbCBleGFtcGxl",
+  "version": 1
+}

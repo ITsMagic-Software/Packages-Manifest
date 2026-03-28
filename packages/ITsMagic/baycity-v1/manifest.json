@@ -1,0 +1,21 @@
+{
+    "titleB64": "QmF5IENpdHkgKHdpdGggY2FyKQ==",
+    "descriptionB64": "QSBjb21wbGV0ZSBjaXR5IHdpdGggYSBuaWNlIHBpY2t1cCBmb3IgZXhwbG9yYXRpb24u",
+    "tags": "city,baycity",
+    "version": 1,
+    "repositoryURL": "https://github.com/itsvks19/TemplateV1-BayCity",
+    "isTemplate": true,
+    "date": "12/02/2026",
+    "thumbnail": "img5.png",
+    "appMajorVersion": 1,
+    "images": [
+        "img1.png",
+        "img3.png",
+        "img2.png",
+        "img4.png",
+        "img5.png",
+        "img6.png",
+        "img7.png",
+        "img8.png"
+    ]
+}

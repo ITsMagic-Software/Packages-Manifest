@@ -1,7 +1,7 @@
 {
     "titleB64": "VHJvcGljYWwgSXNsYW5k",
     "descriptionB64": "UmVhbGlzdGljIHRyb3BpY2FsIGlzbGFuZCBwcm9qZWN0IHdpdGggYWZwcA==",
-    "tags": "3d,model,assets,props,tropical,island,v1",
+    "tags": "island,tropicalisland,tropical,afpp",
     "version": 1,
     "repositoryURL": "https://github.com/itsvks19/TemplateV1-TropicalIsland",
     "isTemplate": true,
@@ -13,6 +13,5 @@
         "img3.png",
         "img2.png",
         "img4.png"
-    ],
-    "repivot": true
+    ]
 }

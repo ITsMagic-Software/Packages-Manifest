@@ -1,0 +1,17 @@
+{
+    "titleB64": "Q2FyZ28gdHJ1Y2sgcGh5c2ljcw==",
+    "descriptionB64": "VmVyeSBzaW1wbGUgY2FyIHBoeXNpY3MgbWFkZSBvbiBJVHNNYWdpYyBFbmdpbmU=",
+    "tags": "truck,car,physics,control",
+    "version": 3,
+    "appMajorVersion": 1,
+    "repositoryURL": "https://github.com/malik-mohamed-2009/truck-physics-for-itsmagic-1",
+    "isTemplate": true,
+    "date": "07/02/2026",
+    "thumbnail": "thumb.jpg",
+    "images": [
+        "img1.jpg",
+        "img2.jpg",
+        "img3.jpg",
+        "img4.jpg"
+    ]
+}

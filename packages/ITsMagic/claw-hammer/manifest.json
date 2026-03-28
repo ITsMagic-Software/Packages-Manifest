@@ -1,7 +1,7 @@
 {
     "titleB64": "Q2xhd0hhbW1lcg==",
     "descriptionB64": "QXNzZXRzIHBhY2s6IENsYXdIYW1tZXI=",
-    "tags": "3d,model,assets,props,claw,hammer",
+    "tags": "graphics,assets,model",
     "version": 1,
     "appMajorVersion": 2,
     "repositoryURL": "https://github.com/ITsMagic-Software/Package-ClawHammer",
@@ -11,6 +11,5 @@
     "images": [
         "img1.jpg"
     ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
-    "repivot": true
+    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh"
 }
