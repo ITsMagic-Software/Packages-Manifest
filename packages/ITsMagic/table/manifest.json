@@ -1,16 +1,16 @@
 {
-    "titleB64": "Q291bnRlcg==",
-    "descriptionB64": "QXNzZXRzIHBhY2s6IENvdW50ZXI=",
+    "titleB64": "VGFibGU=",
+    "descriptionB64": "QXNzZXRzIHBhY2s6IFRhYmxl",
     "tags": "3d,model,assets,props,table",
+    "repivot": true,
     "version": 1,
     "appMajorVersion": 2,
     "repositoryURL": "https://github.com/ITsMagic-Software/Package-Table",
     "isTemplate": false,
-    "date": "09/02/2026",
+    "date": "29/03/2026",
     "thumbnail": "thumb.jpg",
     "images": [
         "img1.jpg"
     ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9zdHJlZXQtYXNzZXQtcGFjay1mM2ViNDdkMDJlMmU0YWIyOTBlNjY3NTJmYTM1NGI0OA==",
-    "repivot": true
+    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9icmltc3RvbmUtcHJvcHMtYzhkYzFlYTI1ZmY3NGVhNGIzZWJjM2RjZDc1NDBlODk="
 }
