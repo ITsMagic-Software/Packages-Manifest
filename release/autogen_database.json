@@ -40,8 +40,13 @@
     },
     {
       "titleB64": "QWRoZXNpdmVUYXBl",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBhZGhlc2l2ZSB0YXBlIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRmFjdG9yeSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgVGhvbWFzX0Nyb3plbG9uLiBJdCBpcyBzdWl0ZWQgZm9yIGluZHVzdHJpYWwgc2NlbmVzLCBzZXJ2aWNlIGFyZWFzLCB1dGlsaXR5IHNwYWNlcyBhbmQgZW52aXJvbm1lbnQgZHJlc3NpbmcgaW4gcmVhbC10aW1lIHByb2plY3RzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIDRLIG1hcHMu",
       "tags": "adhesive_tape,tape,tooling,utility,game_ready,unity",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEFkaGVzaXZlVGFwZQ==",
+      "tags": "3d,model,assets,props,adhesive,tape",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-AdhesiveTape",
@@ -113,8 +118,13 @@
     },
     {
       "titleB64": "QXNodHJheQ==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBhc2h0cmF5IGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRnVybml0dXJlIFBhY2sgfCBMb3ctUG9seSB8IEdhbWUtUmVhZHkiIFNrZXRjaGZhYiBwYWNrIGJ5IGtFYW0uIEl0IGlzIHN1aXRlZCBmb3Igcm9vbSBkcmVzc2luZywgaG9tZSBpbnRlcmlvcnMgYW5kIHN0eWxpemVkIHJlYWwtdGltZSBlbnZpcm9ubWVudHMgZnJvbSB0aGUgb3JpZ2luYWwgbG93LXBvbHkgZ2FtZS1yZWFkeSBmdXJuaXR1cmUgY29sbGVjdGlvbi4=",
       "tags": "ashtray,decor,interior,low_poly,game_ready",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEFzaHRyYXk=",
+      "tags": "3d,model,assets,props,ashtray",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Ashtray",
@@ -131,8 +141,13 @@
     },
     {
       "titleB64": "QmFuYW5hVHJlZQ==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBiYW5hbmEgdHJlZSBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIlRyb3BpY2FsIFBsYW50cyBQYWNrIE0wMlAiIFNrZXRjaGZhYiBwYWNrIGJ5IE1venphcmVsbGFBUkMuIEl0IGZpdHMgdHJvcGljYWwgZ2FyZGVucywgbHVzaCBleHRlcmlvciBzY2VuZXMsIGFyY2hpdGVjdHVyYWwgdmlzdWFsaXphdGlvbiBhbmQgVW5yZWFsIEVuZ2luZSBlbnZpcm9ubWVudHMsIHVzaW5nIHRoZSBvcmlnaW5hbCBwYWNrJ3MgUEJSIHdvcmtmbG93Lg==",
       "tags": "banana_tree,tree,plant,vegetation,tropical,pbr,unreal_engine",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJhbmFuYVRyZWU=",
+      "tags": "3d,model,assets,props,banana,tree,nature,vegetation,forest",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-BananaTree",
@@ -149,8 +164,13 @@
     },
     {
       "titleB64": "QmFuYW5hVHJlZQ==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgYmFuYW5hIHRyZWUgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJUcm9waWNhbCBQbGFudHMgUGFjayBNMDJQIiBTa2V0Y2hmYWIgcGFjayBieSBNb3p6YXJlbGxhQVJDLiBJdCBmaXRzIHRyb3BpY2FsIGdhcmRlbnMsIGx1c2ggZXh0ZXJpb3Igc2NlbmVzLCBhcmNoaXRlY3R1cmFsIHZpc3VhbGl6YXRpb24gYW5kIFVucmVhbCBFbmdpbmUgZW52aXJvbm1lbnRzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIFBCUiB3b3JrZmxvdy4=",
       "tags": "banana_tree,tree,plant,vegetation,tropical,pbr,unreal_engine,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJhbmFuYVRyZWU=",
+      "tags": "3d,model,assets,props,banana,tree,nature,vegetation,forest",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-BananaTree2",
@@ -167,8 +187,13 @@
     },
     {
       "titleB64": "QmFycmVs",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBiYXJyZWwgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJCYXJyZWwgUGFjayIgU2tldGNoZmFiIHBhY2sgYnkgdm1hdHRoZXcuIEl0IGZpdHMgcHJvcCBkcmVzc2luZywgc3RvcmFnZSBzY2VuZXMgYW5kIHJlYWwtdGltZSBlbnZpcm9ubWVudCBjb21wb3NpdGlvbiwgYmFzZWQgb24gdGhlIHBhY2sncyBpbXByb3ZlZCB0ZXh0dXJlcyBhbmQgaGlnaGVyLXBvbHkgdHJlYXRtZW50Lg==",
       "tags": "barrel,container,storage,industrial,game_ready",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJhcnJlbA==",
+      "tags": "3d,model,assets,props,barrel",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Barrel",
@@ -185,8 +210,13 @@
     },
     {
       "titleB64": "QmFycmVs",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgYmFycmVsIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiQmFycmVsIFBhY2siIFNrZXRjaGZhYiBwYWNrIGJ5IHZtYXR0aGV3LiBJdCBmaXRzIHByb3AgZHJlc3NpbmcsIHN0b3JhZ2Ugc2NlbmVzIGFuZCByZWFsLXRpbWUgZW52aXJvbm1lbnQgY29tcG9zaXRpb24sIGJhc2VkIG9uIHRoZSBwYWNrJ3MgaW1wcm92ZWQgdGV4dHVyZXMgYW5kIGhpZ2hlci1wb2x5IHRyZWF0bWVudC4=",
       "tags": "barrel,container,storage,industrial,game_ready,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJhcnJlbA==",
+      "tags": "3d,model,assets,props,barrel",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Barrel10",
@@ -203,8 +233,13 @@
     },
     {
       "titleB64": "QmFycmVs",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgYmFycmVsIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiQmFycmVsIFBhY2siIFNrZXRjaGZhYiBwYWNrIGJ5IHZtYXR0aGV3LiBJdCBmaXRzIHByb3AgZHJlc3NpbmcsIHN0b3JhZ2Ugc2NlbmVzIGFuZCByZWFsLXRpbWUgZW52aXJvbm1lbnQgY29tcG9zaXRpb24sIGJhc2VkIG9uIHRoZSBwYWNrJ3MgaW1wcm92ZWQgdGV4dHVyZXMgYW5kIGhpZ2hlci1wb2x5IHRyZWF0bWVudC4=",
       "tags": "barrel,container,storage,industrial,game_ready,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJhcnJlbA==",
+      "tags": "3d,model,assets,props,barrel",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Barrel11",
@@ -221,8 +256,13 @@
     },
     {
       "titleB64": "QmFycmVs",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgYmFycmVsIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiQmFycmVsIFBhY2siIFNrZXRjaGZhYiBwYWNrIGJ5IHZtYXR0aGV3LiBJdCBmaXRzIHByb3AgZHJlc3NpbmcsIHN0b3JhZ2Ugc2NlbmVzIGFuZCByZWFsLXRpbWUgZW52aXJvbm1lbnQgY29tcG9zaXRpb24sIGJhc2VkIG9uIHRoZSBwYWNrJ3MgaW1wcm92ZWQgdGV4dHVyZXMgYW5kIGhpZ2hlci1wb2x5IHRyZWF0bWVudC4=",
       "tags": "barrel,container,storage,industrial,game_ready,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJhcnJlbA==",
+      "tags": "3d,model,assets,props,barrel",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Barrel2",
@@ -239,8 +279,13 @@
     },
     {
       "titleB64": "QmFycmVs",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgYmFycmVsIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiQmFycmVsIFBhY2siIFNrZXRjaGZhYiBwYWNrIGJ5IHZtYXR0aGV3LiBJdCBmaXRzIHByb3AgZHJlc3NpbmcsIHN0b3JhZ2Ugc2NlbmVzIGFuZCByZWFsLXRpbWUgZW52aXJvbm1lbnQgY29tcG9zaXRpb24sIGJhc2VkIG9uIHRoZSBwYWNrJ3MgaW1wcm92ZWQgdGV4dHVyZXMgYW5kIGhpZ2hlci1wb2x5IHRyZWF0bWVudC4=",
       "tags": "barrel,container,storage,industrial,game_ready,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJhcnJlbA==",
+      "tags": "3d,model,assets,props,barrel",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Barrel3",
@@ -257,8 +302,13 @@
     },
     {
       "titleB64": "QmFycmVs",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgYmFycmVsIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiQmFycmVsIFBhY2siIFNrZXRjaGZhYiBwYWNrIGJ5IHZtYXR0aGV3LiBJdCBmaXRzIHByb3AgZHJlc3NpbmcsIHN0b3JhZ2Ugc2NlbmVzIGFuZCByZWFsLXRpbWUgZW52aXJvbm1lbnQgY29tcG9zaXRpb24sIGJhc2VkIG9uIHRoZSBwYWNrJ3MgaW1wcm92ZWQgdGV4dHVyZXMgYW5kIGhpZ2hlci1wb2x5IHRyZWF0bWVudC4=",
       "tags": "barrel,container,storage,industrial,game_ready,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJhcnJlbA==",
+      "tags": "3d,model,assets,props,barrel",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Barrel4",
@@ -275,8 +325,13 @@
     },
     {
       "titleB64": "QmFycmVs",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgYmFycmVsIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiQmFycmVsIFBhY2siIFNrZXRjaGZhYiBwYWNrIGJ5IHZtYXR0aGV3LiBJdCBmaXRzIHByb3AgZHJlc3NpbmcsIHN0b3JhZ2Ugc2NlbmVzIGFuZCByZWFsLXRpbWUgZW52aXJvbm1lbnQgY29tcG9zaXRpb24sIGJhc2VkIG9uIHRoZSBwYWNrJ3MgaW1wcm92ZWQgdGV4dHVyZXMgYW5kIGhpZ2hlci1wb2x5IHRyZWF0bWVudC4=",
       "tags": "barrel,container,storage,industrial,game_ready,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJhcnJlbA==",
+      "tags": "3d,model,assets,props,barrel",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Barrel5",
@@ -293,8 +348,13 @@
     },
     {
       "titleB64": "QmFycmVs",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgYmFycmVsIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiQmFycmVsIFBhY2siIFNrZXRjaGZhYiBwYWNrIGJ5IHZtYXR0aGV3LiBJdCBmaXRzIHByb3AgZHJlc3NpbmcsIHN0b3JhZ2Ugc2NlbmVzIGFuZCByZWFsLXRpbWUgZW52aXJvbm1lbnQgY29tcG9zaXRpb24sIGJhc2VkIG9uIHRoZSBwYWNrJ3MgaW1wcm92ZWQgdGV4dHVyZXMgYW5kIGhpZ2hlci1wb2x5IHRyZWF0bWVudC4=",
       "tags": "barrel,container,storage,industrial,game_ready,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJhcnJlbA==",
+      "tags": "3d,model,assets,props,barrel",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Barrel6",
@@ -311,8 +371,13 @@
     },
     {
       "titleB64": "QmFycmVs",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgYmFycmVsIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiQmFycmVsIFBhY2siIFNrZXRjaGZhYiBwYWNrIGJ5IHZtYXR0aGV3LiBJdCBmaXRzIHByb3AgZHJlc3NpbmcsIHN0b3JhZ2Ugc2NlbmVzIGFuZCByZWFsLXRpbWUgZW52aXJvbm1lbnQgY29tcG9zaXRpb24sIGJhc2VkIG9uIHRoZSBwYWNrJ3MgaW1wcm92ZWQgdGV4dHVyZXMgYW5kIGhpZ2hlci1wb2x5IHRyZWF0bWVudC4=",
       "tags": "barrel,container,storage,industrial,game_ready,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJhcnJlbA==",
+      "tags": "3d,model,assets,props,barrel",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Barrel7",
@@ -329,8 +394,13 @@
     },
     {
       "titleB64": "QmFycmVs",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgYmFycmVsIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiQmFycmVsIFBhY2siIFNrZXRjaGZhYiBwYWNrIGJ5IHZtYXR0aGV3LiBJdCBmaXRzIHByb3AgZHJlc3NpbmcsIHN0b3JhZ2Ugc2NlbmVzIGFuZCByZWFsLXRpbWUgZW52aXJvbm1lbnQgY29tcG9zaXRpb24sIGJhc2VkIG9uIHRoZSBwYWNrJ3MgaW1wcm92ZWQgdGV4dHVyZXMgYW5kIGhpZ2hlci1wb2x5IHRyZWF0bWVudC4=",
       "tags": "barrel,container,storage,industrial,game_ready,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJhcnJlbA==",
+      "tags": "3d,model,assets,props,barrel",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Barrel8",
@@ -347,8 +417,13 @@
     },
     {
       "titleB64": "QmFycmVs",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgYmFycmVsIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiQmFycmVsIFBhY2siIFNrZXRjaGZhYiBwYWNrIGJ5IHZtYXR0aGV3LiBJdCBmaXRzIHByb3AgZHJlc3NpbmcsIHN0b3JhZ2Ugc2NlbmVzIGFuZCByZWFsLXRpbWUgZW52aXJvbm1lbnQgY29tcG9zaXRpb24sIGJhc2VkIG9uIHRoZSBwYWNrJ3MgaW1wcm92ZWQgdGV4dHVyZXMgYW5kIGhpZ2hlci1wb2x5IHRyZWF0bWVudC4=",
       "tags": "barrel,container,storage,industrial,game_ready,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJhcnJlbA==",
+      "tags": "3d,model,assets,props,barrel",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Barrel9",
@@ -365,8 +440,13 @@
     },
     {
       "titleB64": "QmFycmVsVmFyaWFudA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgYmFycmVsIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiTWVkaWV2YWwgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IERhbmllbCBWaWNlbnRlLiBJdCBmaXRzIG1vZHVsYXIgbWVkaWV2YWwgY2l0eSBzY2VuZXMsIHZpbGxhZ2UgZW52aXJvbm1lbnRzLCBjb3VydHlhcmRzIGFuZCBoaXN0b3JpY2FsIHNldCBkcmVzc2luZy4=",
       "tags": "barrel,container,storage,industrial,medieval,game_ready,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJhcnJlbFZhcmlhbnQ=",
+      "tags": "3d,model,assets,props,barrel,variant",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-BarrelVariant",
@@ -383,8 +463,13 @@
     },
     {
       "titleB64": "QmF0aHJvb21TaW5r",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBiYXRocm9vbSBzaW5rIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRmFjdG9yeSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgVGhvbWFzX0Nyb3plbG9uLiBJdCBpcyBzdWl0ZWQgZm9yIGluZHVzdHJpYWwgc2NlbmVzLCBzZXJ2aWNlIGFyZWFzLCB1dGlsaXR5IHNwYWNlcyBhbmQgZW52aXJvbm1lbnQgZHJlc3NpbmcgaW4gcmVhbC10aW1lIHByb2plY3RzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIDRLIG1hcHMu",
       "tags": "bathroom_sink,plumbing,bathroom,interior,game_ready,unity",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJhdGhyb29tU2luaw==",
+      "tags": "3d,model,assets,props,bathroom,sink",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-BathroomSink",
@@ -424,8 +509,13 @@
     },
     {
       "titleB64": "QSBCb29rcyBNb2RlbA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBib29rcyBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkJyaW1zdG9uZSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgQ3RybExpZ2h0LiBJdCBmaXRzIGludGVyaW9yIHByb3BzLCByb29tIGRyZXNzaW5nIGFuZCBlbnZpcm9ubWVudGFsIHN0b3J5dGVsbGluZyBzY2VuZXMgaW5zcGlyZWQgYnkgdGhlIG9yaWdpbmFsIEJyaW1zdG9uZSBwcm9qZWN0Lg==",
       "tags": "books,decor,interior,realistic,game_ready",
+=======
+      "descriptionB64": "SGVsbG8sIHNvIGdsYWQgeW91IGFyZSBoZXJlISBUaGVzZSBhcmUgc29tZSBwcm9wcyBJIG1hZGUgZm9yIGEgY2Fwc3RvbmUgY2xhc3MgdGhhdCByZXF1aXJlcyB0aGUgc3R1ZGVudHMgdG8gbWFrZSBhIGdhbWUgdW5kZXIgdGhlIGdhbWUgamFtIHRpbWVmcmFtZS4gSSBtb2RlbGVkIHRoZXNlIHByb3BzIGFuZCB0ZXh0dXJlZCBhIGZldy4KSSByZWFsbHkgZW5qb3llZCBtYWtpbmcgdGhlc2UgcHJvcHMgZm9yIHNlcnZhbCByZWFzb25zLCBvbmUgYmVpbmcgdGhhdCBJIGhhdmUgbmV2ZXIgZ29uZSBmb3IgYSByZWFsaXN0aWMgc3R5bGUgYW5kIEkgZmVlbCBsaWtlIEkgbmFpbGVkIGl0ISB0aGUgcmVhbGlzdGljIGFydCBzdHlsZSB3YXMgYSBjaGFsbGVuZ2UgYXQgZmlyc3QgYnV0IGFmdGVyIHNvbWUgdGltZSBpIGJlY2FtZSBmYXN0ZXIgYW5kIHdhcyBhYmxlIHRvIGNyZWF0ZSB3aGF0IHlvdSBzZWUgdG9kYXkuCklmIHlvdSB3b3VsZCBsaWtlIHRvIGNoZWNrIG91dCB0aGUgZ2FtZSB0byBwbGF5IHlvdXJzZWxmIHlvdSBjYW4gZ28gdG8gaHR0cHM6Ly9jcmVhdHVyZW1vb24uaXRjaC5pby90aGVicmltc3RvbmU=",
+      "tags": "3d,model,assets,props,books",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Books",
@@ -437,13 +527,22 @@
       ],
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9icmltc3RvbmUtcHJvcHMtYzhkYzFlYTI1ZmY3NGVhNGIzZWJjM2RjZDc1NDBlODk=",
       "repivot": true,
+<<<<<<< HEAD
       "id": "7dabd7af-a4a0-4cdf-acc4-b4a45d52a817",
+=======
+      "id": "12ae97f0-1166-4ab9-813f-ba8739ad1326",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "userName": "ITsMagic"
     },
     {
       "titleB64": "Qm90dGxl",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBib3R0bGUgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJTdHJlZXQgQXNzZXQgUGFjayIgU2tldGNoZmFiIHBhY2sgYnkgdm1hdHRoZXcuIEl0IGZpdHMgc2lkZXdhbGtzLCByb2Fkd29yaywgYWxsZXlzIGFuZCB1cmJhbiBlbnZpcm9ubWVudCBkcmVzc2luZywgYmFzZWQgb24gYXNzZXRzIGNyZWF0ZWQgaW4gQmxlbmRlciBhbmQgU3Vic3RhbmNlIDNEIFBhaW50ZXIu",
       "tags": "glass_bottle,glass,street_prop,street,urban",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJvdHRsZQ==",
+      "tags": "3d,model,assets,props,bottle",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Bottle",
@@ -460,8 +559,13 @@
     },
     {
       "titleB64": "Qm94",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBib3ggYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJGdXJuaXR1cmUgUGFjayB8IExvdy1Qb2x5IHwgR2FtZS1SZWFkeSIgU2tldGNoZmFiIHBhY2sgYnkga0VhbS4gSXQgaXMgc3VpdGVkIGZvciByb29tIGRyZXNzaW5nLCBob21lIGludGVyaW9ycyBhbmQgc3R5bGl6ZWQgcmVhbC10aW1lIGVudmlyb25tZW50cyBmcm9tIHRoZSBvcmlnaW5hbCBsb3ctcG9seSBnYW1lLXJlYWR5IGZ1cm5pdHVyZSBjb2xsZWN0aW9uLg==",
       "tags": "box,container,storage,low_poly,game_ready",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJveA==",
+      "tags": "3d,model,assets,props,box",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Box",
@@ -478,8 +582,13 @@
     },
     {
       "titleB64": "Qm94",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgYm94IGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRnVybml0dXJlIFBhY2sgfCBMb3ctUG9seSB8IEdhbWUtUmVhZHkiIFNrZXRjaGZhYiBwYWNrIGJ5IGtFYW0uIEl0IGlzIHN1aXRlZCBmb3Igcm9vbSBkcmVzc2luZywgaG9tZSBpbnRlcmlvcnMgYW5kIHN0eWxpemVkIHJlYWwtdGltZSBlbnZpcm9ubWVudHMgZnJvbSB0aGUgb3JpZ2luYWwgbG93LXBvbHkgZ2FtZS1yZWFkeSBmdXJuaXR1cmUgY29sbGVjdGlvbi4=",
       "tags": "box,container,storage,low_poly,game_ready,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJveA==",
+      "tags": "3d,model,assets,props,box",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Box2",
@@ -496,8 +605,13 @@
     },
     {
       "titleB64": "Qm94",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgYm94IGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRnVybml0dXJlIFBhY2sgfCBMb3ctUG9seSB8IEdhbWUtUmVhZHkiIFNrZXRjaGZhYiBwYWNrIGJ5IGtFYW0uIEl0IGlzIHN1aXRlZCBmb3Igcm9vbSBkcmVzc2luZywgaG9tZSBpbnRlcmlvcnMgYW5kIHN0eWxpemVkIHJlYWwtdGltZSBlbnZpcm9ubWVudHMgZnJvbSB0aGUgb3JpZ2luYWwgbG93LXBvbHkgZ2FtZS1yZWFkeSBmdXJuaXR1cmUgY29sbGVjdGlvbi4=",
       "tags": "box,container,storage,low_poly,game_ready,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJveA==",
+      "tags": "3d,model,assets,props,box",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Box3",
@@ -514,8 +628,13 @@
     },
     {
       "titleB64": "Qm94VmFyaWFudA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgYm94IGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiTWVkaWV2YWwgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IERhbmllbCBWaWNlbnRlLiBJdCBmaXRzIG1vZHVsYXIgbWVkaWV2YWwgY2l0eSBzY2VuZXMsIHZpbGxhZ2UgZW52aXJvbm1lbnRzLCBjb3VydHlhcmRzIGFuZCBoaXN0b3JpY2FsIHNldCBkcmVzc2luZy4=",
       "tags": "box,container,storage,medieval,game_ready,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJveFZhcmlhbnQ=",
+      "tags": "3d,model,assets,props,box,variant",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-BoxVariant",
@@ -532,8 +651,13 @@
     },
     {
       "titleB64": "QnJva2VuQm90dGxl",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBicm9rZW4gYm90dGxlIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiU3RyZWV0IEFzc2V0IFBhY2siIFNrZXRjaGZhYiBwYWNrIGJ5IHZtYXR0aGV3LiBJdCBmaXRzIHNpZGV3YWxrcywgcm9hZHdvcmssIGFsbGV5cyBhbmQgdXJiYW4gZW52aXJvbm1lbnQgZHJlc3NpbmcsIGJhc2VkIG9uIGFzc2V0cyBjcmVhdGVkIGluIEJsZW5kZXIgYW5kIFN1YnN0YW5jZSAzRCBQYWludGVyLg==",
       "tags": "broken_bottle,glass,debris,street_prop,street,urban",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJyb2tlbkJvdHRsZQ==",
+      "tags": "3d,model,assets,props,broken,bottle",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-BrokenBottle",
@@ -550,8 +674,13 @@
     },
     {
       "titleB64": "QnJva2VuQ29mZmVlQ3Vw",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBicm9rZW4gY29mZmVlIGN1cCBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIlN0cmVldCBBc3NldCBQYWNrIiBTa2V0Y2hmYWIgcGFjayBieSB2bWF0dGhldy4gSXQgZml0cyBzaWRld2Fsa3MsIHJvYWR3b3JrLCBhbGxleXMgYW5kIHVyYmFuIGVudmlyb25tZW50IGRyZXNzaW5nLCBiYXNlZCBvbiBhc3NldHMgY3JlYXRlZCBpbiBCbGVuZGVyIGFuZCBTdWJzdGFuY2UgM0QgUGFpbnRlci4=",
       "tags": "broken_cup,debris,tableware,street_prop,street,urban",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJyb2tlbkNvZmZlZUN1cA==",
+      "tags": "3d,model,assets,props,broken,coffee,cup",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-BrokenCoffeeCup",
@@ -568,8 +697,13 @@
     },
     {
       "titleB64": "QnVja2V0",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBidWNrZXQgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJNZWRpZXZhbCBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgRGFuaWVsIFZpY2VudGUuIEl0IGZpdHMgbW9kdWxhciBtZWRpZXZhbCBjaXR5IHNjZW5lcywgdmlsbGFnZSBlbnZpcm9ubWVudHMsIGNvdXJ0eWFyZHMgYW5kIGhpc3RvcmljYWwgc2V0IGRyZXNzaW5nLg==",
       "tags": "bucket,container,utility,medieval,game_ready",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJ1Y2tldA==",
+      "tags": "3d,model,assets,props,bucket",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Bucket",
@@ -586,8 +720,13 @@
     },
     {
       "titleB64": "Q2FiaW5ldA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBjYWJpbmV0IGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRmFjdG9yeSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgVGhvbWFzX0Nyb3plbG9uLiBJdCBpcyBzdWl0ZWQgZm9yIGluZHVzdHJpYWwgc2NlbmVzLCBzZXJ2aWNlIGFyZWFzLCB1dGlsaXR5IHNwYWNlcyBhbmQgZW52aXJvbm1lbnQgZHJlc3NpbmcgaW4gcmVhbC10aW1lIHByb2plY3RzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIDRLIG1hcHMu",
       "tags": "cabinet,furniture,storage,interior,game_ready,unity",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IENhYmluZXQ=",
+      "tags": "3d,model,assets,props,cabinet",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Cabinet",
@@ -604,8 +743,13 @@
     },
     {
       "titleB64": "Q2FiaW5ldA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgY2FiaW5ldCBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkZhY3RvcnkgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IFRob21hc19Dcm96ZWxvbi4gSXQgaXMgc3VpdGVkIGZvciBpbmR1c3RyaWFsIHNjZW5lcywgc2VydmljZSBhcmVhcywgdXRpbGl0eSBzcGFjZXMgYW5kIGVudmlyb25tZW50IGRyZXNzaW5nIGluIHJlYWwtdGltZSBwcm9qZWN0cywgdXNpbmcgdGhlIG9yaWdpbmFsIHBhY2sncyA0SyBtYXBzLg==",
       "tags": "cabinet,furniture,storage,interior,game_ready,unity,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IENhYmluZXQ=",
+      "tags": "3d,model,assets,props,cabinet",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Cabinet2",
@@ -622,8 +766,13 @@
     },
     {
       "titleB64": "Q2FyZGJvYXJkQm94",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBjYXJkYm9hcmQgYm94IGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRmFjdG9yeSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgVGhvbWFzX0Nyb3plbG9uLiBJdCBpcyBzdWl0ZWQgZm9yIGluZHVzdHJpYWwgc2NlbmVzLCBzZXJ2aWNlIGFyZWFzLCB1dGlsaXR5IHNwYWNlcyBhbmQgZW52aXJvbm1lbnQgZHJlc3NpbmcgaW4gcmVhbC10aW1lIHByb2plY3RzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIDRLIG1hcHMu",
       "tags": "cardboard_box,container,storage,packaging,game_ready,unity",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IENhcmRib2FyZEJveA==",
+      "tags": "3d,model,assets,props,cardboard,box",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-CardboardBox",
@@ -640,8 +789,13 @@
     },
     {
       "titleB64": "Q2FyZGJvYXJkQm94",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgY2FyZGJvYXJkIGJveCBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkZhY3RvcnkgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IFRob21hc19Dcm96ZWxvbi4gSXQgaXMgc3VpdGVkIGZvciBpbmR1c3RyaWFsIHNjZW5lcywgc2VydmljZSBhcmVhcywgdXRpbGl0eSBzcGFjZXMgYW5kIGVudmlyb25tZW50IGRyZXNzaW5nIGluIHJlYWwtdGltZSBwcm9qZWN0cywgdXNpbmcgdGhlIG9yaWdpbmFsIHBhY2sncyA0SyBtYXBzLg==",
       "tags": "cardboard_box,container,storage,packaging,game_ready,unity,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IENhcmRib2FyZEJveA==",
+      "tags": "3d,model,assets,props,cardboard,box",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-CardboardBox2",
@@ -658,8 +812,13 @@
     },
     {
       "titleB64": "Q2FyZGJvYXJkQm94",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgY2FyZGJvYXJkIGJveCBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkZhY3RvcnkgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IFRob21hc19Dcm96ZWxvbi4gSXQgaXMgc3VpdGVkIGZvciBpbmR1c3RyaWFsIHNjZW5lcywgc2VydmljZSBhcmVhcywgdXRpbGl0eSBzcGFjZXMgYW5kIGVudmlyb25tZW50IGRyZXNzaW5nIGluIHJlYWwtdGltZSBwcm9qZWN0cywgdXNpbmcgdGhlIG9yaWdpbmFsIHBhY2sncyA0SyBtYXBzLg==",
       "tags": "cardboard_box,container,storage,packaging,game_ready,unity,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IENhcmRib2FyZEJveA==",
+      "tags": "3d,model,assets,props,cardboard,box",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-CardboardBox3",
@@ -713,8 +872,13 @@
     },
     {
       "titleB64": "QSBDaGFpciBNb2RlbA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBjaGFpciBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkJyaW1zdG9uZSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgQ3RybExpZ2h0LiBJdCBmaXRzIGludGVyaW9yIHByb3BzLCByb29tIGRyZXNzaW5nIGFuZCBlbnZpcm9ubWVudGFsIHN0b3J5dGVsbGluZyBzY2VuZXMgaW5zcGlyZWQgYnkgdGhlIG9yaWdpbmFsIEJyaW1zdG9uZSBwcm9qZWN0Lg==",
       "tags": "chair,furniture,seating,interior,realistic,game_ready",
+=======
+      "descriptionB64": "SGVsbG8sIHNvIGdsYWQgeW91IGFyZSBoZXJlISBUaGVzZSBhcmUgc29tZSBwcm9wcyBJIG1hZGUgZm9yIGEgY2Fwc3RvbmUgY2xhc3MgdGhhdCByZXF1aXJlcyB0aGUgc3R1ZGVudHMgdG8gbWFrZSBhIGdhbWUgdW5kZXIgdGhlIGdhbWUgamFtIHRpbWVmcmFtZS4gSSBtb2RlbGVkIHRoZXNlIHByb3BzIGFuZCB0ZXh0dXJlZCBhIGZldy4KSSByZWFsbHkgZW5qb3llZCBtYWtpbmcgdGhlc2UgcHJvcHMgZm9yIHNlcnZhbCByZWFzb25zLCBvbmUgYmVpbmcgdGhhdCBJIGhhdmUgbmV2ZXIgZ29uZSBmb3IgYSByZWFsaXN0aWMgc3R5bGUgYW5kIEkgZmVlbCBsaWtlIEkgbmFpbGVkIGl0ISB0aGUgcmVhbGlzdGljIGFydCBzdHlsZSB3YXMgYSBjaGFsbGVuZ2UgYXQgZmlyc3QgYnV0IGFmdGVyIHNvbWUgdGltZSBpIGJlY2FtZSBmYXN0ZXIgYW5kIHdhcyBhYmxlIHRvIGNyZWF0ZSB3aGF0IHlvdSBzZWUgdG9kYXkuCklmIHlvdSB3b3VsZCBsaWtlIHRvIGNoZWNrIG91dCB0aGUgZ2FtZSB0byBwbGF5IHlvdXJzZWxmIHlvdSBjYW4gZ28gdG8gaHR0cHM6Ly9jcmVhdHVyZW1vb24uaXRjaC5pby90aGVicmltc3RvbmU=",
+      "tags": "3d,model,assets,props,chair",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Chair",
@@ -731,8 +895,13 @@
     },
     {
       "titleB64": "Q2xhd0hhbW1lcg==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBjbGF3IGhhbW1lciBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkZhY3RvcnkgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IFRob21hc19Dcm96ZWxvbi4gSXQgaXMgc3VpdGVkIGZvciBpbmR1c3RyaWFsIHNjZW5lcywgc2VydmljZSBhcmVhcywgdXRpbGl0eSBzcGFjZXMgYW5kIGVudmlyb25tZW50IGRyZXNzaW5nIGluIHJlYWwtdGltZSBwcm9qZWN0cywgdXNpbmcgdGhlIG9yaWdpbmFsIHBhY2sncyA0SyBtYXBzLg==",
       "tags": "claw_hammer,tool,workshop,utility,game_ready,unity",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IENsYXdIYW1tZXI=",
+      "tags": "3d,model,assets,props,claw,hammer",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-ClawHammer",
@@ -749,8 +918,13 @@
     },
     {
       "titleB64": "Q29mZmVlQ3Vw",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBjb2ZmZWUgY3VwIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiU3RyZWV0IEFzc2V0IFBhY2siIFNrZXRjaGZhYiBwYWNrIGJ5IHZtYXR0aGV3LiBJdCBmaXRzIHNpZGV3YWxrcywgcm9hZHdvcmssIGFsbGV5cyBhbmQgdXJiYW4gZW52aXJvbm1lbnQgZHJlc3NpbmcsIGJhc2VkIG9uIGFzc2V0cyBjcmVhdGVkIGluIEJsZW5kZXIgYW5kIFN1YnN0YW5jZSAzRCBQYWludGVyLg==",
       "tags": "coffee_cup,tableware,kitchen,street,urban",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IENvZmZlZUN1cA==",
+      "tags": "3d,model,assets,props,coffee,cup",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-CoffeeCup",
@@ -767,8 +941,13 @@
     },
     {
       "titleB64": "Q29mZmVlU2F1Y2Vy",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBjb2ZmZWUgc2F1Y2VyIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRnVybml0dXJlIFBhY2sgfCBMb3ctUG9seSB8IEdhbWUtUmVhZHkiIFNrZXRjaGZhYiBwYWNrIGJ5IGtFYW0uIEl0IGlzIHN1aXRlZCBmb3Igcm9vbSBkcmVzc2luZywgaG9tZSBpbnRlcmlvcnMgYW5kIHN0eWxpemVkIHJlYWwtdGltZSBlbnZpcm9ubWVudHMgZnJvbSB0aGUgb3JpZ2luYWwgbG93LXBvbHkgZ2FtZS1yZWFkeSBmdXJuaXR1cmUgY29sbGVjdGlvbi4=",
       "tags": "coffee_saucer,tableware,kitchen,interior,low_poly,game_ready",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IENvZmZlZVNhdWNlcg==",
+      "tags": "3d,model,assets,props,coffee,saucer",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-CoffeeSaucer",
@@ -785,8 +964,13 @@
     },
     {
       "titleB64": "Q29uY3JldEJhcnJpZXI=",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBjb25jcmV0ZSBiYXJyaWVyIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiU3RyZWV0IEFzc2V0IFBhY2siIFNrZXRjaGZhYiBwYWNrIGJ5IHZtYXR0aGV3LiBJdCBmaXRzIHNpZGV3YWxrcywgcm9hZHdvcmssIGFsbGV5cyBhbmQgdXJiYW4gZW52aXJvbm1lbnQgZHJlc3NpbmcsIGJhc2VkIG9uIGFzc2V0cyBjcmVhdGVkIGluIEJsZW5kZXIgYW5kIFN1YnN0YW5jZSAzRCBQYWludGVyLg==",
       "tags": "concrete_barrier,barrier,roadwork,safety,street,urban",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IENvbmNyZXRCYXJyaWVy",
+      "tags": "3d,model,assets,props,concrete,barrier",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-ConcreteBarrier",
@@ -803,8 +987,13 @@
     },
     {
       "titleB64": "Q29uY3JldGVCYXJyaWVyMg==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgY29uY3JldGUgYmFycmllciBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIlN0cmVldCBBc3NldCBQYWNrIiBTa2V0Y2hmYWIgcGFjayBieSB2bWF0dGhldy4gSXQgZml0cyBzaWRld2Fsa3MsIHJvYWR3b3JrLCBhbGxleXMgYW5kIHVyYmFuIGVudmlyb25tZW50IGRyZXNzaW5nLCBiYXNlZCBvbiBhc3NldHMgY3JlYXRlZCBpbiBCbGVuZGVyIGFuZCBTdWJzdGFuY2UgM0QgUGFpbnRlci4=",
       "tags": "concrete_barrier,barrier,roadwork,safety,street,urban,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IENvbmNyZXRlQmFycmllcjI=",
+      "tags": "3d,model,assets,props,concrete,barrier",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-ConcreteBarrier2",
@@ -821,8 +1010,13 @@
     },
     {
       "titleB64": "Q29uZQ==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBjb25lIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiU3RyZWV0IEFzc2V0IFBhY2siIFNrZXRjaGZhYiBwYWNrIGJ5IHZtYXR0aGV3LiBJdCBmaXRzIHNpZGV3YWxrcywgcm9hZHdvcmssIGFsbGV5cyBhbmQgdXJiYW4gZW52aXJvbm1lbnQgZHJlc3NpbmcsIGJhc2VkIG9uIGFzc2V0cyBjcmVhdGVkIGluIEJsZW5kZXIgYW5kIFN1YnN0YW5jZSAzRCBQYWludGVyLg==",
       "tags": "cone,roadwork,safety,street,urban",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IENvbmU=",
+      "tags": "3d,model,assets,props,cone",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Cone",
@@ -839,8 +1033,13 @@
     },
     {
       "titleB64": "Q29uZTI=",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgY29uZSBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIlN0cmVldCBBc3NldCBQYWNrIiBTa2V0Y2hmYWIgcGFjayBieSB2bWF0dGhldy4gSXQgZml0cyBzaWRld2Fsa3MsIHJvYWR3b3JrLCBhbGxleXMgYW5kIHVyYmFuIGVudmlyb25tZW50IGRyZXNzaW5nLCBiYXNlZCBvbiBhc3NldHMgY3JlYXRlZCBpbiBCbGVuZGVyIGFuZCBTdWJzdGFuY2UgM0QgUGFpbnRlci4=",
       "tags": "cone,roadwork,safety,street,urban,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IENvbmUy",
+      "tags": "3d,model,assets,props,cone",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Cone2",
@@ -857,8 +1056,13 @@
     },
     {
       "titleB64": "Q29udGFpbmVy",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBjb250YWluZXIgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJGYWN0b3J5IFByb3BzIiBTa2V0Y2hmYWIgcGFjayBieSBUaG9tYXNfQ3JvemVsb24uIEl0IGlzIHN1aXRlZCBmb3IgaW5kdXN0cmlhbCBzY2VuZXMsIHNlcnZpY2UgYXJlYXMsIHV0aWxpdHkgc3BhY2VzIGFuZCBlbnZpcm9ubWVudCBkcmVzc2luZyBpbiByZWFsLXRpbWUgcHJvamVjdHMsIHVzaW5nIHRoZSBvcmlnaW5hbCBwYWNrJ3MgNEsgbWFwcy4=",
       "tags": "container,storage,industrial,shipping,game_ready,unity",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IENvbnRhaW5lcg==",
+      "tags": "3d,model,assets,props,container",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Container",
@@ -875,8 +1079,13 @@
     },
     {
       "titleB64": "Q29udGFpbmVy",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgY29udGFpbmVyIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRmFjdG9yeSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgVGhvbWFzX0Nyb3plbG9uLiBJdCBpcyBzdWl0ZWQgZm9yIGluZHVzdHJpYWwgc2NlbmVzLCBzZXJ2aWNlIGFyZWFzLCB1dGlsaXR5IHNwYWNlcyBhbmQgZW52aXJvbm1lbnQgZHJlc3NpbmcgaW4gcmVhbC10aW1lIHByb2plY3RzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIDRLIG1hcHMu",
       "tags": "container,storage,industrial,shipping,game_ready,unity,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IENvbnRhaW5lcg==",
+      "tags": "3d,model,assets,props,container",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Container2",
@@ -931,8 +1140,13 @@
     },
     {
       "titleB64": "QSBEaWdpdFNsaWRlciBNb2RlbA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBjb21iaW5hdGlvbiBkaWdpdCBzbGlkZXIgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJCcmltc3RvbmUgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IEN0cmxMaWdodC4gSXQgZml0cyBpbnRlcmlvciBwcm9wcywgcm9vbSBkcmVzc2luZyBhbmQgZW52aXJvbm1lbnRhbCBzdG9yeXRlbGxpbmcgc2NlbmVzIGluc3BpcmVkIGJ5IHRoZSBvcmlnaW5hbCBCcmltc3RvbmUgcHJvamVjdC4=",
       "tags": "digit_slider,mechanism,puzzle,interior,realistic,game_ready",
+=======
+      "descriptionB64": "SGVsbG8sIHNvIGdsYWQgeW91IGFyZSBoZXJlISBUaGVzZSBhcmUgc29tZSBwcm9wcyBJIG1hZGUgZm9yIGEgY2Fwc3RvbmUgY2xhc3MgdGhhdCByZXF1aXJlcyB0aGUgc3R1ZGVudHMgdG8gbWFrZSBhIGdhbWUgdW5kZXIgdGhlIGdhbWUgamFtIHRpbWVmcmFtZS4gSSBtb2RlbGVkIHRoZXNlIHByb3BzIGFuZCB0ZXh0dXJlZCBhIGZldy4KSSByZWFsbHkgZW5qb3llZCBtYWtpbmcgdGhlc2UgcHJvcHMgZm9yIHNlcnZhbCByZWFzb25zLCBvbmUgYmVpbmcgdGhhdCBJIGhhdmUgbmV2ZXIgZ29uZSBmb3IgYSByZWFsaXN0aWMgc3R5bGUgYW5kIEkgZmVlbCBsaWtlIEkgbmFpbGVkIGl0ISB0aGUgcmVhbGlzdGljIGFydCBzdHlsZSB3YXMgYSBjaGFsbGVuZ2UgYXQgZmlyc3QgYnV0IGFmdGVyIHNvbWUgdGltZSBpIGJlY2FtZSBmYXN0ZXIgYW5kIHdhcyBhYmxlIHRvIGNyZWF0ZSB3aGF0IHlvdSBzZWUgdG9kYXkuCklmIHlvdSB3b3VsZCBsaWtlIHRvIGNoZWNrIG91dCB0aGUgZ2FtZSB0byBwbGF5IHlvdXJzZWxmIHlvdSBjYW4gZ28gdG8gaHR0cHM6Ly9jcmVhdHVyZW1vb24uaXRjaC5pby90aGVicmltc3RvbmU=",
+      "tags": "3d,model,assets,props,digitslider",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-DigitSlider",
@@ -944,13 +1158,22 @@
       ],
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9icmltc3RvbmUtcHJvcHMtYzhkYzFlYTI1ZmY3NGVhNGIzZWJjM2RjZDc1NDBlODk=",
       "repivot": true,
+<<<<<<< HEAD
       "id": "e7613a45-89d0-49db-b440-3f890a0e6ae9",
+=======
+      "id": "df5ed099-d30c-4b1a-a7c3-95d0ac2014b1",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "userName": "ITsMagic"
     },
     {
       "titleB64": "RG9vcg==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBkb29yIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRmFjdG9yeSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgVGhvbWFzX0Nyb3plbG9uLiBJdCBpcyBzdWl0ZWQgZm9yIGluZHVzdHJpYWwgc2NlbmVzLCBzZXJ2aWNlIGFyZWFzLCB1dGlsaXR5IHNwYWNlcyBhbmQgZW52aXJvbm1lbnQgZHJlc3NpbmcgaW4gcmVhbC10aW1lIHByb2plY3RzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIDRLIG1hcHMu",
       "tags": "door,interior,entryway,game_ready,unity",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IERvb3I=",
+      "tags": "3d,model,assets,props,door",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Door",
@@ -967,8 +1190,13 @@
     },
     {
       "titleB64": "RG9vcg==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgZG9vciBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkZhY3RvcnkgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IFRob21hc19Dcm96ZWxvbi4gSXQgaXMgc3VpdGVkIGZvciBpbmR1c3RyaWFsIHNjZW5lcywgc2VydmljZSBhcmVhcywgdXRpbGl0eSBzcGFjZXMgYW5kIGVudmlyb25tZW50IGRyZXNzaW5nIGluIHJlYWwtdGltZSBwcm9qZWN0cywgdXNpbmcgdGhlIG9yaWdpbmFsIHBhY2sncyA0SyBtYXBzLg==",
       "tags": "door,interior,entryway,game_ready,unity,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IERvb3I=",
+      "tags": "3d,model,assets,props,door",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Door2",
@@ -985,8 +1213,13 @@
     },
     {
       "titleB64": "RG9vcg==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgZG9vciBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkZhY3RvcnkgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IFRob21hc19Dcm96ZWxvbi4gSXQgaXMgc3VpdGVkIGZvciBpbmR1c3RyaWFsIHNjZW5lcywgc2VydmljZSBhcmVhcywgdXRpbGl0eSBzcGFjZXMgYW5kIGVudmlyb25tZW50IGRyZXNzaW5nIGluIHJlYWwtdGltZSBwcm9qZWN0cywgdXNpbmcgdGhlIG9yaWdpbmFsIHBhY2sncyA0SyBtYXBzLg==",
       "tags": "door,interior,entryway,game_ready,unity,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IERvb3I=",
+      "tags": "3d,model,assets,props,door",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Door3",
@@ -1003,8 +1236,13 @@
     },
     {
       "titleB64": "RG9vckJlYW0=",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBkb29yIGZyYW1lIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRmFjdG9yeSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgVGhvbWFzX0Nyb3plbG9uLiBJdCBpcyBzdWl0ZWQgZm9yIGluZHVzdHJpYWwgc2NlbmVzLCBzZXJ2aWNlIGFyZWFzLCB1dGlsaXR5IHNwYWNlcyBhbmQgZW52aXJvbm1lbnQgZHJlc3NpbmcgaW4gcmVhbC10aW1lIHByb2plY3RzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIDRLIG1hcHMu",
       "tags": "door_frame,structural,entryway,interior,game_ready,unity",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IERvb3JCZWFt",
+      "tags": "3d,model,assets,props,door,beam",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-DoorBeam",
@@ -1021,8 +1259,13 @@
     },
     {
       "titleB64": "RHJlc3Nlcg==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBkcmVzc2VyIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRnVybml0dXJlIFBhY2sgfCBMb3ctUG9seSB8IEdhbWUtUmVhZHkiIFNrZXRjaGZhYiBwYWNrIGJ5IGtFYW0uIEl0IGlzIHN1aXRlZCBmb3Igcm9vbSBkcmVzc2luZywgaG9tZSBpbnRlcmlvcnMgYW5kIHN0eWxpemVkIHJlYWwtdGltZSBlbnZpcm9ubWVudHMgZnJvbSB0aGUgb3JpZ2luYWwgbG93LXBvbHkgZ2FtZS1yZWFkeSBmdXJuaXR1cmUgY29sbGVjdGlvbi4=",
       "tags": "dresser,furniture,storage,interior,low_poly,game_ready",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IERyZXNzZXI=",
+      "tags": "3d,model,assets,props,dresser",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Dresser",
@@ -1058,8 +1301,13 @@
     },
     {
       "titleB64": "RW5naW5lUm9vbQ==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBlbmdpbmUgcm9vbSBtb2R1bGUgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJGYWN0b3J5IFByb3BzIiBTa2V0Y2hmYWIgcGFjayBieSBUaG9tYXNfQ3JvemVsb24uIEl0IGlzIHN1aXRlZCBmb3IgaW5kdXN0cmlhbCBzY2VuZXMsIHNlcnZpY2UgYXJlYXMsIHV0aWxpdHkgc3BhY2VzIGFuZCBlbnZpcm9ubWVudCBkcmVzc2luZyBpbiByZWFsLXRpbWUgcHJvamVjdHMsIHVzaW5nIHRoZSBvcmlnaW5hbCBwYWNrJ3MgNEsgbWFwcy4=",
       "tags": "engine_room,machinery,industrial,environment,game_ready,unity",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEVuZ2luZVJvb20=",
+      "tags": "3d,model,assets,props,engine,room",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-EngineRoom",
@@ -1076,8 +1324,13 @@
     },
     {
       "titleB64": "RmVybg==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBmZXJuIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiVHJvcGljYWwgUGxhbnRzIFBhY2sgTTAyUCIgU2tldGNoZmFiIHBhY2sgYnkgTW96emFyZWxsYUFSQy4gSXQgZml0cyB0cm9waWNhbCBnYXJkZW5zLCBsdXNoIGV4dGVyaW9yIHNjZW5lcywgYXJjaGl0ZWN0dXJhbCB2aXN1YWxpemF0aW9uIGFuZCBVbnJlYWwgRW5naW5lIGVudmlyb25tZW50cywgdXNpbmcgdGhlIG9yaWdpbmFsIHBhY2sncyBQQlIgd29ya2Zsb3cu",
       "tags": "fern,plant,vegetation,interior,tropical,pbr,unreal_engine",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEZlcm4=",
+      "tags": "3d,model,assets,props,fern",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Fern",
@@ -1094,8 +1347,13 @@
     },
     {
       "titleB64": "RmVybg==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgZmVybiBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIlRyb3BpY2FsIFBsYW50cyBQYWNrIE0wMlAiIFNrZXRjaGZhYiBwYWNrIGJ5IE1venphcmVsbGFBUkMuIEl0IGZpdHMgdHJvcGljYWwgZ2FyZGVucywgbHVzaCBleHRlcmlvciBzY2VuZXMsIGFyY2hpdGVjdHVyYWwgdmlzdWFsaXphdGlvbiBhbmQgVW5yZWFsIEVuZ2luZSBlbnZpcm9ubWVudHMsIHVzaW5nIHRoZSBvcmlnaW5hbCBwYWNrJ3MgUEJSIHdvcmtmbG93Lg==",
       "tags": "fern,plant,vegetation,interior,tropical,pbr,unreal_engine,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEZlcm4=",
+      "tags": "3d,model,assets,props,fern",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Fern2",
@@ -1112,8 +1370,13 @@
     },
     {
       "titleB64": "RmVybg==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgZmVybiBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIlRyb3BpY2FsIFBsYW50cyBQYWNrIE0wMlAiIFNrZXRjaGZhYiBwYWNrIGJ5IE1venphcmVsbGFBUkMuIEl0IGZpdHMgdHJvcGljYWwgZ2FyZGVucywgbHVzaCBleHRlcmlvciBzY2VuZXMsIGFyY2hpdGVjdHVyYWwgdmlzdWFsaXphdGlvbiBhbmQgVW5yZWFsIEVuZ2luZSBlbnZpcm9ubWVudHMsIHVzaW5nIHRoZSBvcmlnaW5hbCBwYWNrJ3MgUEJSIHdvcmtmbG93Lg==",
       "tags": "fern,plant,vegetation,interior,tropical,pbr,unreal_engine,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEZlcm4=",
+      "tags": "3d,model,assets,props,fern",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Fern3",
@@ -1130,8 +1393,13 @@
     },
     {
       "titleB64": "RmVybg==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgZmVybiBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIlRyb3BpY2FsIFBsYW50cyBQYWNrIE0wMlAiIFNrZXRjaGZhYiBwYWNrIGJ5IE1venphcmVsbGFBUkMuIEl0IGZpdHMgdHJvcGljYWwgZ2FyZGVucywgbHVzaCBleHRlcmlvciBzY2VuZXMsIGFyY2hpdGVjdHVyYWwgdmlzdWFsaXphdGlvbiBhbmQgVW5yZWFsIEVuZ2luZSBlbnZpcm9ubWVudHMsIHVzaW5nIHRoZSBvcmlnaW5hbCBwYWNrJ3MgUEJSIHdvcmtmbG93Lg==",
       "tags": "fern,plant,vegetation,interior,tropical,pbr,unreal_engine,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEZlcm4=",
+      "tags": "3d,model,assets,props,fern",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Fern4",
@@ -1148,8 +1416,13 @@
     },
     {
       "titleB64": "RmVybg==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgZmVybiBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIlRyb3BpY2FsIFBsYW50cyBQYWNrIE0wMlAiIFNrZXRjaGZhYiBwYWNrIGJ5IE1venphcmVsbGFBUkMuIEl0IGZpdHMgdHJvcGljYWwgZ2FyZGVucywgbHVzaCBleHRlcmlvciBzY2VuZXMsIGFyY2hpdGVjdHVyYWwgdmlzdWFsaXphdGlvbiBhbmQgVW5yZWFsIEVuZ2luZSBlbnZpcm9ubWVudHMsIHVzaW5nIHRoZSBvcmlnaW5hbCBwYWNrJ3MgUEJSIHdvcmtmbG93Lg==",
       "tags": "fern,plant,vegetation,interior,tropical,pbr,unreal_engine,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEZlcm4=",
+      "tags": "3d,model,assets,props,fern",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Fern5",
@@ -1166,8 +1439,13 @@
     },
     {
       "titleB64": "RmVybg==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgZmVybiBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIlRyb3BpY2FsIFBsYW50cyBQYWNrIE0wMlAiIFNrZXRjaGZhYiBwYWNrIGJ5IE1venphcmVsbGFBUkMuIEl0IGZpdHMgdHJvcGljYWwgZ2FyZGVucywgbHVzaCBleHRlcmlvciBzY2VuZXMsIGFyY2hpdGVjdHVyYWwgdmlzdWFsaXphdGlvbiBhbmQgVW5yZWFsIEVuZ2luZSBlbnZpcm9ubWVudHMsIHVzaW5nIHRoZSBvcmlnaW5hbCBwYWNrJ3MgUEJSIHdvcmtmbG93Lg==",
       "tags": "fern,plant,vegetation,interior,tropical,pbr,unreal_engine,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEZlcm4=",
+      "tags": "3d,model,assets,props,fern",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Fern6",
@@ -1184,8 +1462,13 @@
     },
     {
       "titleB64": "RmlyZUV4dGluZ3Vpc2hlcg==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBmaXJlIGV4dGluZ3Vpc2hlciBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkZhY3RvcnkgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IFRob21hc19Dcm96ZWxvbi4gSXQgaXMgc3VpdGVkIGZvciBpbmR1c3RyaWFsIHNjZW5lcywgc2VydmljZSBhcmVhcywgdXRpbGl0eSBzcGFjZXMgYW5kIGVudmlyb25tZW50IGRyZXNzaW5nIGluIHJlYWwtdGltZSBwcm9qZWN0cywgdXNpbmcgdGhlIG9yaWdpbmFsIHBhY2sncyA0SyBtYXBzLg==",
       "tags": "fire_extinguisher,safety,emergency,utility,game_ready,unity",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEZpcmVFeHRpbmd1aXNoZXI=",
+      "tags": "3d,model,assets,props,fire,extinguisher",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-FireExtinguisher",
@@ -1202,8 +1485,13 @@
     },
     {
       "titleB64": "RmlyZUV4dGluZ3Vpc2hlcg==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgZmlyZSBleHRpbmd1aXNoZXIgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJGYWN0b3J5IFByb3BzIiBTa2V0Y2hmYWIgcGFjayBieSBUaG9tYXNfQ3JvemVsb24uIEl0IGlzIHN1aXRlZCBmb3IgaW5kdXN0cmlhbCBzY2VuZXMsIHNlcnZpY2UgYXJlYXMsIHV0aWxpdHkgc3BhY2VzIGFuZCBlbnZpcm9ubWVudCBkcmVzc2luZyBpbiByZWFsLXRpbWUgcHJvamVjdHMsIHVzaW5nIHRoZSBvcmlnaW5hbCBwYWNrJ3MgNEsgbWFwcy4=",
       "tags": "fire_extinguisher,safety,emergency,utility,game_ready,unity,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEZpcmVFeHRpbmd1aXNoZXI=",
+      "tags": "3d,model,assets,props,fire,extinguisher",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-FireExtinguisher2",
@@ -1220,8 +1508,13 @@
     },
     {
       "titleB64": "R2FyYmFnZUJhZw==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBnYXJiYWdlIGJhZyBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIlN0cmVldCBBc3NldCBQYWNrIiBTa2V0Y2hmYWIgcGFjayBieSB2bWF0dGhldy4gSXQgZml0cyBzaWRld2Fsa3MsIHJvYWR3b3JrLCBhbGxleXMgYW5kIHVyYmFuIGVudmlyb25tZW50IGRyZXNzaW5nLCBiYXNlZCBvbiBhc3NldHMgY3JlYXRlZCBpbiBCbGVuZGVyIGFuZCBTdWJzdGFuY2UgM0QgUGFpbnRlci4=",
       "tags": "garbage_bag,trash,waste,street_prop,street,urban",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEdhcmJhZ2VCYWc=",
+      "tags": "3d,model,assets,props,garbage,bag",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-GarbageBag",
@@ -1238,8 +1531,13 @@
     },
     {
       "titleB64": "R2FyYmFnZUJhZzI=",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgZ2FyYmFnZSBiYWcgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJTdHJlZXQgQXNzZXQgUGFjayIgU2tldGNoZmFiIHBhY2sgYnkgdm1hdHRoZXcuIEl0IGZpdHMgc2lkZXdhbGtzLCByb2Fkd29yaywgYWxsZXlzIGFuZCB1cmJhbiBlbnZpcm9ubWVudCBkcmVzc2luZywgYmFzZWQgb24gYXNzZXRzIGNyZWF0ZWQgaW4gQmxlbmRlciBhbmQgU3Vic3RhbmNlIDNEIFBhaW50ZXIu",
       "tags": "garbage_bag,trash,waste,street_prop,street,urban,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEdhcmJhZ2VCYWcy",
+      "tags": "3d,model,assets,props,garbage,bag",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-GarbageBag2",
@@ -1256,8 +1554,13 @@
     },
     {
       "titleB64": "R2xhc3NCb3R0bGU=",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBnbGFzcyBib3R0bGUgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJGdXJuaXR1cmUgUGFjayB8IExvdy1Qb2x5IHwgR2FtZS1SZWFkeSIgU2tldGNoZmFiIHBhY2sgYnkga0VhbS4gSXQgaXMgc3VpdGVkIGZvciByb29tIGRyZXNzaW5nLCBob21lIGludGVyaW9ycyBhbmQgc3R5bGl6ZWQgcmVhbC10aW1lIGVudmlyb25tZW50cyBmcm9tIHRoZSBvcmlnaW5hbCBsb3ctcG9seSBnYW1lLXJlYWR5IGZ1cm5pdHVyZSBjb2xsZWN0aW9uLg==",
       "tags": "glass_bottle,glass,container,interior,low_poly,game_ready",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEdsYXNzQm90dGxl",
+      "tags": "3d,model,assets,props,glass,bottle",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-GlassBottle",
@@ -1274,8 +1577,13 @@
     },
     {
       "titleB64": "R2x1ZQ==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBnbHVlIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRmFjdG9yeSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgVGhvbWFzX0Nyb3plbG9uLiBJdCBpcyBzdWl0ZWQgZm9yIGluZHVzdHJpYWwgc2NlbmVzLCBzZXJ2aWNlIGFyZWFzLCB1dGlsaXR5IHNwYWNlcyBhbmQgZW52aXJvbm1lbnQgZHJlc3NpbmcgaW4gcmVhbC10aW1lIHByb2plY3RzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIDRLIG1hcHMu",
       "tags": "glue,adhesive,tooling,utility,game_ready,unity",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEdsdWU=",
+      "tags": "3d,model,assets,props,glue",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Glue",
@@ -1311,8 +1619,13 @@
     },
     {
       "titleB64": "QSBIb3VzZSBNb2RlbA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBob3VzZSBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkJyaW1zdG9uZSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgQ3RybExpZ2h0LiBJdCBmaXRzIGludGVyaW9yIHByb3BzLCByb29tIGRyZXNzaW5nIGFuZCBlbnZpcm9ubWVudGFsIHN0b3J5dGVsbGluZyBzY2VuZXMgaW5zcGlyZWQgYnkgdGhlIG9yaWdpbmFsIEJyaW1zdG9uZSBwcm9qZWN0Lg==",
       "tags": "house,building,architecture,residential,realistic,game_ready",
+=======
+      "descriptionB64": "SGVsbG8sIHNvIGdsYWQgeW91IGFyZSBoZXJlISBUaGVzZSBhcmUgc29tZSBwcm9wcyBJIG1hZGUgZm9yIGEgY2Fwc3RvbmUgY2xhc3MgdGhhdCByZXF1aXJlcyB0aGUgc3R1ZGVudHMgdG8gbWFrZSBhIGdhbWUgdW5kZXIgdGhlIGdhbWUgamFtIHRpbWVmcmFtZS4gSSBtb2RlbGVkIHRoZXNlIHByb3BzIGFuZCB0ZXh0dXJlZCBhIGZldy4KSSByZWFsbHkgZW5qb3llZCBtYWtpbmcgdGhlc2UgcHJvcHMgZm9yIHNlcnZhbCByZWFzb25zLCBvbmUgYmVpbmcgdGhhdCBJIGhhdmUgbmV2ZXIgZ29uZSBmb3IgYSByZWFsaXN0aWMgc3R5bGUgYW5kIEkgZmVlbCBsaWtlIEkgbmFpbGVkIGl0ISB0aGUgcmVhbGlzdGljIGFydCBzdHlsZSB3YXMgYSBjaGFsbGVuZ2UgYXQgZmlyc3QgYnV0IGFmdGVyIHNvbWUgdGltZSBpIGJlY2FtZSBmYXN0ZXIgYW5kIHdhcyBhYmxlIHRvIGNyZWF0ZSB3aGF0IHlvdSBzZWUgdG9kYXkuCklmIHlvdSB3b3VsZCBsaWtlIHRvIGNoZWNrIG91dCB0aGUgZ2FtZSB0byBwbGF5IHlvdXJzZWxmIHlvdSBjYW4gZ28gdG8gaHR0cHM6Ly9jcmVhdHVyZW1vb24uaXRjaC5pby90aGVicmltc3RvbmU=",
+      "tags": "3d,model,assets,props,house,building,architecture",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-House",
@@ -1324,13 +1637,22 @@
       ],
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9icmltc3RvbmUtcHJvcHMtYzhkYzFlYTI1ZmY3NGVhNGIzZWJjM2RjZDc1NDBlODk=",
       "repivot": true,
+<<<<<<< HEAD
       "id": "ec3d67c0-bd1f-4c7f-b89c-56c260578cc2",
+=======
+      "id": "2dbb2b4e-0fa7-407e-a0c4-1de9d5d4ca93",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "userName": "ITsMagic"
     },
     {
       "titleB64": "QSBIdW1hblNrdWxsIE1vZGVs",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBodW1hbiBza3VsbCBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkJyaW1zdG9uZSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgQ3RybExpZ2h0LiBJdCBmaXRzIGludGVyaW9yIHByb3BzLCByb29tIGRyZXNzaW5nIGFuZCBlbnZpcm9ubWVudGFsIHN0b3J5dGVsbGluZyBzY2VuZXMgaW5zcGlyZWQgYnkgdGhlIG9yaWdpbmFsIEJyaW1zdG9uZSBwcm9qZWN0Lg==",
       "tags": "human_skull,decor,macabre,interior,realistic,game_ready",
+=======
+      "descriptionB64": "SGVsbG8sIHNvIGdsYWQgeW91IGFyZSBoZXJlISBUaGVzZSBhcmUgc29tZSBwcm9wcyBJIG1hZGUgZm9yIGEgY2Fwc3RvbmUgY2xhc3MgdGhhdCByZXF1aXJlcyB0aGUgc3R1ZGVudHMgdG8gbWFrZSBhIGdhbWUgdW5kZXIgdGhlIGdhbWUgamFtIHRpbWVmcmFtZS4gSSBtb2RlbGVkIHRoZXNlIHByb3BzIGFuZCB0ZXh0dXJlZCBhIGZldy4KSSByZWFsbHkgZW5qb3llZCBtYWtpbmcgdGhlc2UgcHJvcHMgZm9yIHNlcnZhbCByZWFzb25zLCBvbmUgYmVpbmcgdGhhdCBJIGhhdmUgbmV2ZXIgZ29uZSBmb3IgYSByZWFsaXN0aWMgc3R5bGUgYW5kIEkgZmVlbCBsaWtlIEkgbmFpbGVkIGl0ISB0aGUgcmVhbGlzdGljIGFydCBzdHlsZSB3YXMgYSBjaGFsbGVuZ2UgYXQgZmlyc3QgYnV0IGFmdGVyIHNvbWUgdGltZSBpIGJlY2FtZSBmYXN0ZXIgYW5kIHdhcyBhYmxlIHRvIGNyZWF0ZSB3aGF0IHlvdSBzZWUgdG9kYXkuCklmIHlvdSB3b3VsZCBsaWtlIHRvIGNoZWNrIG91dCB0aGUgZ2FtZSB0byBwbGF5IHlvdXJzZWxmIHlvdSBjYW4gZ28gdG8gaHR0cHM6Ly9jcmVhdHVyZW1vb24uaXRjaC5pby90aGVicmltc3RvbmU=",
+      "tags": "3d,model,assets,props,humanskull",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-HumanSkull",
@@ -1342,13 +1664,22 @@
       ],
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9icmltc3RvbmUtcHJvcHMtYzhkYzFlYTI1ZmY3NGVhNGIzZWJjM2RjZDc1NDBlODk=",
       "repivot": true,
+<<<<<<< HEAD
       "id": "8eecd9e3-8092-49c0-a35e-5341ad1765c7",
+=======
+      "id": "186e4901-b5ce-432d-86be-c4c9452dad4d",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "userName": "ITsMagic"
     },
     {
       "titleB64": "SHlkcmFudA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBoeWRyYW50IGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiU3RyZWV0IEFzc2V0IFBhY2siIFNrZXRjaGZhYiBwYWNrIGJ5IHZtYXR0aGV3LiBJdCBmaXRzIHNpZGV3YWxrcywgcm9hZHdvcmssIGFsbGV5cyBhbmQgdXJiYW4gZW52aXJvbm1lbnQgZHJlc3NpbmcsIGJhc2VkIG9uIGFzc2V0cyBjcmVhdGVkIGluIEJsZW5kZXIgYW5kIFN1YnN0YW5jZSAzRCBQYWludGVyLg==",
       "tags": "fire_hydrant,utility,street_prop,emergency,street,urban",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEh5ZHJhbnQ=",
+      "tags": "3d,model,assets,props,hydrant",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Hydrant",
@@ -1386,8 +1717,13 @@
     },
     {
       "titleB64": "TGFkZGVy",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBsYWRkZXIgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJGdXJuaXR1cmUgUGFjayB8IExvdy1Qb2x5IHwgR2FtZS1SZWFkeSIgU2tldGNoZmFiIHBhY2sgYnkga0VhbS4gSXQgaXMgc3VpdGVkIGZvciByb29tIGRyZXNzaW5nLCBob21lIGludGVyaW9ycyBhbmQgc3R5bGl6ZWQgcmVhbC10aW1lIGVudmlyb25tZW50cyBmcm9tIHRoZSBvcmlnaW5hbCBsb3ctcG9seSBnYW1lLXJlYWR5IGZ1cm5pdHVyZSBjb2xsZWN0aW9uLg==",
       "tags": "ladder,access,utility,low_poly,game_ready",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IExhZGRlcg==",
+      "tags": "3d,model,assets,props,ladder",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Ladder",
@@ -1404,8 +1740,13 @@
     },
     {
       "titleB64": "TGFkZGVy",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgbGFkZGVyIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRnVybml0dXJlIFBhY2sgfCBMb3ctUG9seSB8IEdhbWUtUmVhZHkiIFNrZXRjaGZhYiBwYWNrIGJ5IGtFYW0uIEl0IGlzIHN1aXRlZCBmb3Igcm9vbSBkcmVzc2luZywgaG9tZSBpbnRlcmlvcnMgYW5kIHN0eWxpemVkIHJlYWwtdGltZSBlbnZpcm9ubWVudHMgZnJvbSB0aGUgb3JpZ2luYWwgbG93LXBvbHkgZ2FtZS1yZWFkeSBmdXJuaXR1cmUgY29sbGVjdGlvbi4=",
       "tags": "ladder,access,utility,low_poly,game_ready,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IExhZGRlcg==",
+      "tags": "3d,model,assets,props,ladder",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Ladder2",
@@ -1422,8 +1763,13 @@
     },
     {
       "titleB64": "TGFkZGVyVmFyaWFudA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgbGFkZGVyIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRmFjdG9yeSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgVGhvbWFzX0Nyb3plbG9uLiBJdCBpcyBzdWl0ZWQgZm9yIGluZHVzdHJpYWwgc2NlbmVzLCBzZXJ2aWNlIGFyZWFzLCB1dGlsaXR5IHNwYWNlcyBhbmQgZW52aXJvbm1lbnQgZHJlc3NpbmcgaW4gcmVhbC10aW1lIHByb2plY3RzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIDRLIG1hcHMu",
       "tags": "ladder,access,utility,game_ready,unity,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IExhZGRlclZhcmlhbnQ=",
+      "tags": "3d,model,assets,props,ladder,variant",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-LadderVariant",
@@ -1440,8 +1786,13 @@
     },
     {
       "titleB64": "TGFkZGVyVmFyaWFudA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgbGFkZGVyIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRmFjdG9yeSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgVGhvbWFzX0Nyb3plbG9uLiBJdCBpcyBzdWl0ZWQgZm9yIGluZHVzdHJpYWwgc2NlbmVzLCBzZXJ2aWNlIGFyZWFzLCB1dGlsaXR5IHNwYWNlcyBhbmQgZW52aXJvbm1lbnQgZHJlc3NpbmcgaW4gcmVhbC10aW1lIHByb2plY3RzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIDRLIG1hcHMu",
       "tags": "ladder,access,utility,game_ready,unity,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IExhZGRlclZhcmlhbnQ=",
+      "tags": "3d,model,assets,props,ladder,variant",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-LadderVariant2",
@@ -1458,8 +1809,13 @@
     },
     {
       "titleB64": "TGFrZQ==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBsYWtlIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiVHJvcGljYWwgUGxhbnRzIFBhY2sgTTAyUCIgU2tldGNoZmFiIHBhY2sgYnkgTW96emFyZWxsYUFSQy4gSXQgZml0cyB0cm9waWNhbCBnYXJkZW5zLCBsdXNoIGV4dGVyaW9yIHNjZW5lcywgYXJjaGl0ZWN0dXJhbCB2aXN1YWxpemF0aW9uIGFuZCBVbnJlYWwgRW5naW5lIGVudmlyb25tZW50cywgdXNpbmcgdGhlIG9yaWdpbmFsIHBhY2sncyBQQlIgd29ya2Zsb3cu",
       "tags": "lake,water,environment,terrain,tropical,pbr,unreal_engine",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IExha2U=",
+      "tags": "3d,model,assets,props,lake",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Lake",
@@ -1476,8 +1832,13 @@
     },
     {
       "titleB64": "QSBMYXJnZUxhbXBzaGFkZSBNb2RlbA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBsYXJnZSBsYW1wc2hhZGUgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJCcmltc3RvbmUgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IEN0cmxMaWdodC4gSXQgZml0cyBpbnRlcmlvciBwcm9wcywgcm9vbSBkcmVzc2luZyBhbmQgZW52aXJvbm1lbnRhbCBzdG9yeXRlbGxpbmcgc2NlbmVzIGluc3BpcmVkIGJ5IHRoZSBvcmlnaW5hbCBCcmltc3RvbmUgcHJvamVjdC4=",
       "tags": "lampshade,lighting,decor,interior,realistic,game_ready",
+=======
+      "descriptionB64": "SGVsbG8sIHNvIGdsYWQgeW91IGFyZSBoZXJlISBUaGVzZSBhcmUgc29tZSBwcm9wcyBJIG1hZGUgZm9yIGEgY2Fwc3RvbmUgY2xhc3MgdGhhdCByZXF1aXJlcyB0aGUgc3R1ZGVudHMgdG8gbWFrZSBhIGdhbWUgdW5kZXIgdGhlIGdhbWUgamFtIHRpbWVmcmFtZS4gSSBtb2RlbGVkIHRoZXNlIHByb3BzIGFuZCB0ZXh0dXJlZCBhIGZldy4KSSByZWFsbHkgZW5qb3llZCBtYWtpbmcgdGhlc2UgcHJvcHMgZm9yIHNlcnZhbCByZWFzb25zLCBvbmUgYmVpbmcgdGhhdCBJIGhhdmUgbmV2ZXIgZ29uZSBmb3IgYSByZWFsaXN0aWMgc3R5bGUgYW5kIEkgZmVlbCBsaWtlIEkgbmFpbGVkIGl0ISB0aGUgcmVhbGlzdGljIGFydCBzdHlsZSB3YXMgYSBjaGFsbGVuZ2UgYXQgZmlyc3QgYnV0IGFmdGVyIHNvbWUgdGltZSBpIGJlY2FtZSBmYXN0ZXIgYW5kIHdhcyBhYmxlIHRvIGNyZWF0ZSB3aGF0IHlvdSBzZWUgdG9kYXkuCklmIHlvdSB3b3VsZCBsaWtlIHRvIGNoZWNrIG91dCB0aGUgZ2FtZSB0byBwbGF5IHlvdXJzZWxmIHlvdSBjYW4gZ28gdG8gaHR0cHM6Ly9jcmVhdHVyZW1vb24uaXRjaC5pby90aGVicmltc3RvbmU=",
+      "tags": "3d,model,assets,props,largelampshade",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-LargeLampshade",
@@ -1489,13 +1850,22 @@
       ],
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9icmltc3RvbmUtcHJvcHMtYzhkYzFlYTI1ZmY3NGVhNGIzZWJjM2RjZDc1NDBlODk=",
       "repivot": true,
+<<<<<<< HEAD
       "id": "2a795d7c-2664-4f5a-8ae3-96eeaaefffbe",
+=======
+      "id": "aea955b3-3e03-41c5-be24-390df9a0d375",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "userName": "ITsMagic"
     },
     {
       "titleB64": "TGlnaHRCdWxi",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBsaWdodCBidWxiIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRmFjdG9yeSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgVGhvbWFzX0Nyb3plbG9uLiBJdCBpcyBzdWl0ZWQgZm9yIGluZHVzdHJpYWwgc2NlbmVzLCBzZXJ2aWNlIGFyZWFzLCB1dGlsaXR5IHNwYWNlcyBhbmQgZW52aXJvbm1lbnQgZHJlc3NpbmcgaW4gcmVhbC10aW1lIHByb2plY3RzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIDRLIG1hcHMu",
       "tags": "light_bulb,lighting,electrical,interior,game_ready,unity",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IExpZ2h0QnVsYg==",
+      "tags": "3d,model,assets,props,light,bulb",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-LightBulb",
@@ -1512,8 +1882,13 @@
     },
     {
       "titleB64": "TGlnaHRCdWxi",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgbGlnaHQgYnVsYiBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkZhY3RvcnkgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IFRob21hc19Dcm96ZWxvbi4gSXQgaXMgc3VpdGVkIGZvciBpbmR1c3RyaWFsIHNjZW5lcywgc2VydmljZSBhcmVhcywgdXRpbGl0eSBzcGFjZXMgYW5kIGVudmlyb25tZW50IGRyZXNzaW5nIGluIHJlYWwtdGltZSBwcm9qZWN0cywgdXNpbmcgdGhlIG9yaWdpbmFsIHBhY2sncyA0SyBtYXBzLg==",
       "tags": "light_bulb,lighting,electrical,interior,game_ready,unity,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IExpZ2h0QnVsYg==",
+      "tags": "3d,model,assets,props,light,bulb",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-LightBulb2",
@@ -1530,8 +1905,13 @@
     },
     {
       "titleB64": "TGlnaHRCdWxi",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgbGlnaHQgYnVsYiBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkZhY3RvcnkgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IFRob21hc19Dcm96ZWxvbi4gSXQgaXMgc3VpdGVkIGZvciBpbmR1c3RyaWFsIHNjZW5lcywgc2VydmljZSBhcmVhcywgdXRpbGl0eSBzcGFjZXMgYW5kIGVudmlyb25tZW50IGRyZXNzaW5nIGluIHJlYWwtdGltZSBwcm9qZWN0cywgdXNpbmcgdGhlIG9yaWdpbmFsIHBhY2sncyA0SyBtYXBzLg==",
       "tags": "light_bulb,lighting,electrical,interior,game_ready,unity,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IExpZ2h0QnVsYg==",
+      "tags": "3d,model,assets,props,light,bulb",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-LightBulb3",
@@ -1548,8 +1928,13 @@
     },
     {
       "titleB64": "TGlnaHRCdWxi",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgbGlnaHQgYnVsYiBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkZhY3RvcnkgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IFRob21hc19Dcm96ZWxvbi4gSXQgaXMgc3VpdGVkIGZvciBpbmR1c3RyaWFsIHNjZW5lcywgc2VydmljZSBhcmVhcywgdXRpbGl0eSBzcGFjZXMgYW5kIGVudmlyb25tZW50IGRyZXNzaW5nIGluIHJlYWwtdGltZSBwcm9qZWN0cywgdXNpbmcgdGhlIG9yaWdpbmFsIHBhY2sncyA0SyBtYXBzLg==",
       "tags": "light_bulb,lighting,electrical,interior,game_ready,unity,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IExpZ2h0QnVsYg==",
+      "tags": "3d,model,assets,props,light,bulb",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-LightBulb4",
@@ -1566,8 +1951,13 @@
     },
     {
       "titleB64": "TGlnaHRSZWZsZWN0b3I=",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBwb3J0YWJsZSB3b3JrIGxpZ2h0IGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRmFjdG9yeSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgVGhvbWFzX0Nyb3plbG9uLiBJdCBpcyBzdWl0ZWQgZm9yIGluZHVzdHJpYWwgc2NlbmVzLCBzZXJ2aWNlIGFyZWFzLCB1dGlsaXR5IHNwYWNlcyBhbmQgZW52aXJvbm1lbnQgZHJlc3NpbmcgaW4gcmVhbC10aW1lIHByb2plY3RzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIDRLIG1hcHMu",
       "tags": "work_light,lighting,utility,workshop,game_ready,unity",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IExpZ2h0UmVmbGVjdG9y",
+      "tags": "3d,model,assets,props,light,reflector",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-LightReflector",
@@ -1584,8 +1974,13 @@
     },
     {
       "titleB64": "QSBMdWdnYWdlQ2FydCBNb2RlbA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBsdWdnYWdlIGNhcnQgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJCcmltc3RvbmUgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IEN0cmxMaWdodC4gSXQgZml0cyBpbnRlcmlvciBwcm9wcywgcm9vbSBkcmVzc2luZyBhbmQgZW52aXJvbm1lbnRhbCBzdG9yeXRlbGxpbmcgc2NlbmVzIGluc3BpcmVkIGJ5IHRoZSBvcmlnaW5hbCBCcmltc3RvbmUgcHJvamVjdC4=",
       "tags": "luggage_cart,transport,hospitality,interior,realistic,game_ready",
+=======
+      "descriptionB64": "SGVsbG8sIHNvIGdsYWQgeW91IGFyZSBoZXJlISBUaGVzZSBhcmUgc29tZSBwcm9wcyBJIG1hZGUgZm9yIGEgY2Fwc3RvbmUgY2xhc3MgdGhhdCByZXF1aXJlcyB0aGUgc3R1ZGVudHMgdG8gbWFrZSBhIGdhbWUgdW5kZXIgdGhlIGdhbWUgamFtIHRpbWVmcmFtZS4gSSBtb2RlbGVkIHRoZXNlIHByb3BzIGFuZCB0ZXh0dXJlZCBhIGZldy4KSSByZWFsbHkgZW5qb3llZCBtYWtpbmcgdGhlc2UgcHJvcHMgZm9yIHNlcnZhbCByZWFzb25zLCBvbmUgYmVpbmcgdGhhdCBJIGhhdmUgbmV2ZXIgZ29uZSBmb3IgYSByZWFsaXN0aWMgc3R5bGUgYW5kIEkgZmVlbCBsaWtlIEkgbmFpbGVkIGl0ISB0aGUgcmVhbGlzdGljIGFydCBzdHlsZSB3YXMgYSBjaGFsbGVuZ2UgYXQgZmlyc3QgYnV0IGFmdGVyIHNvbWUgdGltZSBpIGJlY2FtZSBmYXN0ZXIgYW5kIHdhcyBhYmxlIHRvIGNyZWF0ZSB3aGF0IHlvdSBzZWUgdG9kYXkuCklmIHlvdSB3b3VsZCBsaWtlIHRvIGNoZWNrIG91dCB0aGUgZ2FtZSB0byBwbGF5IHlvdXJzZWxmIHlvdSBjYW4gZ28gdG8gaHR0cHM6Ly9jcmVhdHVyZW1vb24uaXRjaC5pby90aGVicmltc3RvbmU=",
+      "tags": "3d,model,assets,props,luggagecart",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-LuggageCart",
@@ -1597,7 +1992,11 @@
       ],
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9icmltc3RvbmUtcHJvcHMtYzhkYzFlYTI1ZmY3NGVhNGIzZWJjM2RjZDc1NDBlODk=",
       "repivot": true,
+<<<<<<< HEAD
       "id": "8de4590e-ba60-4628-85cb-a7987b34632a",
+=======
+      "id": "81563484-37f7-450b-889b-0099625279ea",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "userName": "ITsMagic"
     },
     {
@@ -1637,8 +2036,13 @@
     },
     {
       "titleB64": "TWV0YWxCYXI=",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBtZXRhbCBiYXIgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJTdHJlZXQgQXNzZXQgUGFjayIgU2tldGNoZmFiIHBhY2sgYnkgdm1hdHRoZXcuIEl0IGZpdHMgc2lkZXdhbGtzLCByb2Fkd29yaywgYWxsZXlzIGFuZCB1cmJhbiBlbnZpcm9ubWVudCBkcmVzc2luZywgYmFzZWQgb24gYXNzZXRzIGNyZWF0ZWQgaW4gQmxlbmRlciBhbmQgU3Vic3RhbmNlIDNEIFBhaW50ZXIu",
       "tags": "metal_bar,construction,industrial,material,street,urban",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsQmFy",
+      "tags": "3d,model,assets,props,metal,bar",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalBar",
@@ -1655,8 +2059,13 @@
     },
     {
       "titleB64": "TWV0YWxCYXIy",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgbWV0YWwgYmFyIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiU3RyZWV0IEFzc2V0IFBhY2siIFNrZXRjaGZhYiBwYWNrIGJ5IHZtYXR0aGV3LiBJdCBmaXRzIHNpZGV3YWxrcywgcm9hZHdvcmssIGFsbGV5cyBhbmQgdXJiYW4gZW52aXJvbm1lbnQgZHJlc3NpbmcsIGJhc2VkIG9uIGFzc2V0cyBjcmVhdGVkIGluIEJsZW5kZXIgYW5kIFN1YnN0YW5jZSAzRCBQYWludGVyLg==",
       "tags": "metal_bar,construction,industrial,material,street,urban,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsQmFyMg==",
+      "tags": "3d,model,assets,props,metal,bar",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalBar2",
@@ -1673,8 +2082,13 @@
     },
     {
       "titleB64": "TWV0YWxCYXJWYXJpYW50",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgbWV0YWwgYmFyIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRmFjdG9yeSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgVGhvbWFzX0Nyb3plbG9uLiBJdCBpcyBzdWl0ZWQgZm9yIGluZHVzdHJpYWwgc2NlbmVzLCBzZXJ2aWNlIGFyZWFzLCB1dGlsaXR5IHNwYWNlcyBhbmQgZW52aXJvbm1lbnQgZHJlc3NpbmcgaW4gcmVhbC10aW1lIHByb2plY3RzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIDRLIG1hcHMu",
       "tags": "metal_bar,construction,industrial,material,game_ready,unity,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsQmFyVmFyaWFudA==",
+      "tags": "3d,model,assets,props,metal,bar,variant",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalBarVariant",
@@ -1691,8 +2105,13 @@
     },
     {
       "titleB64": "TWV0YWxCYXJyZWw=",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBtZXRhbCBiYXJyZWwgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJGYWN0b3J5IFByb3BzIiBTa2V0Y2hmYWIgcGFjayBieSBUaG9tYXNfQ3JvemVsb24uIEl0IGlzIHN1aXRlZCBmb3IgaW5kdXN0cmlhbCBzY2VuZXMsIHNlcnZpY2UgYXJlYXMsIHV0aWxpdHkgc3BhY2VzIGFuZCBlbnZpcm9ubWVudCBkcmVzc2luZyBpbiByZWFsLXRpbWUgcHJvamVjdHMsIHVzaW5nIHRoZSBvcmlnaW5hbCBwYWNrJ3MgNEsgbWFwcy4=",
       "tags": "metal_barrel,container,storage,industrial,game_ready,unity",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsQmFycmVs",
+      "tags": "3d,model,assets,props,metal,barrel",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalBarrel",
@@ -1709,8 +2128,13 @@
     },
     {
       "titleB64": "TWV0YWxCYXJyZWw=",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgbWV0YWwgYmFycmVsIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRmFjdG9yeSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgVGhvbWFzX0Nyb3plbG9uLiBJdCBpcyBzdWl0ZWQgZm9yIGluZHVzdHJpYWwgc2NlbmVzLCBzZXJ2aWNlIGFyZWFzLCB1dGlsaXR5IHNwYWNlcyBhbmQgZW52aXJvbm1lbnQgZHJlc3NpbmcgaW4gcmVhbC10aW1lIHByb2plY3RzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIDRLIG1hcHMu",
       "tags": "metal_barrel,container,storage,industrial,game_ready,unity,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsQmFycmVs",
+      "tags": "3d,model,assets,props,metal,barrel",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalBarrel2",
@@ -1727,8 +2151,13 @@
     },
     {
       "titleB64": "TWV0YWxCYXJyaWVy",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBtZXRhbCBiYXJyaWVyIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiU3RyZWV0IEFzc2V0IFBhY2siIFNrZXRjaGZhYiBwYWNrIGJ5IHZtYXR0aGV3LiBJdCBmaXRzIHNpZGV3YWxrcywgcm9hZHdvcmssIGFsbGV5cyBhbmQgdXJiYW4gZW52aXJvbm1lbnQgZHJlc3NpbmcsIGJhc2VkIG9uIGFzc2V0cyBjcmVhdGVkIGluIEJsZW5kZXIgYW5kIFN1YnN0YW5jZSAzRCBQYWludGVyLg==",
       "tags": "metal_barrier,barrier,roadwork,safety,street,urban",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsQmFycmllcg==",
+      "tags": "3d,model,assets,props,metal,barrier",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalBarrier",
@@ -1745,8 +2174,13 @@
     },
     {
       "titleB64": "TWV0YWxCYXJyaWVyMg==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgbWV0YWwgYmFycmllciBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIlN0cmVldCBBc3NldCBQYWNrIiBTa2V0Y2hmYWIgcGFjayBieSB2bWF0dGhldy4gSXQgZml0cyBzaWRld2Fsa3MsIHJvYWR3b3JrLCBhbGxleXMgYW5kIHVyYmFuIGVudmlyb25tZW50IGRyZXNzaW5nLCBiYXNlZCBvbiBhc3NldHMgY3JlYXRlZCBpbiBCbGVuZGVyIGFuZCBTdWJzdGFuY2UgM0QgUGFpbnRlci4=",
       "tags": "metal_barrier,barrier,roadwork,safety,street,urban,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsQmFycmllcjI=",
+      "tags": "3d,model,assets,props,metal,barrier",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalBarrier2",
@@ -1763,8 +2197,13 @@
     },
     {
       "titleB64": "TWV0YWxCYXJyaWVyMw==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgbWV0YWwgYmFycmllciBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIlN0cmVldCBBc3NldCBQYWNrIiBTa2V0Y2hmYWIgcGFjayBieSB2bWF0dGhldy4gSXQgZml0cyBzaWRld2Fsa3MsIHJvYWR3b3JrLCBhbGxleXMgYW5kIHVyYmFuIGVudmlyb25tZW50IGRyZXNzaW5nLCBiYXNlZCBvbiBhc3NldHMgY3JlYXRlZCBpbiBCbGVuZGVyIGFuZCBTdWJzdGFuY2UgM0QgUGFpbnRlci4=",
       "tags": "metal_barrier,barrier,roadwork,safety,street,urban,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsQmFycmllcjM=",
+      "tags": "3d,model,assets,props,metal,barrier",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalBarrier3",
@@ -1781,8 +2220,13 @@
     },
     {
       "titleB64": "TWV0YWxCYXJyaWVyNA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgbWV0YWwgYmFycmllciBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIlN0cmVldCBBc3NldCBQYWNrIiBTa2V0Y2hmYWIgcGFjayBieSB2bWF0dGhldy4gSXQgZml0cyBzaWRld2Fsa3MsIHJvYWR3b3JrLCBhbGxleXMgYW5kIHVyYmFuIGVudmlyb25tZW50IGRyZXNzaW5nLCBiYXNlZCBvbiBhc3NldHMgY3JlYXRlZCBpbiBCbGVuZGVyIGFuZCBTdWJzdGFuY2UgM0QgUGFpbnRlci4=",
       "tags": "metal_barrier,barrier,roadwork,safety,street,urban,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsQmFycmllcjQ=",
+      "tags": "3d,model,assets,props,metal,barrier",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalBarrier4",
@@ -1799,8 +2243,13 @@
     },
     {
       "titleB64": "TWV0YWxQaXBl",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBtZXRhbCBwaXBlIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRmFjdG9yeSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgVGhvbWFzX0Nyb3plbG9uLiBJdCBpcyBzdWl0ZWQgZm9yIGluZHVzdHJpYWwgc2NlbmVzLCBzZXJ2aWNlIGFyZWFzLCB1dGlsaXR5IHNwYWNlcyBhbmQgZW52aXJvbm1lbnQgZHJlc3NpbmcgaW4gcmVhbC10aW1lIHByb2plY3RzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIDRLIG1hcHMu",
       "tags": "metal_pipe,pipe,industrial,construction,game_ready,unity",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsUGlwZQ==",
+      "tags": "3d,model,assets,props,metal,pipe",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalPipe",
@@ -1817,8 +2266,13 @@
     },
     {
       "titleB64": "TWV0YWxQaXBl",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgbWV0YWwgcGlwZSBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkZhY3RvcnkgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IFRob21hc19Dcm96ZWxvbi4gSXQgaXMgc3VpdGVkIGZvciBpbmR1c3RyaWFsIHNjZW5lcywgc2VydmljZSBhcmVhcywgdXRpbGl0eSBzcGFjZXMgYW5kIGVudmlyb25tZW50IGRyZXNzaW5nIGluIHJlYWwtdGltZSBwcm9qZWN0cywgdXNpbmcgdGhlIG9yaWdpbmFsIHBhY2sncyA0SyBtYXBzLg==",
       "tags": "metal_pipe,pipe,industrial,construction,game_ready,unity,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsUGlwZQ==",
+      "tags": "3d,model,assets,props,metal,pipe",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalPipe2",
@@ -1835,8 +2289,13 @@
     },
     {
       "titleB64": "TWV0YWxQaXBl",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgbWV0YWwgcGlwZSBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkZhY3RvcnkgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IFRob21hc19Dcm96ZWxvbi4gSXQgaXMgc3VpdGVkIGZvciBpbmR1c3RyaWFsIHNjZW5lcywgc2VydmljZSBhcmVhcywgdXRpbGl0eSBzcGFjZXMgYW5kIGVudmlyb25tZW50IGRyZXNzaW5nIGluIHJlYWwtdGltZSBwcm9qZWN0cywgdXNpbmcgdGhlIG9yaWdpbmFsIHBhY2sncyA0SyBtYXBzLg==",
       "tags": "metal_pipe,pipe,industrial,construction,game_ready,unity,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsUGlwZQ==",
+      "tags": "3d,model,assets,props,metal,pipe",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalPipe3",
@@ -1853,8 +2312,13 @@
     },
     {
       "titleB64": "TWV0YWxQaXBl",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgbWV0YWwgcGlwZSBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkZhY3RvcnkgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IFRob21hc19Dcm96ZWxvbi4gSXQgaXMgc3VpdGVkIGZvciBpbmR1c3RyaWFsIHNjZW5lcywgc2VydmljZSBhcmVhcywgdXRpbGl0eSBzcGFjZXMgYW5kIGVudmlyb25tZW50IGRyZXNzaW5nIGluIHJlYWwtdGltZSBwcm9qZWN0cywgdXNpbmcgdGhlIG9yaWdpbmFsIHBhY2sncyA0SyBtYXBzLg==",
       "tags": "metal_pipe,pipe,industrial,construction,game_ready,unity,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsUGlwZQ==",
+      "tags": "3d,model,assets,props,metal,pipe",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalPipe4",
@@ -1871,8 +2335,13 @@
     },
     {
       "titleB64": "TWV0YWxQaXBl",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgbWV0YWwgcGlwZSBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkZhY3RvcnkgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IFRob21hc19Dcm96ZWxvbi4gSXQgaXMgc3VpdGVkIGZvciBpbmR1c3RyaWFsIHNjZW5lcywgc2VydmljZSBhcmVhcywgdXRpbGl0eSBzcGFjZXMgYW5kIGVudmlyb25tZW50IGRyZXNzaW5nIGluIHJlYWwtdGltZSBwcm9qZWN0cywgdXNpbmcgdGhlIG9yaWdpbmFsIHBhY2sncyA0SyBtYXBzLg==",
       "tags": "metal_pipe,pipe,industrial,construction,game_ready,unity,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsUGlwZQ==",
+      "tags": "3d,model,assets,props,metal,pipe",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalPipe5",
@@ -1889,8 +2358,13 @@
     },
     {
       "titleB64": "TWV0YWxQaXBl",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgbWV0YWwgcGlwZSBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkZhY3RvcnkgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IFRob21hc19Dcm96ZWxvbi4gSXQgaXMgc3VpdGVkIGZvciBpbmR1c3RyaWFsIHNjZW5lcywgc2VydmljZSBhcmVhcywgdXRpbGl0eSBzcGFjZXMgYW5kIGVudmlyb25tZW50IGRyZXNzaW5nIGluIHJlYWwtdGltZSBwcm9qZWN0cywgdXNpbmcgdGhlIG9yaWdpbmFsIHBhY2sncyA0SyBtYXBzLg==",
       "tags": "metal_pipe,pipe,industrial,construction,game_ready,unity,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsUGlwZQ==",
+      "tags": "3d,model,assets,props,metal,pipe",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalPipe6",
@@ -1907,8 +2381,13 @@
     },
     {
       "titleB64": "TWV0YWxUYWJsZQ==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBtZXRhbCB0YWJsZSBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkZhY3RvcnkgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IFRob21hc19Dcm96ZWxvbi4gSXQgaXMgc3VpdGVkIGZvciBpbmR1c3RyaWFsIHNjZW5lcywgc2VydmljZSBhcmVhcywgdXRpbGl0eSBzcGFjZXMgYW5kIGVudmlyb25tZW50IGRyZXNzaW5nIGluIHJlYWwtdGltZSBwcm9qZWN0cywgdXNpbmcgdGhlIG9yaWdpbmFsIHBhY2sncyA0SyBtYXBzLg==",
       "tags": "metal_table,furniture,industrial,interior,game_ready,unity",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsVGFibGU=",
+      "tags": "3d,model,assets,props,metal,table",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalTable",
@@ -1925,8 +2404,13 @@
     },
     {
       "titleB64": "TWV0YWxUYWJsZQ==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgbWV0YWwgdGFibGUgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJGYWN0b3J5IFByb3BzIiBTa2V0Y2hmYWIgcGFjayBieSBUaG9tYXNfQ3JvemVsb24uIEl0IGlzIHN1aXRlZCBmb3IgaW5kdXN0cmlhbCBzY2VuZXMsIHNlcnZpY2UgYXJlYXMsIHV0aWxpdHkgc3BhY2VzIGFuZCBlbnZpcm9ubWVudCBkcmVzc2luZyBpbiByZWFsLXRpbWUgcHJvamVjdHMsIHVzaW5nIHRoZSBvcmlnaW5hbCBwYWNrJ3MgNEsgbWFwcy4=",
       "tags": "metal_table,furniture,industrial,interior,game_ready,unity,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsVGFibGU=",
+      "tags": "3d,model,assets,props,metal,table",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalTable2",
@@ -1943,8 +2427,13 @@
     },
     {
       "titleB64": "TWlycm9y",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBtaXJyb3IgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJGYWN0b3J5IFByb3BzIiBTa2V0Y2hmYWIgcGFjayBieSBUaG9tYXNfQ3JvemVsb24uIEl0IGlzIHN1aXRlZCBmb3IgaW5kdXN0cmlhbCBzY2VuZXMsIHNlcnZpY2UgYXJlYXMsIHV0aWxpdHkgc3BhY2VzIGFuZCBlbnZpcm9ubWVudCBkcmVzc2luZyBpbiByZWFsLXRpbWUgcHJvamVjdHMsIHVzaW5nIHRoZSBvcmlnaW5hbCBwYWNrJ3MgNEsgbWFwcy4=",
       "tags": "mirror,decor,interior,bathroom,game_ready,unity",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1pcnJvcg==",
+      "tags": "3d,model,assets,props,mirror",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Mirror",
@@ -1961,8 +2450,13 @@
     },
     {
       "titleB64": "TW9uc3RlcmFEZWxpY2lvc2FQbGFudA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBtb25zdGVyYSBwbGFudCBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIlRyb3BpY2FsIFBsYW50cyBQYWNrIE0wMlAiIFNrZXRjaGZhYiBwYWNrIGJ5IE1venphcmVsbGFBUkMuIEl0IGZpdHMgdHJvcGljYWwgZ2FyZGVucywgbHVzaCBleHRlcmlvciBzY2VuZXMsIGFyY2hpdGVjdHVyYWwgdmlzdWFsaXphdGlvbiBhbmQgVW5yZWFsIEVuZ2luZSBlbnZpcm9ubWVudHMsIHVzaW5nIHRoZSBvcmlnaW5hbCBwYWNrJ3MgUEJSIHdvcmtmbG93Lg==",
       "tags": "monstera,plant,vegetation,interior,tropical,pbr,unreal_engine",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1vbnN0ZXJhRGVsaWNpb3NhUGxhbnQ=",
+      "tags": "3d,model,assets,props,monstera,deliciosa,plant",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-MonsteraDeliciosaPlant",
@@ -1979,8 +2473,13 @@
     },
     {
       "titleB64": "TW9uc3RlcmFEZWxpY2lvc2FQbGFudA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgbW9uc3RlcmEgcGxhbnQgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJUcm9waWNhbCBQbGFudHMgUGFjayBNMDJQIiBTa2V0Y2hmYWIgcGFjayBieSBNb3p6YXJlbGxhQVJDLiBJdCBmaXRzIHRyb3BpY2FsIGdhcmRlbnMsIGx1c2ggZXh0ZXJpb3Igc2NlbmVzLCBhcmNoaXRlY3R1cmFsIHZpc3VhbGl6YXRpb24gYW5kIFVucmVhbCBFbmdpbmUgZW52aXJvbm1lbnRzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIFBCUiB3b3JrZmxvdy4=",
       "tags": "monstera,plant,vegetation,interior,tropical,pbr,unreal_engine,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1vbnN0ZXJhRGVsaWNpb3NhUGxhbnQ=",
+      "tags": "3d,model,assets,props,monstera,deliciosa,plant",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-MonsteraDeliciosaPlant2",
@@ -1997,8 +2496,13 @@
     },
     {
       "titleB64": "TW9uc3RlcmFEZWxpY2lvc2FQbGFudA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgbW9uc3RlcmEgcGxhbnQgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJUcm9waWNhbCBQbGFudHMgUGFjayBNMDJQIiBTa2V0Y2hmYWIgcGFjayBieSBNb3p6YXJlbGxhQVJDLiBJdCBmaXRzIHRyb3BpY2FsIGdhcmRlbnMsIGx1c2ggZXh0ZXJpb3Igc2NlbmVzLCBhcmNoaXRlY3R1cmFsIHZpc3VhbGl6YXRpb24gYW5kIFVucmVhbCBFbmdpbmUgZW52aXJvbm1lbnRzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIFBCUiB3b3JrZmxvdy4=",
       "tags": "monstera,plant,vegetation,interior,tropical,pbr,unreal_engine,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1vbnN0ZXJhRGVsaWNpb3NhUGxhbnQ=",
+      "tags": "3d,model,assets,props,monstera,deliciosa,plant",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-MonsteraDeliciosaPlant3",
@@ -2015,8 +2519,13 @@
     },
     {
       "titleB64": "TW9uc3RlcmFEZWxpY2lvc2FQbGFudA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgbW9uc3RlcmEgcGxhbnQgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJUcm9waWNhbCBQbGFudHMgUGFjayBNMDJQIiBTa2V0Y2hmYWIgcGFjayBieSBNb3p6YXJlbGxhQVJDLiBJdCBmaXRzIHRyb3BpY2FsIGdhcmRlbnMsIGx1c2ggZXh0ZXJpb3Igc2NlbmVzLCBhcmNoaXRlY3R1cmFsIHZpc3VhbGl6YXRpb24gYW5kIFVucmVhbCBFbmdpbmUgZW52aXJvbm1lbnRzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIFBCUiB3b3JrZmxvdy4=",
       "tags": "monstera,plant,vegetation,interior,tropical,pbr,unreal_engine,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1vbnN0ZXJhRGVsaWNpb3NhUGxhbnQ=",
+      "tags": "3d,model,assets,props,monstera,deliciosa,plant",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-MonsteraDeliciosaPlant4",
@@ -2033,8 +2542,13 @@
     },
     {
       "titleB64": "TXVn",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBtdWcgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJGdXJuaXR1cmUgUGFjayB8IExvdy1Qb2x5IHwgR2FtZS1SZWFkeSIgU2tldGNoZmFiIHBhY2sgYnkga0VhbS4gSXQgaXMgc3VpdGVkIGZvciByb29tIGRyZXNzaW5nLCBob21lIGludGVyaW9ycyBhbmQgc3R5bGl6ZWQgcmVhbC10aW1lIGVudmlyb25tZW50cyBmcm9tIHRoZSBvcmlnaW5hbCBsb3ctcG9seSBnYW1lLXJlYWR5IGZ1cm5pdHVyZSBjb2xsZWN0aW9uLg==",
       "tags": "mug,tableware,kitchen,interior,low_poly,game_ready",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE11Zw==",
+      "tags": "3d,model,assets,props,mug",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Mug",
@@ -2068,8 +2582,13 @@
     },
     {
       "titleB64": "T2xkQnVpbGRpbmc=",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBvbGQgYnVpbGRpbmcgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJPbGQgQnVpbGRpbmcgUGFjayB8IExvd3BvbHkiIFNrZXRjaGZhYiBwYWNrIGJ5IEZyaWQuYmxlbmQuIEl0IGZpdHMgdXJiYW4gYmFja2Ryb3BzIGFuZCBhYmFuZG9uZWQgZGlzdHJpY3Qgc2NlbmVzLCBiYXNlZCBvbiB0aGUgb3JpZ2luYWwgRkJYIGFzc2V0IGFuZCBiYXNlY29sb3IgdGV4dHVyZSB3b3JrZmxvdy4=",
       "tags": "old_building,architecture,building,urban,low_poly,abandoned",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE9sZEJ1aWxkaW5n",
+      "tags": "3d,model,assets,props,old,building",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-OldBuilding",
@@ -2086,8 +2605,13 @@
     },
     {
       "titleB64": "T2xkQnVpbGRpbmc=",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgb2xkIGJ1aWxkaW5nIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiT2xkIEJ1aWxkaW5nIFBhY2sgfCBMb3dwb2x5IiBTa2V0Y2hmYWIgcGFjayBieSBGcmlkLmJsZW5kLiBJdCBmaXRzIHVyYmFuIGJhY2tkcm9wcyBhbmQgYWJhbmRvbmVkIGRpc3RyaWN0IHNjZW5lcywgYmFzZWQgb24gdGhlIG9yaWdpbmFsIEZCWCBhc3NldCBhbmQgYmFzZWNvbG9yIHRleHR1cmUgd29ya2Zsb3cu",
       "tags": "old_building,architecture,building,urban,low_poly,abandoned,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE9sZEJ1aWxkaW5n",
+      "tags": "3d,model,assets,props,old,building",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-OldBuilding2",
@@ -2104,8 +2628,13 @@
     },
     {
       "titleB64": "T2xkQnVpbGRpbmc=",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgb2xkIGJ1aWxkaW5nIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiT2xkIEJ1aWxkaW5nIFBhY2sgfCBMb3dwb2x5IiBTa2V0Y2hmYWIgcGFjayBieSBGcmlkLmJsZW5kLiBJdCBmaXRzIHVyYmFuIGJhY2tkcm9wcyBhbmQgYWJhbmRvbmVkIGRpc3RyaWN0IHNjZW5lcywgYmFzZWQgb24gdGhlIG9yaWdpbmFsIEZCWCBhc3NldCBhbmQgYmFzZWNvbG9yIHRleHR1cmUgd29ya2Zsb3cu",
       "tags": "old_building,architecture,building,urban,low_poly,abandoned,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE9sZEJ1aWxkaW5n",
+      "tags": "3d,model,assets,props,old,building",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-OldBuilding3",
@@ -2122,8 +2651,13 @@
     },
     {
       "titleB64": "T2xkQ29uY3JldGVCdWlsZGluZw==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBvbGQgY29uY3JldGUgYnVpbGRpbmcgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJPbGQgQ29uY2V0ZSBCdWlsZGluZyBQYWNrIHwgTG93cG9seSIgU2tldGNoZmFiIHBhY2sgYnkgRnJpZC5ibGVuZC4gSXQgZml0cyBhYmFuZG9uZWQgdXJiYW4gZW52aXJvbm1lbnRzIGFuZCBtb2R1bGFyIGNpdHkgc2NlbmVzLCBiYXNlZCBvbiB0aGUgb3JpZ2luYWwgRkJYIGFzc2V0IHdpdGggNEsgdGV4dHVyZXMu",
       "tags": "concrete_building,architecture,building,urban,low_poly,abandoned",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE9sZENvbmNyZXRlQnVpbGRpbmc=",
+      "tags": "3d,model,assets,props,old,concrete,building",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-OldConcreteBuilding",
@@ -2140,8 +2674,13 @@
     },
     {
       "titleB64": "T2xkQ29uY3JldGVCdWlsZGluZw==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgb2xkIGNvbmNyZXRlIGJ1aWxkaW5nIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiT2xkIENvbmNldGUgQnVpbGRpbmcgUGFjayB8IExvd3BvbHkiIFNrZXRjaGZhYiBwYWNrIGJ5IEZyaWQuYmxlbmQuIEl0IGZpdHMgYWJhbmRvbmVkIHVyYmFuIGVudmlyb25tZW50cyBhbmQgbW9kdWxhciBjaXR5IHNjZW5lcywgYmFzZWQgb24gdGhlIG9yaWdpbmFsIEZCWCBhc3NldCB3aXRoIDRLIHRleHR1cmVzLg==",
       "tags": "concrete_building,architecture,building,urban,low_poly,abandoned,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE9sZENvbmNyZXRlQnVpbGRpbmc=",
+      "tags": "3d,model,assets,props,old,concrete,building",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-OldConcreteBuilding2",
@@ -2158,8 +2697,13 @@
     },
     {
       "titleB64": "T2xkQ29uY3JldGVCdWlsZGluZw==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgb2xkIGNvbmNyZXRlIGJ1aWxkaW5nIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiT2xkIENvbmNldGUgQnVpbGRpbmcgUGFjayB8IExvd3BvbHkiIFNrZXRjaGZhYiBwYWNrIGJ5IEZyaWQuYmxlbmQuIEl0IGZpdHMgYWJhbmRvbmVkIHVyYmFuIGVudmlyb25tZW50cyBhbmQgbW9kdWxhciBjaXR5IHNjZW5lcywgYmFzZWQgb24gdGhlIG9yaWdpbmFsIEZCWCBhc3NldCB3aXRoIDRLIHRleHR1cmVzLg==",
       "tags": "concrete_building,architecture,building,urban,low_poly,abandoned,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE9sZENvbmNyZXRlQnVpbGRpbmc=",
+      "tags": "3d,model,assets,props,old,concrete,building",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-OldConcreteBuilding3",
@@ -2176,8 +2720,13 @@
     },
     {
       "titleB64": "T3BlbmVkQm94",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBvcGVuZWQgYm94IGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiU3RyZWV0IEFzc2V0IFBhY2siIFNrZXRjaGZhYiBwYWNrIGJ5IHZtYXR0aGV3LiBJdCBmaXRzIHNpZGV3YWxrcywgcm9hZHdvcmssIGFsbGV5cyBhbmQgdXJiYW4gZW52aXJvbm1lbnQgZHJlc3NpbmcsIGJhc2VkIG9uIGFzc2V0cyBjcmVhdGVkIGluIEJsZW5kZXIgYW5kIFN1YnN0YW5jZSAzRCBQYWludGVyLg==",
       "tags": "opened_box,container,storage,packaging,street,urban",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE9wZW5lZEJveA==",
+      "tags": "3d,model,assets,props,opened,box",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-OpenedBox",
@@ -2194,8 +2743,13 @@
     },
     {
       "titleB64": "UGFsbVRyZWU=",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBwYWxtIHRyZWUgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJUcm9waWNhbCBQbGFudHMgUGFjayBNMDJQIiBTa2V0Y2hmYWIgcGFjayBieSBNb3p6YXJlbGxhQVJDLiBJdCBmaXRzIHRyb3BpY2FsIGdhcmRlbnMsIGx1c2ggZXh0ZXJpb3Igc2NlbmVzLCBhcmNoaXRlY3R1cmFsIHZpc3VhbGl6YXRpb24gYW5kIFVucmVhbCBFbmdpbmUgZW52aXJvbm1lbnRzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIFBCUiB3b3JrZmxvdy4=",
       "tags": "palm_tree,tree,plant,vegetation,tropical,pbr,unreal_engine",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFBhbG1UcmVl",
+      "tags": "3d,model,assets,props,palm,tree,nature,vegetation,forest",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-PalmTree",
@@ -2212,8 +2766,13 @@
     },
     {
       "titleB64": "UGFsbVRyZWU=",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgcGFsbSB0cmVlIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiVHJvcGljYWwgUGxhbnRzIFBhY2sgTTAyUCIgU2tldGNoZmFiIHBhY2sgYnkgTW96emFyZWxsYUFSQy4gSXQgZml0cyB0cm9waWNhbCBnYXJkZW5zLCBsdXNoIGV4dGVyaW9yIHNjZW5lcywgYXJjaGl0ZWN0dXJhbCB2aXN1YWxpemF0aW9uIGFuZCBVbnJlYWwgRW5naW5lIGVudmlyb25tZW50cywgdXNpbmcgdGhlIG9yaWdpbmFsIHBhY2sncyBQQlIgd29ya2Zsb3cu",
       "tags": "palm_tree,tree,plant,vegetation,tropical,pbr,unreal_engine,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFBhbG1UcmVl",
+      "tags": "3d,model,assets,props,palm,tree,nature,vegetation,forest",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-PalmTree2",
@@ -2230,8 +2789,13 @@
     },
     {
       "titleB64": "UGFsbVRyZWU=",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgcGFsbSB0cmVlIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiVHJvcGljYWwgUGxhbnRzIFBhY2sgTTAyUCIgU2tldGNoZmFiIHBhY2sgYnkgTW96emFyZWxsYUFSQy4gSXQgZml0cyB0cm9waWNhbCBnYXJkZW5zLCBsdXNoIGV4dGVyaW9yIHNjZW5lcywgYXJjaGl0ZWN0dXJhbCB2aXN1YWxpemF0aW9uIGFuZCBVbnJlYWwgRW5naW5lIGVudmlyb25tZW50cywgdXNpbmcgdGhlIG9yaWdpbmFsIHBhY2sncyBQQlIgd29ya2Zsb3cu",
       "tags": "palm_tree,tree,plant,vegetation,tropical,pbr,unreal_engine,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFBhbG1UcmVl",
+      "tags": "3d,model,assets,props,palm,tree,nature,vegetation,forest",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-PalmTree3",
@@ -2248,8 +2812,13 @@
     },
     {
       "titleB64": "QSBQYW1wc1NoYWRlIE1vZGVs",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSB0YWJsZSBsYW1wIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiQnJpbXN0b25lIFByb3BzIiBTa2V0Y2hmYWIgcGFjayBieSBDdHJsTGlnaHQuIEl0IGZpdHMgaW50ZXJpb3IgcHJvcHMsIHJvb20gZHJlc3NpbmcgYW5kIGVudmlyb25tZW50YWwgc3Rvcnl0ZWxsaW5nIHNjZW5lcyBpbnNwaXJlZCBieSB0aGUgb3JpZ2luYWwgQnJpbXN0b25lIHByb2plY3Qu",
       "tags": "table_lamp,lighting,decor,interior,realistic,game_ready",
+=======
+      "descriptionB64": "SGVsbG8sIHNvIGdsYWQgeW91IGFyZSBoZXJlISBUaGVzZSBhcmUgc29tZSBwcm9wcyBJIG1hZGUgZm9yIGEgY2Fwc3RvbmUgY2xhc3MgdGhhdCByZXF1aXJlcyB0aGUgc3R1ZGVudHMgdG8gbWFrZSBhIGdhbWUgdW5kZXIgdGhlIGdhbWUgamFtIHRpbWVmcmFtZS4gSSBtb2RlbGVkIHRoZXNlIHByb3BzIGFuZCB0ZXh0dXJlZCBhIGZldy4KSSByZWFsbHkgZW5qb3llZCBtYWtpbmcgdGhlc2UgcHJvcHMgZm9yIHNlcnZhbCByZWFzb25zLCBvbmUgYmVpbmcgdGhhdCBJIGhhdmUgbmV2ZXIgZ29uZSBmb3IgYSByZWFsaXN0aWMgc3R5bGUgYW5kIEkgZmVlbCBsaWtlIEkgbmFpbGVkIGl0ISB0aGUgcmVhbGlzdGljIGFydCBzdHlsZSB3YXMgYSBjaGFsbGVuZ2UgYXQgZmlyc3QgYnV0IGFmdGVyIHNvbWUgdGltZSBpIGJlY2FtZSBmYXN0ZXIgYW5kIHdhcyBhYmxlIHRvIGNyZWF0ZSB3aGF0IHlvdSBzZWUgdG9kYXkuCklmIHlvdSB3b3VsZCBsaWtlIHRvIGNoZWNrIG91dCB0aGUgZ2FtZSB0byBwbGF5IHlvdXJzZWxmIHlvdSBjYW4gZ28gdG8gaHR0cHM6Ly9jcmVhdHVyZW1vb24uaXRjaC5pby90aGVicmltc3RvbmU=",
+      "tags": "3d,model,assets,props,pampsshade",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-PampsShade",
@@ -2261,13 +2830,22 @@
       ],
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9icmltc3RvbmUtcHJvcHMtYzhkYzFlYTI1ZmY3NGVhNGIzZWJjM2RjZDc1NDBlODk=",
       "repivot": true,
+<<<<<<< HEAD
       "id": "2aff850e-5df4-4564-8458-685eb8779ac1",
+=======
+      "id": "b89750d4-fe55-480b-b79c-bc1eaf5350c2",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "userName": "ITsMagic"
     },
     {
       "titleB64": "UGFwZXJCb3g=",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBwYXBlciBib3ggYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJGYWN0b3J5IFByb3BzIiBTa2V0Y2hmYWIgcGFjayBieSBUaG9tYXNfQ3JvemVsb24uIEl0IGlzIHN1aXRlZCBmb3IgaW5kdXN0cmlhbCBzY2VuZXMsIHNlcnZpY2UgYXJlYXMsIHV0aWxpdHkgc3BhY2VzIGFuZCBlbnZpcm9ubWVudCBkcmVzc2luZyBpbiByZWFsLXRpbWUgcHJvamVjdHMsIHVzaW5nIHRoZSBvcmlnaW5hbCBwYWNrJ3MgNEsgbWFwcy4=",
       "tags": "paper_box,container,storage,packaging,game_ready,unity",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFBhcGVyQm94",
+      "tags": "3d,model,assets,props,paper,box",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-PaperBox",
@@ -2284,8 +2862,13 @@
     },
     {
       "titleB64": "UGxhc3RpY1RhcnA=",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBwbGFzdGljIHRhcnAgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJGYWN0b3J5IFByb3BzIiBTa2V0Y2hmYWIgcGFjayBieSBUaG9tYXNfQ3JvemVsb24uIEl0IGlzIHN1aXRlZCBmb3IgaW5kdXN0cmlhbCBzY2VuZXMsIHNlcnZpY2UgYXJlYXMsIHV0aWxpdHkgc3BhY2VzIGFuZCBlbnZpcm9ubWVudCBkcmVzc2luZyBpbiByZWFsLXRpbWUgcHJvamVjdHMsIHVzaW5nIHRoZSBvcmlnaW5hbCBwYWNrJ3MgNEsgbWFwcy4=",
       "tags": "plastic_tarp,covering,utility,industrial,game_ready,unity",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFBsYXN0aWNUYXJw",
+      "tags": "3d,model,assets,props,plastic,tarp",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-PlasticTarp",
@@ -2302,8 +2885,13 @@
     },
     {
       "titleB64": "UGxhdGFmb3JtVHJhbnNwb3J0Q2FydA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBwbGF0Zm9ybSBjYXJ0IGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRmFjdG9yeSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgVGhvbWFzX0Nyb3plbG9uLiBJdCBpcyBzdWl0ZWQgZm9yIGluZHVzdHJpYWwgc2NlbmVzLCBzZXJ2aWNlIGFyZWFzLCB1dGlsaXR5IHNwYWNlcyBhbmQgZW52aXJvbm1lbnQgZHJlc3NpbmcgaW4gcmVhbC10aW1lIHByb2plY3RzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIDRLIG1hcHMu",
       "tags": "platform_cart,transport,warehouse,utility,game_ready,unity",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFBsYXRhZm9ybVRyYW5zcG9ydENhcnQ=",
+      "tags": "3d,model,assets,props,plataform,transport,cart",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-PlataformTransportCart",
@@ -2320,8 +2908,13 @@
     },
     {
       "titleB64": "UGxpZXJz",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBwbGllcnMgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJGYWN0b3J5IFByb3BzIiBTa2V0Y2hmYWIgcGFjayBieSBUaG9tYXNfQ3JvemVsb24uIEl0IGlzIHN1aXRlZCBmb3IgaW5kdXN0cmlhbCBzY2VuZXMsIHNlcnZpY2UgYXJlYXMsIHV0aWxpdHkgc3BhY2VzIGFuZCBlbnZpcm9ubWVudCBkcmVzc2luZyBpbiByZWFsLXRpbWUgcHJvamVjdHMsIHVzaW5nIHRoZSBvcmlnaW5hbCBwYWNrJ3MgNEsgbWFwcy4=",
       "tags": "pliers,tool,workshop,utility,game_ready,unity",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFBsaWVycw==",
+      "tags": "3d,model,assets,props,pliers",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Pliers",
@@ -2358,8 +2951,13 @@
     },
     {
       "titleB64": "U2Fjaw==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBzYWNrIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRmFjdG9yeSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgVGhvbWFzX0Nyb3plbG9uLiBJdCBpcyBzdWl0ZWQgZm9yIGluZHVzdHJpYWwgc2NlbmVzLCBzZXJ2aWNlIGFyZWFzLCB1dGlsaXR5IHNwYWNlcyBhbmQgZW52aXJvbm1lbnQgZHJlc3NpbmcgaW4gcmVhbC10aW1lIHByb2plY3RzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIDRLIG1hcHMu",
       "tags": "sack,bag,storage,utility,game_ready,unity",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFNhY2s=",
+      "tags": "3d,model,assets,props,sack",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Sack",
@@ -2376,8 +2974,13 @@
     },
     {
       "titleB64": "U2Fjaw==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgc2FjayBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkZhY3RvcnkgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IFRob21hc19Dcm96ZWxvbi4gSXQgaXMgc3VpdGVkIGZvciBpbmR1c3RyaWFsIHNjZW5lcywgc2VydmljZSBhcmVhcywgdXRpbGl0eSBzcGFjZXMgYW5kIGVudmlyb25tZW50IGRyZXNzaW5nIGluIHJlYWwtdGltZSBwcm9qZWN0cywgdXNpbmcgdGhlIG9yaWdpbmFsIHBhY2sncyA0SyBtYXBzLg==",
       "tags": "sack,bag,storage,utility,game_ready,unity,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFNhY2s=",
+      "tags": "3d,model,assets,props,sack",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Sack2",
@@ -2394,8 +2997,13 @@
     },
     {
       "titleB64": "U2NyZXdEcml2ZXI=",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBzY3Jld2RyaXZlciBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkZhY3RvcnkgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IFRob21hc19Dcm96ZWxvbi4gSXQgaXMgc3VpdGVkIGZvciBpbmR1c3RyaWFsIHNjZW5lcywgc2VydmljZSBhcmVhcywgdXRpbGl0eSBzcGFjZXMgYW5kIGVudmlyb25tZW50IGRyZXNzaW5nIGluIHJlYWwtdGltZSBwcm9qZWN0cywgdXNpbmcgdGhlIG9yaWdpbmFsIHBhY2sncyA0SyBtYXBzLg==",
       "tags": "screwdriver,tool,workshop,utility,game_ready,unity",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFNjcmV3RHJpdmVy",
+      "tags": "3d,model,assets,props,screw,driver",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-ScrewDriver",
@@ -2412,8 +3020,13 @@
     },
     {
       "titleB64": "U2NyZXdEcml2ZXI=",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgc2NyZXdkcml2ZXIgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJGYWN0b3J5IFByb3BzIiBTa2V0Y2hmYWIgcGFjayBieSBUaG9tYXNfQ3JvemVsb24uIEl0IGlzIHN1aXRlZCBmb3IgaW5kdXN0cmlhbCBzY2VuZXMsIHNlcnZpY2UgYXJlYXMsIHV0aWxpdHkgc3BhY2VzIGFuZCBlbnZpcm9ubWVudCBkcmVzc2luZyBpbiByZWFsLXRpbWUgcHJvamVjdHMsIHVzaW5nIHRoZSBvcmlnaW5hbCBwYWNrJ3MgNEsgbWFwcy4=",
       "tags": "screwdriver,tool,workshop,utility,game_ready,unity,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFNjcmV3RHJpdmVy",
+      "tags": "3d,model,assets,props,screw,driver",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-ScrewDriver2",
@@ -2430,8 +3043,13 @@
     },
     {
       "titleB64": "U2hlbGY=",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBzaGVsZiBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkZhY3RvcnkgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IFRob21hc19Dcm96ZWxvbi4gSXQgaXMgc3VpdGVkIGZvciBpbmR1c3RyaWFsIHNjZW5lcywgc2VydmljZSBhcmVhcywgdXRpbGl0eSBzcGFjZXMgYW5kIGVudmlyb25tZW50IGRyZXNzaW5nIGluIHJlYWwtdGltZSBwcm9qZWN0cywgdXNpbmcgdGhlIG9yaWdpbmFsIHBhY2sncyA0SyBtYXBzLg==",
       "tags": "shelf,furniture,storage,interior,game_ready,unity",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFNoZWxm",
+      "tags": "3d,model,assets,props,shelf",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Shelf",
@@ -2448,8 +3066,13 @@
     },
     {
       "titleB64": "U2hlbGY=",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgc2hlbGYgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJGYWN0b3J5IFByb3BzIiBTa2V0Y2hmYWIgcGFjayBieSBUaG9tYXNfQ3JvemVsb24uIEl0IGlzIHN1aXRlZCBmb3IgaW5kdXN0cmlhbCBzY2VuZXMsIHNlcnZpY2UgYXJlYXMsIHV0aWxpdHkgc3BhY2VzIGFuZCBlbnZpcm9ubWVudCBkcmVzc2luZyBpbiByZWFsLXRpbWUgcHJvamVjdHMsIHVzaW5nIHRoZSBvcmlnaW5hbCBwYWNrJ3MgNEsgbWFwcy4=",
       "tags": "shelf,furniture,storage,interior,game_ready,unity,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFNoZWxm",
+      "tags": "3d,model,assets,props,shelf",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Shelf2",
@@ -2466,8 +3089,13 @@
     },
     {
       "titleB64": "U21hbGxUcmVl",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBzbWFsbCB0cmVlIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiTWVkaWV2YWwgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IERhbmllbCBWaWNlbnRlLiBJdCBmaXRzIG1vZHVsYXIgbWVkaWV2YWwgY2l0eSBzY2VuZXMsIHZpbGxhZ2UgZW52aXJvbm1lbnRzLCBjb3VydHlhcmRzIGFuZCBoaXN0b3JpY2FsIHNldCBkcmVzc2luZy4=",
       "tags": "small_tree,tree,vegetation,nature,medieval,game_ready",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFNtYWxsVHJlZQ==",
+      "tags": "3d,model,assets,props,small,tree,nature,vegetation,forest",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-SmallTree",
@@ -2484,8 +3112,13 @@
     },
     {
       "titleB64": "U21hbGxXYXRlclNvdXJjZQ==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBjb3ZlcmVkIHdlbGwgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJNZWRpZXZhbCBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgRGFuaWVsIFZpY2VudGUuIEl0IGZpdHMgbW9kdWxhciBtZWRpZXZhbCBjaXR5IHNjZW5lcywgdmlsbGFnZSBlbnZpcm9ubWVudHMsIGNvdXJ0eWFyZHMgYW5kIGhpc3RvcmljYWwgc2V0IGRyZXNzaW5nLg==",
       "tags": "covered_well,water_feature,medieval,environment,game_ready",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFNtYWxsV2F0ZXJTb3VyY2U=",
+      "tags": "3d,model,assets,props,small,water,source",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-SmallWaterSource",
@@ -2502,8 +3135,13 @@
     },
     {
       "titleB64": "QSBTbW9raW5nUGlwZSBNb2RlbA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBzbW9raW5nIHBpcGUgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJCcmltc3RvbmUgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IEN0cmxMaWdodC4gSXQgZml0cyBpbnRlcmlvciBwcm9wcywgcm9vbSBkcmVzc2luZyBhbmQgZW52aXJvbm1lbnRhbCBzdG9yeXRlbGxpbmcgc2NlbmVzIGluc3BpcmVkIGJ5IHRoZSBvcmlnaW5hbCBCcmltc3RvbmUgcHJvamVjdC4=",
       "tags": "smoking_pipe,decor,interior,tabletop,realistic,game_ready",
+=======
+      "descriptionB64": "SGVsbG8sIHNvIGdsYWQgeW91IGFyZSBoZXJlISBUaGVzZSBhcmUgc29tZSBwcm9wcyBJIG1hZGUgZm9yIGEgY2Fwc3RvbmUgY2xhc3MgdGhhdCByZXF1aXJlcyB0aGUgc3R1ZGVudHMgdG8gbWFrZSBhIGdhbWUgdW5kZXIgdGhlIGdhbWUgamFtIHRpbWVmcmFtZS4gSSBtb2RlbGVkIHRoZXNlIHByb3BzIGFuZCB0ZXh0dXJlZCBhIGZldy4KSSByZWFsbHkgZW5qb3llZCBtYWtpbmcgdGhlc2UgcHJvcHMgZm9yIHNlcnZhbCByZWFzb25zLCBvbmUgYmVpbmcgdGhhdCBJIGhhdmUgbmV2ZXIgZ29uZSBmb3IgYSByZWFsaXN0aWMgc3R5bGUgYW5kIEkgZmVlbCBsaWtlIEkgbmFpbGVkIGl0ISB0aGUgcmVhbGlzdGljIGFydCBzdHlsZSB3YXMgYSBjaGFsbGVuZ2UgYXQgZmlyc3QgYnV0IGFmdGVyIHNvbWUgdGltZSBpIGJlY2FtZSBmYXN0ZXIgYW5kIHdhcyBhYmxlIHRvIGNyZWF0ZSB3aGF0IHlvdSBzZWUgdG9kYXkuCklmIHlvdSB3b3VsZCBsaWtlIHRvIGNoZWNrIG91dCB0aGUgZ2FtZSB0byBwbGF5IHlvdXJzZWxmIHlvdSBjYW4gZ28gdG8gaHR0cHM6Ly9jcmVhdHVyZW1vb24uaXRjaC5pby90aGVicmltc3RvbmU=",
+      "tags": "3d,model,assets,props,smokingpipe",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-SmokingPipe",
@@ -2515,13 +3153,22 @@
       ],
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9icmltc3RvbmUtcHJvcHMtYzhkYzFlYTI1ZmY3NGVhNGIzZWJjM2RjZDc1NDBlODk=",
       "repivot": true,
+<<<<<<< HEAD
       "id": "130b25be-76ff-4903-8f3f-b889b207858f",
+=======
+      "id": "dd42dcc4-0445-4041-a35a-31ad61f1366f",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "userName": "ITsMagic"
     },
     {
       "titleB64": "U3F1YXJlVG93ZWw=",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSB0YWJsZWNsb3RoIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiQmFycmVsIFBhY2siIFNrZXRjaGZhYiBwYWNrIGJ5IHZtYXR0aGV3LiBJdCBmaXRzIHByb3AgZHJlc3NpbmcsIHN0b3JhZ2Ugc2NlbmVzIGFuZCByZWFsLXRpbWUgZW52aXJvbm1lbnQgY29tcG9zaXRpb24sIGJhc2VkIG9uIHRoZSBwYWNrJ3MgaW1wcm92ZWQgdGV4dHVyZXMgYW5kIGhpZ2hlci1wb2x5IHRyZWF0bWVudC4=",
       "tags": "tablecloth,fabric,decor,interior,game_ready",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFNxdWFyZVRvd2Vs",
+      "tags": "3d,model,assets,props,square,towel",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-SquareTowel",
@@ -2538,8 +3185,13 @@
     },
     {
       "titleB64": "QSBTdWl0Y2FzZSBNb2RlbA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBzdWl0Y2FzZSBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkJyaW1zdG9uZSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgQ3RybExpZ2h0LiBJdCBmaXRzIGludGVyaW9yIHByb3BzLCByb29tIGRyZXNzaW5nIGFuZCBlbnZpcm9ubWVudGFsIHN0b3J5dGVsbGluZyBzY2VuZXMgaW5zcGlyZWQgYnkgdGhlIG9yaWdpbmFsIEJyaW1zdG9uZSBwcm9qZWN0Lg==",
       "tags": "suitcase,luggage,travel,interior,realistic,game_ready",
+=======
+      "descriptionB64": "SGVsbG8sIHNvIGdsYWQgeW91IGFyZSBoZXJlISBUaGVzZSBhcmUgc29tZSBwcm9wcyBJIG1hZGUgZm9yIGEgY2Fwc3RvbmUgY2xhc3MgdGhhdCByZXF1aXJlcyB0aGUgc3R1ZGVudHMgdG8gbWFrZSBhIGdhbWUgdW5kZXIgdGhlIGdhbWUgamFtIHRpbWVmcmFtZS4gSSBtb2RlbGVkIHRoZXNlIHByb3BzIGFuZCB0ZXh0dXJlZCBhIGZldy4KSSByZWFsbHkgZW5qb3llZCBtYWtpbmcgdGhlc2UgcHJvcHMgZm9yIHNlcnZhbCByZWFzb25zLCBvbmUgYmVpbmcgdGhhdCBJIGhhdmUgbmV2ZXIgZ29uZSBmb3IgYSByZWFsaXN0aWMgc3R5bGUgYW5kIEkgZmVlbCBsaWtlIEkgbmFpbGVkIGl0ISB0aGUgcmVhbGlzdGljIGFydCBzdHlsZSB3YXMgYSBjaGFsbGVuZ2UgYXQgZmlyc3QgYnV0IGFmdGVyIHNvbWUgdGltZSBpIGJlY2FtZSBmYXN0ZXIgYW5kIHdhcyBhYmxlIHRvIGNyZWF0ZSB3aGF0IHlvdSBzZWUgdG9kYXkuCklmIHlvdSB3b3VsZCBsaWtlIHRvIGNoZWNrIG91dCB0aGUgZ2FtZSB0byBwbGF5IHlvdXJzZWxmIHlvdSBjYW4gZ28gdG8gaHR0cHM6Ly9jcmVhdHVyZW1vb24uaXRjaC5pby90aGVicmltc3RvbmU=",
+      "tags": "3d,model,assets,props,suitcase",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Suitcase",
@@ -2551,13 +3203,22 @@
       ],
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9icmltc3RvbmUtcHJvcHMtYzhkYzFlYTI1ZmY3NGVhNGIzZWJjM2RjZDc1NDBlODk=",
       "repivot": true,
+<<<<<<< HEAD
       "id": "3e3a0875-12fd-4435-bb27-aa69660de6a6",
+=======
+      "id": "0344ab4f-6576-4428-a34b-2248dba3a7a6",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "userName": "ITsMagic"
     },
     {
       "titleB64": "QSBTdWl0Y2FzZSBNb2RlbA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgc3VpdGNhc2UgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJCcmltc3RvbmUgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IEN0cmxMaWdodC4gSXQgZml0cyBpbnRlcmlvciBwcm9wcywgcm9vbSBkcmVzc2luZyBhbmQgZW52aXJvbm1lbnRhbCBzdG9yeXRlbGxpbmcgc2NlbmVzIGluc3BpcmVkIGJ5IHRoZSBvcmlnaW5hbCBCcmltc3RvbmUgcHJvamVjdC4=",
       "tags": "suitcase,luggage,travel,interior,realistic,game_ready,variant",
+=======
+      "descriptionB64": "SGVsbG8sIHNvIGdsYWQgeW91IGFyZSBoZXJlISBUaGVzZSBhcmUgc29tZSBwcm9wcyBJIG1hZGUgZm9yIGEgY2Fwc3RvbmUgY2xhc3MgdGhhdCByZXF1aXJlcyB0aGUgc3R1ZGVudHMgdG8gbWFrZSBhIGdhbWUgdW5kZXIgdGhlIGdhbWUgamFtIHRpbWVmcmFtZS4gSSBtb2RlbGVkIHRoZXNlIHByb3BzIGFuZCB0ZXh0dXJlZCBhIGZldy4KSSByZWFsbHkgZW5qb3llZCBtYWtpbmcgdGhlc2UgcHJvcHMgZm9yIHNlcnZhbCByZWFzb25zLCBvbmUgYmVpbmcgdGhhdCBJIGhhdmUgbmV2ZXIgZ29uZSBmb3IgYSByZWFsaXN0aWMgc3R5bGUgYW5kIEkgZmVlbCBsaWtlIEkgbmFpbGVkIGl0ISB0aGUgcmVhbGlzdGljIGFydCBzdHlsZSB3YXMgYSBjaGFsbGVuZ2UgYXQgZmlyc3QgYnV0IGFmdGVyIHNvbWUgdGltZSBpIGJlY2FtZSBmYXN0ZXIgYW5kIHdhcyBhYmxlIHRvIGNyZWF0ZSB3aGF0IHlvdSBzZWUgdG9kYXkuCklmIHlvdSB3b3VsZCBsaWtlIHRvIGNoZWNrIG91dCB0aGUgZ2FtZSB0byBwbGF5IHlvdXJzZWxmIHlvdSBjYW4gZ28gdG8gaHR0cHM6Ly9jcmVhdHVyZW1vb24uaXRjaC5pby90aGVicmltc3RvbmU=",
+      "tags": "3d,model,assets,props,suitcase",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Suitcase10",
@@ -2569,13 +3230,22 @@
       ],
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9icmltc3RvbmUtcHJvcHMtYzhkYzFlYTI1ZmY3NGVhNGIzZWJjM2RjZDc1NDBlODk=",
       "repivot": true,
+<<<<<<< HEAD
       "id": "3c83aeb9-ffea-4674-8f26-33332f591637",
+=======
+      "id": "e2fa26f5-1687-4904-90a9-bd1daee50453",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "userName": "ITsMagic"
     },
     {
       "titleB64": "QSBTdWl0Y2FzZSBNb2RlbA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgc3VpdGNhc2UgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJCcmltc3RvbmUgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IEN0cmxMaWdodC4gSXQgZml0cyBpbnRlcmlvciBwcm9wcywgcm9vbSBkcmVzc2luZyBhbmQgZW52aXJvbm1lbnRhbCBzdG9yeXRlbGxpbmcgc2NlbmVzIGluc3BpcmVkIGJ5IHRoZSBvcmlnaW5hbCBCcmltc3RvbmUgcHJvamVjdC4=",
       "tags": "suitcase,luggage,travel,interior,realistic,game_ready,variant",
+=======
+      "descriptionB64": "SGVsbG8sIHNvIGdsYWQgeW91IGFyZSBoZXJlISBUaGVzZSBhcmUgc29tZSBwcm9wcyBJIG1hZGUgZm9yIGEgY2Fwc3RvbmUgY2xhc3MgdGhhdCByZXF1aXJlcyB0aGUgc3R1ZGVudHMgdG8gbWFrZSBhIGdhbWUgdW5kZXIgdGhlIGdhbWUgamFtIHRpbWVmcmFtZS4gSSBtb2RlbGVkIHRoZXNlIHByb3BzIGFuZCB0ZXh0dXJlZCBhIGZldy4KSSByZWFsbHkgZW5qb3llZCBtYWtpbmcgdGhlc2UgcHJvcHMgZm9yIHNlcnZhbCByZWFzb25zLCBvbmUgYmVpbmcgdGhhdCBJIGhhdmUgbmV2ZXIgZ29uZSBmb3IgYSByZWFsaXN0aWMgc3R5bGUgYW5kIEkgZmVlbCBsaWtlIEkgbmFpbGVkIGl0ISB0aGUgcmVhbGlzdGljIGFydCBzdHlsZSB3YXMgYSBjaGFsbGVuZ2UgYXQgZmlyc3QgYnV0IGFmdGVyIHNvbWUgdGltZSBpIGJlY2FtZSBmYXN0ZXIgYW5kIHdhcyBhYmxlIHRvIGNyZWF0ZSB3aGF0IHlvdSBzZWUgdG9kYXkuCklmIHlvdSB3b3VsZCBsaWtlIHRvIGNoZWNrIG91dCB0aGUgZ2FtZSB0byBwbGF5IHlvdXJzZWxmIHlvdSBjYW4gZ28gdG8gaHR0cHM6Ly9jcmVhdHVyZW1vb24uaXRjaC5pby90aGVicmltc3RvbmU=",
+      "tags": "3d,model,assets,props,suitcase",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Suitcase11",
@@ -2587,13 +3257,22 @@
       ],
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9icmltc3RvbmUtcHJvcHMtYzhkYzFlYTI1ZmY3NGVhNGIzZWJjM2RjZDc1NDBlODk=",
       "repivot": true,
+<<<<<<< HEAD
       "id": "f13f1d21-3207-420d-9b71-cb4ff4063c34",
+=======
+      "id": "3d5b37c7-17f0-4643-acdf-71e055e44090",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "userName": "ITsMagic"
     },
     {
       "titleB64": "QSBTdWl0Y2FzZSBNb2RlbA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgc3VpdGNhc2UgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJCcmltc3RvbmUgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IEN0cmxMaWdodC4gSXQgZml0cyBpbnRlcmlvciBwcm9wcywgcm9vbSBkcmVzc2luZyBhbmQgZW52aXJvbm1lbnRhbCBzdG9yeXRlbGxpbmcgc2NlbmVzIGluc3BpcmVkIGJ5IHRoZSBvcmlnaW5hbCBCcmltc3RvbmUgcHJvamVjdC4=",
       "tags": "suitcase,luggage,travel,interior,realistic,game_ready,variant",
+=======
+      "descriptionB64": "SGVsbG8sIHNvIGdsYWQgeW91IGFyZSBoZXJlISBUaGVzZSBhcmUgc29tZSBwcm9wcyBJIG1hZGUgZm9yIGEgY2Fwc3RvbmUgY2xhc3MgdGhhdCByZXF1aXJlcyB0aGUgc3R1ZGVudHMgdG8gbWFrZSBhIGdhbWUgdW5kZXIgdGhlIGdhbWUgamFtIHRpbWVmcmFtZS4gSSBtb2RlbGVkIHRoZXNlIHByb3BzIGFuZCB0ZXh0dXJlZCBhIGZldy4KSSByZWFsbHkgZW5qb3llZCBtYWtpbmcgdGhlc2UgcHJvcHMgZm9yIHNlcnZhbCByZWFzb25zLCBvbmUgYmVpbmcgdGhhdCBJIGhhdmUgbmV2ZXIgZ29uZSBmb3IgYSByZWFsaXN0aWMgc3R5bGUgYW5kIEkgZmVlbCBsaWtlIEkgbmFpbGVkIGl0ISB0aGUgcmVhbGlzdGljIGFydCBzdHlsZSB3YXMgYSBjaGFsbGVuZ2UgYXQgZmlyc3QgYnV0IGFmdGVyIHNvbWUgdGltZSBpIGJlY2FtZSBmYXN0ZXIgYW5kIHdhcyBhYmxlIHRvIGNyZWF0ZSB3aGF0IHlvdSBzZWUgdG9kYXkuCklmIHlvdSB3b3VsZCBsaWtlIHRvIGNoZWNrIG91dCB0aGUgZ2FtZSB0byBwbGF5IHlvdXJzZWxmIHlvdSBjYW4gZ28gdG8gaHR0cHM6Ly9jcmVhdHVyZW1vb24uaXRjaC5pby90aGVicmltc3RvbmU=",
+      "tags": "3d,model,assets,props,suitcase",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Suitcase12",
@@ -2605,13 +3284,22 @@
       ],
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9icmltc3RvbmUtcHJvcHMtYzhkYzFlYTI1ZmY3NGVhNGIzZWJjM2RjZDc1NDBlODk=",
       "repivot": true,
+<<<<<<< HEAD
       "id": "20ac35a5-2bcd-46a2-b25c-48d4d71d8359",
+=======
+      "id": "deb249f7-e0b8-4e6e-8668-3b6cf0fe1ec2",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "userName": "ITsMagic"
     },
     {
       "titleB64": "QSBTdWl0Y2FzZSBNb2RlbA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgc3VpdGNhc2UgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJCcmltc3RvbmUgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IEN0cmxMaWdodC4gSXQgZml0cyBpbnRlcmlvciBwcm9wcywgcm9vbSBkcmVzc2luZyBhbmQgZW52aXJvbm1lbnRhbCBzdG9yeXRlbGxpbmcgc2NlbmVzIGluc3BpcmVkIGJ5IHRoZSBvcmlnaW5hbCBCcmltc3RvbmUgcHJvamVjdC4=",
       "tags": "suitcase,luggage,travel,interior,realistic,game_ready,variant",
+=======
+      "descriptionB64": "SGVsbG8sIHNvIGdsYWQgeW91IGFyZSBoZXJlISBUaGVzZSBhcmUgc29tZSBwcm9wcyBJIG1hZGUgZm9yIGEgY2Fwc3RvbmUgY2xhc3MgdGhhdCByZXF1aXJlcyB0aGUgc3R1ZGVudHMgdG8gbWFrZSBhIGdhbWUgdW5kZXIgdGhlIGdhbWUgamFtIHRpbWVmcmFtZS4gSSBtb2RlbGVkIHRoZXNlIHByb3BzIGFuZCB0ZXh0dXJlZCBhIGZldy4KSSByZWFsbHkgZW5qb3llZCBtYWtpbmcgdGhlc2UgcHJvcHMgZm9yIHNlcnZhbCByZWFzb25zLCBvbmUgYmVpbmcgdGhhdCBJIGhhdmUgbmV2ZXIgZ29uZSBmb3IgYSByZWFsaXN0aWMgc3R5bGUgYW5kIEkgZmVlbCBsaWtlIEkgbmFpbGVkIGl0ISB0aGUgcmVhbGlzdGljIGFydCBzdHlsZSB3YXMgYSBjaGFsbGVuZ2UgYXQgZmlyc3QgYnV0IGFmdGVyIHNvbWUgdGltZSBpIGJlY2FtZSBmYXN0ZXIgYW5kIHdhcyBhYmxlIHRvIGNyZWF0ZSB3aGF0IHlvdSBzZWUgdG9kYXkuCklmIHlvdSB3b3VsZCBsaWtlIHRvIGNoZWNrIG91dCB0aGUgZ2FtZSB0byBwbGF5IHlvdXJzZWxmIHlvdSBjYW4gZ28gdG8gaHR0cHM6Ly9jcmVhdHVyZW1vb24uaXRjaC5pby90aGVicmltc3RvbmU=",
+      "tags": "3d,model,assets,props,suitcase",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Suitcase13",
@@ -2623,13 +3311,22 @@
       ],
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9icmltc3RvbmUtcHJvcHMtYzhkYzFlYTI1ZmY3NGVhNGIzZWJjM2RjZDc1NDBlODk=",
       "repivot": true,
+<<<<<<< HEAD
       "id": "cf6283e6-52ab-44e3-aaa4-a048ebbe3e5e",
+=======
+      "id": "628825a2-f301-42b1-ada1-b21140cd4c2e",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "userName": "ITsMagic"
     },
     {
       "titleB64": "QSBTdWl0Y2FzZSBNb2RlbA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgc3VpdGNhc2UgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJCcmltc3RvbmUgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IEN0cmxMaWdodC4gSXQgZml0cyBpbnRlcmlvciBwcm9wcywgcm9vbSBkcmVzc2luZyBhbmQgZW52aXJvbm1lbnRhbCBzdG9yeXRlbGxpbmcgc2NlbmVzIGluc3BpcmVkIGJ5IHRoZSBvcmlnaW5hbCBCcmltc3RvbmUgcHJvamVjdC4=",
       "tags": "suitcase,luggage,travel,interior,realistic,game_ready,variant",
+=======
+      "descriptionB64": "SGVsbG8sIHNvIGdsYWQgeW91IGFyZSBoZXJlISBUaGVzZSBhcmUgc29tZSBwcm9wcyBJIG1hZGUgZm9yIGEgY2Fwc3RvbmUgY2xhc3MgdGhhdCByZXF1aXJlcyB0aGUgc3R1ZGVudHMgdG8gbWFrZSBhIGdhbWUgdW5kZXIgdGhlIGdhbWUgamFtIHRpbWVmcmFtZS4gSSBtb2RlbGVkIHRoZXNlIHByb3BzIGFuZCB0ZXh0dXJlZCBhIGZldy4KSSByZWFsbHkgZW5qb3llZCBtYWtpbmcgdGhlc2UgcHJvcHMgZm9yIHNlcnZhbCByZWFzb25zLCBvbmUgYmVpbmcgdGhhdCBJIGhhdmUgbmV2ZXIgZ29uZSBmb3IgYSByZWFsaXN0aWMgc3R5bGUgYW5kIEkgZmVlbCBsaWtlIEkgbmFpbGVkIGl0ISB0aGUgcmVhbGlzdGljIGFydCBzdHlsZSB3YXMgYSBjaGFsbGVuZ2UgYXQgZmlyc3QgYnV0IGFmdGVyIHNvbWUgdGltZSBpIGJlY2FtZSBmYXN0ZXIgYW5kIHdhcyBhYmxlIHRvIGNyZWF0ZSB3aGF0IHlvdSBzZWUgdG9kYXkuCklmIHlvdSB3b3VsZCBsaWtlIHRvIGNoZWNrIG91dCB0aGUgZ2FtZSB0byBwbGF5IHlvdXJzZWxmIHlvdSBjYW4gZ28gdG8gaHR0cHM6Ly9jcmVhdHVyZW1vb24uaXRjaC5pby90aGVicmltc3RvbmU=",
+      "tags": "3d,model,assets,props,suitcase",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Suitcase14",
@@ -2641,13 +3338,22 @@
       ],
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9icmltc3RvbmUtcHJvcHMtYzhkYzFlYTI1ZmY3NGVhNGIzZWJjM2RjZDc1NDBlODk=",
       "repivot": true,
+<<<<<<< HEAD
       "id": "ffd94555-e350-4f95-933f-89c026ae5b3e",
+=======
+      "id": "f563391c-7300-4ab2-912a-c5e06575ea46",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "userName": "ITsMagic"
     },
     {
       "titleB64": "QSBTdWl0Y2FzZSBNb2RlbA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgc3VpdGNhc2UgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJCcmltc3RvbmUgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IEN0cmxMaWdodC4gSXQgZml0cyBpbnRlcmlvciBwcm9wcywgcm9vbSBkcmVzc2luZyBhbmQgZW52aXJvbm1lbnRhbCBzdG9yeXRlbGxpbmcgc2NlbmVzIGluc3BpcmVkIGJ5IHRoZSBvcmlnaW5hbCBCcmltc3RvbmUgcHJvamVjdC4=",
       "tags": "suitcase,luggage,travel,interior,realistic,game_ready,variant",
+=======
+      "descriptionB64": "SGVsbG8sIHNvIGdsYWQgeW91IGFyZSBoZXJlISBUaGVzZSBhcmUgc29tZSBwcm9wcyBJIG1hZGUgZm9yIGEgY2Fwc3RvbmUgY2xhc3MgdGhhdCByZXF1aXJlcyB0aGUgc3R1ZGVudHMgdG8gbWFrZSBhIGdhbWUgdW5kZXIgdGhlIGdhbWUgamFtIHRpbWVmcmFtZS4gSSBtb2RlbGVkIHRoZXNlIHByb3BzIGFuZCB0ZXh0dXJlZCBhIGZldy4KSSByZWFsbHkgZW5qb3llZCBtYWtpbmcgdGhlc2UgcHJvcHMgZm9yIHNlcnZhbCByZWFzb25zLCBvbmUgYmVpbmcgdGhhdCBJIGhhdmUgbmV2ZXIgZ29uZSBmb3IgYSByZWFsaXN0aWMgc3R5bGUgYW5kIEkgZmVlbCBsaWtlIEkgbmFpbGVkIGl0ISB0aGUgcmVhbGlzdGljIGFydCBzdHlsZSB3YXMgYSBjaGFsbGVuZ2UgYXQgZmlyc3QgYnV0IGFmdGVyIHNvbWUgdGltZSBpIGJlY2FtZSBmYXN0ZXIgYW5kIHdhcyBhYmxlIHRvIGNyZWF0ZSB3aGF0IHlvdSBzZWUgdG9kYXkuCklmIHlvdSB3b3VsZCBsaWtlIHRvIGNoZWNrIG91dCB0aGUgZ2FtZSB0byBwbGF5IHlvdXJzZWxmIHlvdSBjYW4gZ28gdG8gaHR0cHM6Ly9jcmVhdHVyZW1vb24uaXRjaC5pby90aGVicmltc3RvbmU=",
+      "tags": "3d,model,assets,props,suitcase",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Suitcase2",
@@ -2659,13 +3365,22 @@
       ],
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9icmltc3RvbmUtcHJvcHMtYzhkYzFlYTI1ZmY3NGVhNGIzZWJjM2RjZDc1NDBlODk=",
       "repivot": true,
+<<<<<<< HEAD
       "id": "71aba941-425e-4ada-82f6-829c780c0a6f",
+=======
+      "id": "8916ef23-b6e5-4b1e-82f9-891da1ad6da2",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "userName": "ITsMagic"
     },
     {
       "titleB64": "QSBTdWl0Y2FzZSBNb2RlbA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgc3VpdGNhc2UgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJCcmltc3RvbmUgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IEN0cmxMaWdodC4gSXQgZml0cyBpbnRlcmlvciBwcm9wcywgcm9vbSBkcmVzc2luZyBhbmQgZW52aXJvbm1lbnRhbCBzdG9yeXRlbGxpbmcgc2NlbmVzIGluc3BpcmVkIGJ5IHRoZSBvcmlnaW5hbCBCcmltc3RvbmUgcHJvamVjdC4=",
       "tags": "suitcase,luggage,travel,interior,realistic,game_ready,variant",
+=======
+      "descriptionB64": "SGVsbG8sIHNvIGdsYWQgeW91IGFyZSBoZXJlISBUaGVzZSBhcmUgc29tZSBwcm9wcyBJIG1hZGUgZm9yIGEgY2Fwc3RvbmUgY2xhc3MgdGhhdCByZXF1aXJlcyB0aGUgc3R1ZGVudHMgdG8gbWFrZSBhIGdhbWUgdW5kZXIgdGhlIGdhbWUgamFtIHRpbWVmcmFtZS4gSSBtb2RlbGVkIHRoZXNlIHByb3BzIGFuZCB0ZXh0dXJlZCBhIGZldy4KSSByZWFsbHkgZW5qb3llZCBtYWtpbmcgdGhlc2UgcHJvcHMgZm9yIHNlcnZhbCByZWFzb25zLCBvbmUgYmVpbmcgdGhhdCBJIGhhdmUgbmV2ZXIgZ29uZSBmb3IgYSByZWFsaXN0aWMgc3R5bGUgYW5kIEkgZmVlbCBsaWtlIEkgbmFpbGVkIGl0ISB0aGUgcmVhbGlzdGljIGFydCBzdHlsZSB3YXMgYSBjaGFsbGVuZ2UgYXQgZmlyc3QgYnV0IGFmdGVyIHNvbWUgdGltZSBpIGJlY2FtZSBmYXN0ZXIgYW5kIHdhcyBhYmxlIHRvIGNyZWF0ZSB3aGF0IHlvdSBzZWUgdG9kYXkuCklmIHlvdSB3b3VsZCBsaWtlIHRvIGNoZWNrIG91dCB0aGUgZ2FtZSB0byBwbGF5IHlvdXJzZWxmIHlvdSBjYW4gZ28gdG8gaHR0cHM6Ly9jcmVhdHVyZW1vb24uaXRjaC5pby90aGVicmltc3RvbmU=",
+      "tags": "3d,model,assets,props,suitcase",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Suitcase3",
@@ -2677,13 +3392,22 @@
       ],
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9icmltc3RvbmUtcHJvcHMtYzhkYzFlYTI1ZmY3NGVhNGIzZWJjM2RjZDc1NDBlODk=",
       "repivot": true,
+<<<<<<< HEAD
       "id": "6b1d7799-b216-49f5-b167-9337a81541c4",
+=======
+      "id": "37185ea2-d6c5-4789-a6e3-109061dbc5aa",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "userName": "ITsMagic"
     },
     {
       "titleB64": "QSBTdWl0Y2FzZSBNb2RlbA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgc3VpdGNhc2UgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJCcmltc3RvbmUgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IEN0cmxMaWdodC4gSXQgZml0cyBpbnRlcmlvciBwcm9wcywgcm9vbSBkcmVzc2luZyBhbmQgZW52aXJvbm1lbnRhbCBzdG9yeXRlbGxpbmcgc2NlbmVzIGluc3BpcmVkIGJ5IHRoZSBvcmlnaW5hbCBCcmltc3RvbmUgcHJvamVjdC4=",
       "tags": "suitcase,luggage,travel,interior,realistic,game_ready,variant",
+=======
+      "descriptionB64": "SGVsbG8sIHNvIGdsYWQgeW91IGFyZSBoZXJlISBUaGVzZSBhcmUgc29tZSBwcm9wcyBJIG1hZGUgZm9yIGEgY2Fwc3RvbmUgY2xhc3MgdGhhdCByZXF1aXJlcyB0aGUgc3R1ZGVudHMgdG8gbWFrZSBhIGdhbWUgdW5kZXIgdGhlIGdhbWUgamFtIHRpbWVmcmFtZS4gSSBtb2RlbGVkIHRoZXNlIHByb3BzIGFuZCB0ZXh0dXJlZCBhIGZldy4KSSByZWFsbHkgZW5qb3llZCBtYWtpbmcgdGhlc2UgcHJvcHMgZm9yIHNlcnZhbCByZWFzb25zLCBvbmUgYmVpbmcgdGhhdCBJIGhhdmUgbmV2ZXIgZ29uZSBmb3IgYSByZWFsaXN0aWMgc3R5bGUgYW5kIEkgZmVlbCBsaWtlIEkgbmFpbGVkIGl0ISB0aGUgcmVhbGlzdGljIGFydCBzdHlsZSB3YXMgYSBjaGFsbGVuZ2UgYXQgZmlyc3QgYnV0IGFmdGVyIHNvbWUgdGltZSBpIGJlY2FtZSBmYXN0ZXIgYW5kIHdhcyBhYmxlIHRvIGNyZWF0ZSB3aGF0IHlvdSBzZWUgdG9kYXkuCklmIHlvdSB3b3VsZCBsaWtlIHRvIGNoZWNrIG91dCB0aGUgZ2FtZSB0byBwbGF5IHlvdXJzZWxmIHlvdSBjYW4gZ28gdG8gaHR0cHM6Ly9jcmVhdHVyZW1vb24uaXRjaC5pby90aGVicmltc3RvbmU=",
+      "tags": "3d,model,assets,props,suitcase",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Suitcase4",
@@ -2695,13 +3419,22 @@
       ],
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9icmltc3RvbmUtcHJvcHMtYzhkYzFlYTI1ZmY3NGVhNGIzZWJjM2RjZDc1NDBlODk=",
       "repivot": true,
+<<<<<<< HEAD
       "id": "c294885b-3a1e-41e3-b09d-02d2f5f9d627",
+=======
+      "id": "2cddd81b-170f-4841-83ea-8d4ff2080e0f",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "userName": "ITsMagic"
     },
     {
       "titleB64": "QSBTdWl0Y2FzZSBNb2RlbA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgc3VpdGNhc2UgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJCcmltc3RvbmUgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IEN0cmxMaWdodC4gSXQgZml0cyBpbnRlcmlvciBwcm9wcywgcm9vbSBkcmVzc2luZyBhbmQgZW52aXJvbm1lbnRhbCBzdG9yeXRlbGxpbmcgc2NlbmVzIGluc3BpcmVkIGJ5IHRoZSBvcmlnaW5hbCBCcmltc3RvbmUgcHJvamVjdC4=",
       "tags": "suitcase,luggage,travel,interior,realistic,game_ready,variant",
+=======
+      "descriptionB64": "SGVsbG8sIHNvIGdsYWQgeW91IGFyZSBoZXJlISBUaGVzZSBhcmUgc29tZSBwcm9wcyBJIG1hZGUgZm9yIGEgY2Fwc3RvbmUgY2xhc3MgdGhhdCByZXF1aXJlcyB0aGUgc3R1ZGVudHMgdG8gbWFrZSBhIGdhbWUgdW5kZXIgdGhlIGdhbWUgamFtIHRpbWVmcmFtZS4gSSBtb2RlbGVkIHRoZXNlIHByb3BzIGFuZCB0ZXh0dXJlZCBhIGZldy4KSSByZWFsbHkgZW5qb3llZCBtYWtpbmcgdGhlc2UgcHJvcHMgZm9yIHNlcnZhbCByZWFzb25zLCBvbmUgYmVpbmcgdGhhdCBJIGhhdmUgbmV2ZXIgZ29uZSBmb3IgYSByZWFsaXN0aWMgc3R5bGUgYW5kIEkgZmVlbCBsaWtlIEkgbmFpbGVkIGl0ISB0aGUgcmVhbGlzdGljIGFydCBzdHlsZSB3YXMgYSBjaGFsbGVuZ2UgYXQgZmlyc3QgYnV0IGFmdGVyIHNvbWUgdGltZSBpIGJlY2FtZSBmYXN0ZXIgYW5kIHdhcyBhYmxlIHRvIGNyZWF0ZSB3aGF0IHlvdSBzZWUgdG9kYXkuCklmIHlvdSB3b3VsZCBsaWtlIHRvIGNoZWNrIG91dCB0aGUgZ2FtZSB0byBwbGF5IHlvdXJzZWxmIHlvdSBjYW4gZ28gdG8gaHR0cHM6Ly9jcmVhdHVyZW1vb24uaXRjaC5pby90aGVicmltc3RvbmU=",
+      "tags": "3d,model,assets,props,suitcase",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Suitcase5",
@@ -2713,13 +3446,22 @@
       ],
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9icmltc3RvbmUtcHJvcHMtYzhkYzFlYTI1ZmY3NGVhNGIzZWJjM2RjZDc1NDBlODk=",
       "repivot": true,
+<<<<<<< HEAD
       "id": "f5e55589-7ad4-47d7-8cb6-0b8793af1d52",
+=======
+      "id": "3a1376c5-ecf7-4e1f-9c3d-1ae019ab5054",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "userName": "ITsMagic"
     },
     {
       "titleB64": "QSBTdWl0Y2FzZSBNb2RlbA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgc3VpdGNhc2UgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJCcmltc3RvbmUgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IEN0cmxMaWdodC4gSXQgZml0cyBpbnRlcmlvciBwcm9wcywgcm9vbSBkcmVzc2luZyBhbmQgZW52aXJvbm1lbnRhbCBzdG9yeXRlbGxpbmcgc2NlbmVzIGluc3BpcmVkIGJ5IHRoZSBvcmlnaW5hbCBCcmltc3RvbmUgcHJvamVjdC4=",
       "tags": "suitcase,luggage,travel,interior,realistic,game_ready,variant",
+=======
+      "descriptionB64": "SGVsbG8sIHNvIGdsYWQgeW91IGFyZSBoZXJlISBUaGVzZSBhcmUgc29tZSBwcm9wcyBJIG1hZGUgZm9yIGEgY2Fwc3RvbmUgY2xhc3MgdGhhdCByZXF1aXJlcyB0aGUgc3R1ZGVudHMgdG8gbWFrZSBhIGdhbWUgdW5kZXIgdGhlIGdhbWUgamFtIHRpbWVmcmFtZS4gSSBtb2RlbGVkIHRoZXNlIHByb3BzIGFuZCB0ZXh0dXJlZCBhIGZldy4KSSByZWFsbHkgZW5qb3llZCBtYWtpbmcgdGhlc2UgcHJvcHMgZm9yIHNlcnZhbCByZWFzb25zLCBvbmUgYmVpbmcgdGhhdCBJIGhhdmUgbmV2ZXIgZ29uZSBmb3IgYSByZWFsaXN0aWMgc3R5bGUgYW5kIEkgZmVlbCBsaWtlIEkgbmFpbGVkIGl0ISB0aGUgcmVhbGlzdGljIGFydCBzdHlsZSB3YXMgYSBjaGFsbGVuZ2UgYXQgZmlyc3QgYnV0IGFmdGVyIHNvbWUgdGltZSBpIGJlY2FtZSBmYXN0ZXIgYW5kIHdhcyBhYmxlIHRvIGNyZWF0ZSB3aGF0IHlvdSBzZWUgdG9kYXkuCklmIHlvdSB3b3VsZCBsaWtlIHRvIGNoZWNrIG91dCB0aGUgZ2FtZSB0byBwbGF5IHlvdXJzZWxmIHlvdSBjYW4gZ28gdG8gaHR0cHM6Ly9jcmVhdHVyZW1vb24uaXRjaC5pby90aGVicmltc3RvbmU=",
+      "tags": "3d,model,assets,props,suitcase",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Suitcase6",
@@ -2731,13 +3473,22 @@
       ],
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9icmltc3RvbmUtcHJvcHMtYzhkYzFlYTI1ZmY3NGVhNGIzZWJjM2RjZDc1NDBlODk=",
       "repivot": true,
+<<<<<<< HEAD
       "id": "2fd4e049-a73b-45dd-a880-b2bb25939743",
+=======
+      "id": "f55afac6-a52b-4fb6-87b4-000861bfd86d",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "userName": "ITsMagic"
     },
     {
       "titleB64": "QSBTdWl0Y2FzZSBNb2RlbA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgc3VpdGNhc2UgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJCcmltc3RvbmUgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IEN0cmxMaWdodC4gSXQgZml0cyBpbnRlcmlvciBwcm9wcywgcm9vbSBkcmVzc2luZyBhbmQgZW52aXJvbm1lbnRhbCBzdG9yeXRlbGxpbmcgc2NlbmVzIGluc3BpcmVkIGJ5IHRoZSBvcmlnaW5hbCBCcmltc3RvbmUgcHJvamVjdC4=",
       "tags": "suitcase,luggage,travel,interior,realistic,game_ready,variant",
+=======
+      "descriptionB64": "SGVsbG8sIHNvIGdsYWQgeW91IGFyZSBoZXJlISBUaGVzZSBhcmUgc29tZSBwcm9wcyBJIG1hZGUgZm9yIGEgY2Fwc3RvbmUgY2xhc3MgdGhhdCByZXF1aXJlcyB0aGUgc3R1ZGVudHMgdG8gbWFrZSBhIGdhbWUgdW5kZXIgdGhlIGdhbWUgamFtIHRpbWVmcmFtZS4gSSBtb2RlbGVkIHRoZXNlIHByb3BzIGFuZCB0ZXh0dXJlZCBhIGZldy4KSSByZWFsbHkgZW5qb3llZCBtYWtpbmcgdGhlc2UgcHJvcHMgZm9yIHNlcnZhbCByZWFzb25zLCBvbmUgYmVpbmcgdGhhdCBJIGhhdmUgbmV2ZXIgZ29uZSBmb3IgYSByZWFsaXN0aWMgc3R5bGUgYW5kIEkgZmVlbCBsaWtlIEkgbmFpbGVkIGl0ISB0aGUgcmVhbGlzdGljIGFydCBzdHlsZSB3YXMgYSBjaGFsbGVuZ2UgYXQgZmlyc3QgYnV0IGFmdGVyIHNvbWUgdGltZSBpIGJlY2FtZSBmYXN0ZXIgYW5kIHdhcyBhYmxlIHRvIGNyZWF0ZSB3aGF0IHlvdSBzZWUgdG9kYXkuCklmIHlvdSB3b3VsZCBsaWtlIHRvIGNoZWNrIG91dCB0aGUgZ2FtZSB0byBwbGF5IHlvdXJzZWxmIHlvdSBjYW4gZ28gdG8gaHR0cHM6Ly9jcmVhdHVyZW1vb24uaXRjaC5pby90aGVicmltc3RvbmU=",
+      "tags": "3d,model,assets,props,suitcase",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Suitcase7",
@@ -2749,13 +3500,22 @@
       ],
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9icmltc3RvbmUtcHJvcHMtYzhkYzFlYTI1ZmY3NGVhNGIzZWJjM2RjZDc1NDBlODk=",
       "repivot": true,
+<<<<<<< HEAD
       "id": "4e78b434-fb5d-4c72-86f0-23e7c153b2e9",
+=======
+      "id": "015f2ff4-4d32-4d22-8dbc-8480d25aba12",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "userName": "ITsMagic"
     },
     {
       "titleB64": "QSBTdWl0Y2FzZSBNb2RlbA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgc3VpdGNhc2UgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJCcmltc3RvbmUgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IEN0cmxMaWdodC4gSXQgZml0cyBpbnRlcmlvciBwcm9wcywgcm9vbSBkcmVzc2luZyBhbmQgZW52aXJvbm1lbnRhbCBzdG9yeXRlbGxpbmcgc2NlbmVzIGluc3BpcmVkIGJ5IHRoZSBvcmlnaW5hbCBCcmltc3RvbmUgcHJvamVjdC4=",
       "tags": "suitcase,luggage,travel,interior,realistic,game_ready,variant",
+=======
+      "descriptionB64": "SGVsbG8sIHNvIGdsYWQgeW91IGFyZSBoZXJlISBUaGVzZSBhcmUgc29tZSBwcm9wcyBJIG1hZGUgZm9yIGEgY2Fwc3RvbmUgY2xhc3MgdGhhdCByZXF1aXJlcyB0aGUgc3R1ZGVudHMgdG8gbWFrZSBhIGdhbWUgdW5kZXIgdGhlIGdhbWUgamFtIHRpbWVmcmFtZS4gSSBtb2RlbGVkIHRoZXNlIHByb3BzIGFuZCB0ZXh0dXJlZCBhIGZldy4KSSByZWFsbHkgZW5qb3llZCBtYWtpbmcgdGhlc2UgcHJvcHMgZm9yIHNlcnZhbCByZWFzb25zLCBvbmUgYmVpbmcgdGhhdCBJIGhhdmUgbmV2ZXIgZ29uZSBmb3IgYSByZWFsaXN0aWMgc3R5bGUgYW5kIEkgZmVlbCBsaWtlIEkgbmFpbGVkIGl0ISB0aGUgcmVhbGlzdGljIGFydCBzdHlsZSB3YXMgYSBjaGFsbGVuZ2UgYXQgZmlyc3QgYnV0IGFmdGVyIHNvbWUgdGltZSBpIGJlY2FtZSBmYXN0ZXIgYW5kIHdhcyBhYmxlIHRvIGNyZWF0ZSB3aGF0IHlvdSBzZWUgdG9kYXkuCklmIHlvdSB3b3VsZCBsaWtlIHRvIGNoZWNrIG91dCB0aGUgZ2FtZSB0byBwbGF5IHlvdXJzZWxmIHlvdSBjYW4gZ28gdG8gaHR0cHM6Ly9jcmVhdHVyZW1vb24uaXRjaC5pby90aGVicmltc3RvbmU=",
+      "tags": "3d,model,assets,props,suitcase",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Suitcase8",
@@ -2767,13 +3527,22 @@
       ],
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9icmltc3RvbmUtcHJvcHMtYzhkYzFlYTI1ZmY3NGVhNGIzZWJjM2RjZDc1NDBlODk=",
       "repivot": true,
+<<<<<<< HEAD
       "id": "9195dfc3-7db4-4a17-a398-43aa4a1dc4cb",
+=======
+      "id": "7a119b3e-28e1-4f97-84ad-55296bcc9709",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "userName": "ITsMagic"
     },
     {
       "titleB64": "QSBTdWl0Y2FzZSBNb2RlbA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgc3VpdGNhc2UgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJCcmltc3RvbmUgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IEN0cmxMaWdodC4gSXQgZml0cyBpbnRlcmlvciBwcm9wcywgcm9vbSBkcmVzc2luZyBhbmQgZW52aXJvbm1lbnRhbCBzdG9yeXRlbGxpbmcgc2NlbmVzIGluc3BpcmVkIGJ5IHRoZSBvcmlnaW5hbCBCcmltc3RvbmUgcHJvamVjdC4=",
       "tags": "suitcase,luggage,travel,interior,realistic,game_ready,variant",
+=======
+      "descriptionB64": "SGVsbG8sIHNvIGdsYWQgeW91IGFyZSBoZXJlISBUaGVzZSBhcmUgc29tZSBwcm9wcyBJIG1hZGUgZm9yIGEgY2Fwc3RvbmUgY2xhc3MgdGhhdCByZXF1aXJlcyB0aGUgc3R1ZGVudHMgdG8gbWFrZSBhIGdhbWUgdW5kZXIgdGhlIGdhbWUgamFtIHRpbWVmcmFtZS4gSSBtb2RlbGVkIHRoZXNlIHByb3BzIGFuZCB0ZXh0dXJlZCBhIGZldy4KSSByZWFsbHkgZW5qb3llZCBtYWtpbmcgdGhlc2UgcHJvcHMgZm9yIHNlcnZhbCByZWFzb25zLCBvbmUgYmVpbmcgdGhhdCBJIGhhdmUgbmV2ZXIgZ29uZSBmb3IgYSByZWFsaXN0aWMgc3R5bGUgYW5kIEkgZmVlbCBsaWtlIEkgbmFpbGVkIGl0ISB0aGUgcmVhbGlzdGljIGFydCBzdHlsZSB3YXMgYSBjaGFsbGVuZ2UgYXQgZmlyc3QgYnV0IGFmdGVyIHNvbWUgdGltZSBpIGJlY2FtZSBmYXN0ZXIgYW5kIHdhcyBhYmxlIHRvIGNyZWF0ZSB3aGF0IHlvdSBzZWUgdG9kYXkuCklmIHlvdSB3b3VsZCBsaWtlIHRvIGNoZWNrIG91dCB0aGUgZ2FtZSB0byBwbGF5IHlvdXJzZWxmIHlvdSBjYW4gZ28gdG8gaHR0cHM6Ly9jcmVhdHVyZW1vb24uaXRjaC5pby90aGVicmltc3RvbmU=",
+      "tags": "3d,model,assets,props,suitcase",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Suitcase9",
@@ -2785,13 +3554,22 @@
       ],
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9icmltc3RvbmUtcHJvcHMtYzhkYzFlYTI1ZmY3NGVhNGIzZWJjM2RjZDc1NDBlODk=",
       "repivot": true,
+<<<<<<< HEAD
       "id": "8703e841-f030-4038-aa95-09096c36e83f",
+=======
+      "id": "805d2f12-6407-45be-96b9-75bfa1116a8c",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "userName": "ITsMagic"
     },
     {
       "titleB64": "QSBUYWJsZSBNb2RlbA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSB0YWJsZSBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkJyaW1zdG9uZSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgQ3RybExpZ2h0LiBJdCBmaXRzIGludGVyaW9yIHByb3BzLCByb29tIGRyZXNzaW5nIGFuZCBlbnZpcm9ubWVudGFsIHN0b3J5dGVsbGluZyBzY2VuZXMgaW5zcGlyZWQgYnkgdGhlIG9yaWdpbmFsIEJyaW1zdG9uZSBwcm9qZWN0Lg==",
       "tags": "table,furniture,interior,surface,realistic,game_ready",
+=======
+      "descriptionB64": "SGVsbG8sIHNvIGdsYWQgeW91IGFyZSBoZXJlISBUaGVzZSBhcmUgc29tZSBwcm9wcyBJIG1hZGUgZm9yIGEgY2Fwc3RvbmUgY2xhc3MgdGhhdCByZXF1aXJlcyB0aGUgc3R1ZGVudHMgdG8gbWFrZSBhIGdhbWUgdW5kZXIgdGhlIGdhbWUgamFtIHRpbWVmcmFtZS4gSSBtb2RlbGVkIHRoZXNlIHByb3BzIGFuZCB0ZXh0dXJlZCBhIGZldy4KSSByZWFsbHkgZW5qb3llZCBtYWtpbmcgdGhlc2UgcHJvcHMgZm9yIHNlcnZhbCByZWFzb25zLCBvbmUgYmVpbmcgdGhhdCBJIGhhdmUgbmV2ZXIgZ29uZSBmb3IgYSByZWFsaXN0aWMgc3R5bGUgYW5kIEkgZmVlbCBsaWtlIEkgbmFpbGVkIGl0ISB0aGUgcmVhbGlzdGljIGFydCBzdHlsZSB3YXMgYSBjaGFsbGVuZ2UgYXQgZmlyc3QgYnV0IGFmdGVyIHNvbWUgdGltZSBpIGJlY2FtZSBmYXN0ZXIgYW5kIHdhcyBhYmxlIHRvIGNyZWF0ZSB3aGF0IHlvdSBzZWUgdG9kYXkuCklmIHlvdSB3b3VsZCBsaWtlIHRvIGNoZWNrIG91dCB0aGUgZ2FtZSB0byBwbGF5IHlvdXJzZWxmIHlvdSBjYW4gZ28gdG8gaHR0cHM6Ly9jcmVhdHVyZW1vb24uaXRjaC5pby90aGVicmltc3RvbmU=",
+      "tags": "3d,model,assets,props,table",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Table",
@@ -2808,8 +3586,13 @@
     },
     {
       "titleB64": "QSBUYWJsZSBNb2RlbA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgdGFibGUgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJCcmltc3RvbmUgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IEN0cmxMaWdodC4gSXQgZml0cyBpbnRlcmlvciBwcm9wcywgcm9vbSBkcmVzc2luZyBhbmQgZW52aXJvbm1lbnRhbCBzdG9yeXRlbGxpbmcgc2NlbmVzIGluc3BpcmVkIGJ5IHRoZSBvcmlnaW5hbCBCcmltc3RvbmUgcHJvamVjdC4=",
       "tags": "table,furniture,interior,surface,realistic,game_ready,variant",
+=======
+      "descriptionB64": "SGVsbG8sIHNvIGdsYWQgeW91IGFyZSBoZXJlISBUaGVzZSBhcmUgc29tZSBwcm9wcyBJIG1hZGUgZm9yIGEgY2Fwc3RvbmUgY2xhc3MgdGhhdCByZXF1aXJlcyB0aGUgc3R1ZGVudHMgdG8gbWFrZSBhIGdhbWUgdW5kZXIgdGhlIGdhbWUgamFtIHRpbWVmcmFtZS4gSSBtb2RlbGVkIHRoZXNlIHByb3BzIGFuZCB0ZXh0dXJlZCBhIGZldy4KSSByZWFsbHkgZW5qb3llZCBtYWtpbmcgdGhlc2UgcHJvcHMgZm9yIHNlcnZhbCByZWFzb25zLCBvbmUgYmVpbmcgdGhhdCBJIGhhdmUgbmV2ZXIgZ29uZSBmb3IgYSByZWFsaXN0aWMgc3R5bGUgYW5kIEkgZmVlbCBsaWtlIEkgbmFpbGVkIGl0ISB0aGUgcmVhbGlzdGljIGFydCBzdHlsZSB3YXMgYSBjaGFsbGVuZ2UgYXQgZmlyc3QgYnV0IGFmdGVyIHNvbWUgdGltZSBpIGJlY2FtZSBmYXN0ZXIgYW5kIHdhcyBhYmxlIHRvIGNyZWF0ZSB3aGF0IHlvdSBzZWUgdG9kYXkuCklmIHlvdSB3b3VsZCBsaWtlIHRvIGNoZWNrIG91dCB0aGUgZ2FtZSB0byBwbGF5IHlvdXJzZWxmIHlvdSBjYW4gZ28gdG8gaHR0cHM6Ly9jcmVhdHVyZW1vb24uaXRjaC5pby90aGVicmltc3RvbmU=",
+      "tags": "3d,model,assets,props,table",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Table2",
@@ -2826,8 +3609,13 @@
     },
     {
       "titleB64": "QSBUYWJsZSBNb2RlbA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgdGFibGUgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJCcmltc3RvbmUgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IEN0cmxMaWdodC4gSXQgZml0cyBpbnRlcmlvciBwcm9wcywgcm9vbSBkcmVzc2luZyBhbmQgZW52aXJvbm1lbnRhbCBzdG9yeXRlbGxpbmcgc2NlbmVzIGluc3BpcmVkIGJ5IHRoZSBvcmlnaW5hbCBCcmltc3RvbmUgcHJvamVjdC4=",
       "tags": "table,furniture,interior,surface,realistic,game_ready,variant",
+=======
+      "descriptionB64": "SGVsbG8sIHNvIGdsYWQgeW91IGFyZSBoZXJlISBUaGVzZSBhcmUgc29tZSBwcm9wcyBJIG1hZGUgZm9yIGEgY2Fwc3RvbmUgY2xhc3MgdGhhdCByZXF1aXJlcyB0aGUgc3R1ZGVudHMgdG8gbWFrZSBhIGdhbWUgdW5kZXIgdGhlIGdhbWUgamFtIHRpbWVmcmFtZS4gSSBtb2RlbGVkIHRoZXNlIHByb3BzIGFuZCB0ZXh0dXJlZCBhIGZldy4KSSByZWFsbHkgZW5qb3llZCBtYWtpbmcgdGhlc2UgcHJvcHMgZm9yIHNlcnZhbCByZWFzb25zLCBvbmUgYmVpbmcgdGhhdCBJIGhhdmUgbmV2ZXIgZ29uZSBmb3IgYSByZWFsaXN0aWMgc3R5bGUgYW5kIEkgZmVlbCBsaWtlIEkgbmFpbGVkIGl0ISB0aGUgcmVhbGlzdGljIGFydCBzdHlsZSB3YXMgYSBjaGFsbGVuZ2UgYXQgZmlyc3QgYnV0IGFmdGVyIHNvbWUgdGltZSBpIGJlY2FtZSBmYXN0ZXIgYW5kIHdhcyBhYmxlIHRvIGNyZWF0ZSB3aGF0IHlvdSBzZWUgdG9kYXkuCklmIHlvdSB3b3VsZCBsaWtlIHRvIGNoZWNrIG91dCB0aGUgZ2FtZSB0byBwbGF5IHlvdXJzZWxmIHlvdSBjYW4gZ28gdG8gaHR0cHM6Ly9jcmVhdHVyZW1vb24uaXRjaC5pby90aGVicmltc3RvbmU=",
+      "tags": "3d,model,assets,props,table",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Table3",
@@ -2839,13 +3627,22 @@
       ],
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9icmltc3RvbmUtcHJvcHMtYzhkYzFlYTI1ZmY3NGVhNGIzZWJjM2RjZDc1NDBlODk=",
       "repivot": true,
+<<<<<<< HEAD
       "id": "8592125b-02f0-46e3-a7bf-bf4b02e68ba5",
+=======
+      "id": "2fcfc8f0-1c8c-4a0e-805b-ad04387f9f95",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "userName": "ITsMagic"
     },
     {
       "titleB64": "QSBUYWJsZUNoYW5kZWxpZXIgTW9kZWw=",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSB0YWJsZSBjYW5kZWxhYnJhIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiQnJpbXN0b25lIFByb3BzIiBTa2V0Y2hmYWIgcGFjayBieSBDdHJsTGlnaHQuIEl0IGZpdHMgaW50ZXJpb3IgcHJvcHMsIHJvb20gZHJlc3NpbmcgYW5kIGVudmlyb25tZW50YWwgc3Rvcnl0ZWxsaW5nIHNjZW5lcyBpbnNwaXJlZCBieSB0aGUgb3JpZ2luYWwgQnJpbXN0b25lIHByb2plY3Qu",
       "tags": "candelabra,lighting,decor,tabletop,realistic,game_ready",
+=======
+      "descriptionB64": "SGVsbG8sIHNvIGdsYWQgeW91IGFyZSBoZXJlISBUaGVzZSBhcmUgc29tZSBwcm9wcyBJIG1hZGUgZm9yIGEgY2Fwc3RvbmUgY2xhc3MgdGhhdCByZXF1aXJlcyB0aGUgc3R1ZGVudHMgdG8gbWFrZSBhIGdhbWUgdW5kZXIgdGhlIGdhbWUgamFtIHRpbWVmcmFtZS4gSSBtb2RlbGVkIHRoZXNlIHByb3BzIGFuZCB0ZXh0dXJlZCBhIGZldy4KSSByZWFsbHkgZW5qb3llZCBtYWtpbmcgdGhlc2UgcHJvcHMgZm9yIHNlcnZhbCByZWFzb25zLCBvbmUgYmVpbmcgdGhhdCBJIGhhdmUgbmV2ZXIgZ29uZSBmb3IgYSByZWFsaXN0aWMgc3R5bGUgYW5kIEkgZmVlbCBsaWtlIEkgbmFpbGVkIGl0ISB0aGUgcmVhbGlzdGljIGFydCBzdHlsZSB3YXMgYSBjaGFsbGVuZ2UgYXQgZmlyc3QgYnV0IGFmdGVyIHNvbWUgdGltZSBpIGJlY2FtZSBmYXN0ZXIgYW5kIHdhcyBhYmxlIHRvIGNyZWF0ZSB3aGF0IHlvdSBzZWUgdG9kYXkuCklmIHlvdSB3b3VsZCBsaWtlIHRvIGNoZWNrIG91dCB0aGUgZ2FtZSB0byBwbGF5IHlvdXJzZWxmIHlvdSBjYW4gZ28gdG8gaHR0cHM6Ly9jcmVhdHVyZW1vb24uaXRjaC5pby90aGVicmltc3RvbmU=",
+      "tags": "3d,model,assets,props,tablechandelier",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-TableChandelier",
@@ -2857,13 +3654,22 @@
       ],
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9icmltc3RvbmUtcHJvcHMtYzhkYzFlYTI1ZmY3NGVhNGIzZWJjM2RjZDc1NDBlODk=",
       "repivot": true,
+<<<<<<< HEAD
       "id": "59a671b8-46e8-4dc0-9cb3-718e6d6e31d0",
+=======
+      "id": "d2b24a18-7d87-4b67-8cc1-719d17ef8ad1",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "userName": "ITsMagic"
     },
     {
       "titleB64": "VGFibGVWYXJpYW50",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgdGFibGUgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJGdXJuaXR1cmUgUGFjayB8IExvdy1Qb2x5IHwgR2FtZS1SZWFkeSIgU2tldGNoZmFiIHBhY2sgYnkga0VhbS4gSXQgaXMgc3VpdGVkIGZvciByb29tIGRyZXNzaW5nLCBob21lIGludGVyaW9ycyBhbmQgc3R5bGl6ZWQgcmVhbC10aW1lIGVudmlyb25tZW50cyBmcm9tIHRoZSBvcmlnaW5hbCBsb3ctcG9seSBnYW1lLXJlYWR5IGZ1cm5pdHVyZSBjb2xsZWN0aW9uLg==",
       "tags": "table,furniture,interior,surface,low_poly,game_ready,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFRhYmxlVmFyaWFudA==",
+      "tags": "3d,model,assets,props,table,variant",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-TableVariant",
@@ -2880,8 +3686,13 @@
     },
     {
       "titleB64": "QSBUZWxlc2NvcGUgTW9kZWw=",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSB0ZWxlc2NvcGUgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJCcmltc3RvbmUgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IEN0cmxMaWdodC4gSXQgZml0cyBpbnRlcmlvciBwcm9wcywgcm9vbSBkcmVzc2luZyBhbmQgZW52aXJvbm1lbnRhbCBzdG9yeXRlbGxpbmcgc2NlbmVzIGluc3BpcmVkIGJ5IHRoZSBvcmlnaW5hbCBCcmltc3RvbmUgcHJvamVjdC4=",
       "tags": "telescope,instrument,decor,interior,realistic,game_ready",
+=======
+      "descriptionB64": "SGVsbG8sIHNvIGdsYWQgeW91IGFyZSBoZXJlISBUaGVzZSBhcmUgc29tZSBwcm9wcyBJIG1hZGUgZm9yIGEgY2Fwc3RvbmUgY2xhc3MgdGhhdCByZXF1aXJlcyB0aGUgc3R1ZGVudHMgdG8gbWFrZSBhIGdhbWUgdW5kZXIgdGhlIGdhbWUgamFtIHRpbWVmcmFtZS4gSSBtb2RlbGVkIHRoZXNlIHByb3BzIGFuZCB0ZXh0dXJlZCBhIGZldy4KSSByZWFsbHkgZW5qb3llZCBtYWtpbmcgdGhlc2UgcHJvcHMgZm9yIHNlcnZhbCByZWFzb25zLCBvbmUgYmVpbmcgdGhhdCBJIGhhdmUgbmV2ZXIgZ29uZSBmb3IgYSByZWFsaXN0aWMgc3R5bGUgYW5kIEkgZmVlbCBsaWtlIEkgbmFpbGVkIGl0ISB0aGUgcmVhbGlzdGljIGFydCBzdHlsZSB3YXMgYSBjaGFsbGVuZ2UgYXQgZmlyc3QgYnV0IGFmdGVyIHNvbWUgdGltZSBpIGJlY2FtZSBmYXN0ZXIgYW5kIHdhcyBhYmxlIHRvIGNyZWF0ZSB3aGF0IHlvdSBzZWUgdG9kYXkuCklmIHlvdSB3b3VsZCBsaWtlIHRvIGNoZWNrIG91dCB0aGUgZ2FtZSB0byBwbGF5IHlvdXJzZWxmIHlvdSBjYW4gZ28gdG8gaHR0cHM6Ly9jcmVhdHVyZW1vb24uaXRjaC5pby90aGVicmltc3RvbmU=",
+      "tags": "3d,model,assets,props,telescope",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Telescope",
@@ -2893,13 +3704,22 @@
       ],
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9icmltc3RvbmUtcHJvcHMtYzhkYzFlYTI1ZmY3NGVhNGIzZWJjM2RjZDc1NDBlODk=",
       "repivot": true,
+<<<<<<< HEAD
       "id": "9115c73f-ada3-4b05-9914-adb2dffa7cf9",
+=======
+      "id": "68d28fc6-e931-4c24-a988-b9c98be0aeff",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "userName": "ITsMagic"
     },
     {
       "titleB64": "VGVudA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSB0ZW50IGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiTWVkaWV2YWwgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IERhbmllbCBWaWNlbnRlLiBJdCBmaXRzIG1vZHVsYXIgbWVkaWV2YWwgY2l0eSBzY2VuZXMsIHZpbGxhZ2UgZW52aXJvbm1lbnRzLCBjb3VydHlhcmRzIGFuZCBoaXN0b3JpY2FsIHNldCBkcmVzc2luZy4=",
       "tags": "tent,shelter,camp,medieval,game_ready",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFRlbnQ=",
+      "tags": "3d,model,assets,props,tent",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Tent",
@@ -2938,8 +3758,13 @@
     },
     {
       "titleB64": "VG9pbGV0",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSB0b2lsZXQgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJGYWN0b3J5IFByb3BzIiBTa2V0Y2hmYWIgcGFjayBieSBUaG9tYXNfQ3JvemVsb24uIEl0IGlzIHN1aXRlZCBmb3IgaW5kdXN0cmlhbCBzY2VuZXMsIHNlcnZpY2UgYXJlYXMsIHV0aWxpdHkgc3BhY2VzIGFuZCBlbnZpcm9ubWVudCBkcmVzc2luZyBpbiByZWFsLXRpbWUgcHJvamVjdHMsIHVzaW5nIHRoZSBvcmlnaW5hbCBwYWNrJ3MgNEsgbWFwcy4=",
       "tags": "toilet,bathroom,plumbing,interior,game_ready,unity",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFRvaWxldA==",
+      "tags": "3d,model,assets,props,toilet",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Toilet",
@@ -2956,8 +3781,13 @@
     },
     {
       "titleB64": "VHJhZmZpY0JlYWNvbg==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSB0cmFmZmljIGJvbGxhcmQgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJGYWN0b3J5IFByb3BzIiBTa2V0Y2hmYWIgcGFjayBieSBUaG9tYXNfQ3JvemVsb24uIEl0IGlzIHN1aXRlZCBmb3IgaW5kdXN0cmlhbCBzY2VuZXMsIHNlcnZpY2UgYXJlYXMsIHV0aWxpdHkgc3BhY2VzIGFuZCBlbnZpcm9ubWVudCBkcmVzc2luZyBpbiByZWFsLXRpbWUgcHJvamVjdHMsIHVzaW5nIHRoZSBvcmlnaW5hbCBwYWNrJ3MgNEsgbWFwcy4=",
       "tags": "traffic_bollard,roadwork,safety,street_prop,game_ready,unity",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFRyYWZmaWNCZWFjb24=",
+      "tags": "3d,model,assets,props,traffic,beacon",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-TrafficBeacon",
@@ -2974,8 +3804,13 @@
     },
     {
       "titleB64": "VHJhZmZpY0NvbmVWYXJpYW50",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgdHJhZmZpYyBjb25lIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRmFjdG9yeSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgVGhvbWFzX0Nyb3plbG9uLiBJdCBpcyBzdWl0ZWQgZm9yIGluZHVzdHJpYWwgc2NlbmVzLCBzZXJ2aWNlIGFyZWFzLCB1dGlsaXR5IHNwYWNlcyBhbmQgZW52aXJvbm1lbnQgZHJlc3NpbmcgaW4gcmVhbC10aW1lIHByb2plY3RzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIDRLIG1hcHMu",
       "tags": "traffic_cone,roadwork,safety,street_prop,game_ready,unity,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFRyYWZmaWNDb25lVmFyaWFudA==",
+      "tags": "3d,model,assets,props,traffic,cone,variant",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-TrafficConeVariant",
@@ -2992,8 +3827,13 @@
     },
     {
       "titleB64": "VHJhZmZpY1NpZ24=",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSB0cmFmZmljIHNpZ24gYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJTdHJlZXQgQXNzZXQgUGFjayIgU2tldGNoZmFiIHBhY2sgYnkgdm1hdHRoZXcuIEl0IGZpdHMgc2lkZXdhbGtzLCByb2Fkd29yaywgYWxsZXlzIGFuZCB1cmJhbiBlbnZpcm9ubWVudCBkcmVzc2luZywgYmFzZWQgb24gYXNzZXRzIGNyZWF0ZWQgaW4gQmxlbmRlciBhbmQgU3Vic3RhbmNlIDNEIFBhaW50ZXIu",
       "tags": "traffic_sign,signage,roadwork,safety,street,urban",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFRyYWZmaWNTaWdu",
+      "tags": "3d,model,assets,props,traffic,sign",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-TrafficSign",
@@ -3010,8 +3850,13 @@
     },
     {
       "titleB64": "VHJhZmZpY1NpZ24y",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgdHJhZmZpYyBzaWduIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiU3RyZWV0IEFzc2V0IFBhY2siIFNrZXRjaGZhYiBwYWNrIGJ5IHZtYXR0aGV3LiBJdCBmaXRzIHNpZGV3YWxrcywgcm9hZHdvcmssIGFsbGV5cyBhbmQgdXJiYW4gZW52aXJvbm1lbnQgZHJlc3NpbmcsIGJhc2VkIG9uIGFzc2V0cyBjcmVhdGVkIGluIEJsZW5kZXIgYW5kIFN1YnN0YW5jZSAzRCBQYWludGVyLg==",
       "tags": "traffic_sign,signage,roadwork,safety,street,urban,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFRyYWZmaWNTaWduMg==",
+      "tags": "3d,model,assets,props,traffic,sign",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-TrafficSign2",
@@ -3028,8 +3873,13 @@
     },
     {
       "titleB64": "VHJhZmZpY1NpZ25WYXJpYW50",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgdHJhZmZpYyBzaWduIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRmFjdG9yeSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgVGhvbWFzX0Nyb3plbG9uLiBJdCBpcyBzdWl0ZWQgZm9yIGluZHVzdHJpYWwgc2NlbmVzLCBzZXJ2aWNlIGFyZWFzLCB1dGlsaXR5IHNwYWNlcyBhbmQgZW52aXJvbm1lbnQgZHJlc3NpbmcgaW4gcmVhbC10aW1lIHByb2plY3RzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIDRLIG1hcHMu",
       "tags": "traffic_sign,signage,roadwork,safety,game_ready,unity,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFRyYWZmaWNTaWduVmFyaWFudA==",
+      "tags": "3d,model,assets,props,traffic,sign,variant",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-TrafficSign2Variant",
@@ -3046,8 +3896,13 @@
     },
     {
       "titleB64": "VHJhZmZpY1NpZ24z",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgdHJhZmZpYyBzaWduIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiU3RyZWV0IEFzc2V0IFBhY2siIFNrZXRjaGZhYiBwYWNrIGJ5IHZtYXR0aGV3LiBJdCBmaXRzIHNpZGV3YWxrcywgcm9hZHdvcmssIGFsbGV5cyBhbmQgdXJiYW4gZW52aXJvbm1lbnQgZHJlc3NpbmcsIGJhc2VkIG9uIGFzc2V0cyBjcmVhdGVkIGluIEJsZW5kZXIgYW5kIFN1YnN0YW5jZSAzRCBQYWludGVyLg==",
       "tags": "traffic_sign,signage,roadwork,safety,street,urban,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFRyYWZmaWNTaWduMw==",
+      "tags": "3d,model,assets,props,traffic,sign",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-TrafficSign3",
@@ -3064,8 +3919,13 @@
     },
     {
       "titleB64": "VHJhZmZpY1NpZ25WYXJpYW50",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgdHJhZmZpYyBzaWduIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRmFjdG9yeSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgVGhvbWFzX0Nyb3plbG9uLiBJdCBpcyBzdWl0ZWQgZm9yIGluZHVzdHJpYWwgc2NlbmVzLCBzZXJ2aWNlIGFyZWFzLCB1dGlsaXR5IHNwYWNlcyBhbmQgZW52aXJvbm1lbnQgZHJlc3NpbmcgaW4gcmVhbC10aW1lIHByb2plY3RzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIDRLIG1hcHMu",
       "tags": "traffic_sign,signage,roadwork,safety,game_ready,unity,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFRyYWZmaWNTaWduVmFyaWFudA==",
+      "tags": "3d,model,assets,props,traffic,sign,variant",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-TrafficSign3Variant",
@@ -3082,8 +3942,13 @@
     },
     {
       "titleB64": "VHJhZmZpY1NpZ240",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgdHJhZmZpYyBzaWduIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiU3RyZWV0IEFzc2V0IFBhY2siIFNrZXRjaGZhYiBwYWNrIGJ5IHZtYXR0aGV3LiBJdCBmaXRzIHNpZGV3YWxrcywgcm9hZHdvcmssIGFsbGV5cyBhbmQgdXJiYW4gZW52aXJvbm1lbnQgZHJlc3NpbmcsIGJhc2VkIG9uIGFzc2V0cyBjcmVhdGVkIGluIEJsZW5kZXIgYW5kIFN1YnN0YW5jZSAzRCBQYWludGVyLg==",
       "tags": "traffic_sign,signage,roadwork,safety,street,urban,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFRyYWZmaWNTaWduNA==",
+      "tags": "3d,model,assets,props,traffic,sign",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-TrafficSign4",
@@ -3100,8 +3965,13 @@
     },
     {
       "titleB64": "VHJhZmZpY1NpZ25WYXJpYW50",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgdHJhZmZpYyBzaWduIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRmFjdG9yeSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgVGhvbWFzX0Nyb3plbG9uLiBJdCBpcyBzdWl0ZWQgZm9yIGluZHVzdHJpYWwgc2NlbmVzLCBzZXJ2aWNlIGFyZWFzLCB1dGlsaXR5IHNwYWNlcyBhbmQgZW52aXJvbm1lbnQgZHJlc3NpbmcgaW4gcmVhbC10aW1lIHByb2plY3RzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIDRLIG1hcHMu",
       "tags": "traffic_sign,signage,roadwork,safety,game_ready,unity,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFRyYWZmaWNTaWduVmFyaWFudA==",
+      "tags": "3d,model,assets,props,traffic,sign,variant",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-TrafficSign4Variant",
@@ -3118,8 +3988,13 @@
     },
     {
       "titleB64": "VHJhZmZpY1NpZ25WYXJpYW50",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgdHJhZmZpYyBzaWduIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRmFjdG9yeSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgVGhvbWFzX0Nyb3plbG9uLiBJdCBpcyBzdWl0ZWQgZm9yIGluZHVzdHJpYWwgc2NlbmVzLCBzZXJ2aWNlIGFyZWFzLCB1dGlsaXR5IHNwYWNlcyBhbmQgZW52aXJvbm1lbnQgZHJlc3NpbmcgaW4gcmVhbC10aW1lIHByb2plY3RzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIDRLIG1hcHMu",
       "tags": "traffic_sign,signage,roadwork,safety,game_ready,unity,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFRyYWZmaWNTaWduVmFyaWFudA==",
+      "tags": "3d,model,assets,props,traffic,sign,variant",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-TrafficSignVariant",
@@ -3136,8 +4011,13 @@
     },
     {
       "titleB64": "VHJlZQ==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSB0cmVlIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiTWVkaWV2YWwgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IERhbmllbCBWaWNlbnRlLiBJdCBmaXRzIG1vZHVsYXIgbWVkaWV2YWwgY2l0eSBzY2VuZXMsIHZpbGxhZ2UgZW52aXJvbm1lbnRzLCBjb3VydHlhcmRzIGFuZCBoaXN0b3JpY2FsIHNldCBkcmVzc2luZy4=",
       "tags": "tree,vegetation,nature,medieval,game_ready",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFRyZWU=",
+      "tags": "3d,model,assets,props,tree,nature,vegetation,forest",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Tree",
@@ -3173,8 +4053,13 @@
     },
     {
       "titleB64": "VmFzZQ==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSB2YXNlIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiTWVkaWV2YWwgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IERhbmllbCBWaWNlbnRlLiBJdCBmaXRzIG1vZHVsYXIgbWVkaWV2YWwgY2l0eSBzY2VuZXMsIHZpbGxhZ2UgZW52aXJvbm1lbnRzLCBjb3VydHlhcmRzIGFuZCBoaXN0b3JpY2FsIHNldCBkcmVzc2luZy4=",
       "tags": "vase,decor,interior,tabletop,medieval,game_ready",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFZhc2U=",
+      "tags": "3d,model,assets,props,vase",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Vase",
@@ -3191,8 +4076,13 @@
     },
     {
       "titleB64": "VmVudGlsYXRpb25Hcmlk",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSB2ZW50aWxhdGlvbiBncmlkIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRmFjdG9yeSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgVGhvbWFzX0Nyb3plbG9uLiBJdCBpcyBzdWl0ZWQgZm9yIGluZHVzdHJpYWwgc2NlbmVzLCBzZXJ2aWNlIGFyZWFzLCB1dGlsaXR5IHNwYWNlcyBhbmQgZW52aXJvbm1lbnQgZHJlc3NpbmcgaW4gcmVhbC10aW1lIHByb2plY3RzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIDRLIG1hcHMu",
       "tags": "ventilation_grid,utility,interior,architecture,game_ready,unity",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFZlbnRpbGF0aW9uR3JpZA==",
+      "tags": "3d,model,assets,props,ventilation,grid",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-VentilationGrid",
@@ -3209,8 +4099,13 @@
     },
     {
       "titleB64": "VmVudGlsYXRpb25Hcmlk",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgdmVudGlsYXRpb24gZ3JpZCBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkZhY3RvcnkgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IFRob21hc19Dcm96ZWxvbi4gSXQgaXMgc3VpdGVkIGZvciBpbmR1c3RyaWFsIHNjZW5lcywgc2VydmljZSBhcmVhcywgdXRpbGl0eSBzcGFjZXMgYW5kIGVudmlyb25tZW50IGRyZXNzaW5nIGluIHJlYWwtdGltZSBwcm9qZWN0cywgdXNpbmcgdGhlIG9yaWdpbmFsIHBhY2sncyA0SyBtYXBzLg==",
       "tags": "ventilation_grid,utility,interior,architecture,game_ready,unity,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFZlbnRpbGF0aW9uR3JpZA==",
+      "tags": "3d,model,assets,props,ventilation,grid",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-VentilationGrid2",
@@ -3227,8 +4122,13 @@
     },
     {
       "titleB64": "V2FyZG9icmU=",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSB3YXJkcm9iZSBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkZ1cm5pdHVyZSBQYWNrIHwgTG93LVBvbHkgfCBHYW1lLVJlYWR5IiBTa2V0Y2hmYWIgcGFjayBieSBrRWFtLiBJdCBpcyBzdWl0ZWQgZm9yIHJvb20gZHJlc3NpbmcsIGhvbWUgaW50ZXJpb3JzIGFuZCBzdHlsaXplZCByZWFsLXRpbWUgZW52aXJvbm1lbnRzIGZyb20gdGhlIG9yaWdpbmFsIGxvdy1wb2x5IGdhbWUtcmVhZHkgZnVybml0dXJlIGNvbGxlY3Rpb24u",
       "tags": "wardrobe,furniture,storage,interior,low_poly,game_ready",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFdhcmRvYnJl",
+      "tags": "3d,model,assets,props,wardobre",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-Wardobre",
@@ -3245,8 +4145,13 @@
     },
     {
       "titleB64": "V2F0ZXJTb3VyY2U=",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBzdG9uZSBmb3VudGFpbiBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIk1lZGlldmFsIFByb3BzIiBTa2V0Y2hmYWIgcGFjayBieSBEYW5pZWwgVmljZW50ZS4gSXQgZml0cyBtb2R1bGFyIG1lZGlldmFsIGNpdHkgc2NlbmVzLCB2aWxsYWdlIGVudmlyb25tZW50cywgY291cnR5YXJkcyBhbmQgaGlzdG9yaWNhbCBzZXQgZHJlc3Npbmcu",
       "tags": "fountain,water_feature,medieval,environment,game_ready",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFdhdGVyU291cmNl",
+      "tags": "3d,model,assets,props,water,source",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-WaterSource",
@@ -3263,8 +4168,13 @@
     },
     {
       "titleB64": "QSBXZXRGbG9vckJvYXJkIE1vZGVs",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSB3YXJuaW5nIHNpZ24gYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJCcmltc3RvbmUgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IEN0cmxMaWdodC4gSXQgZml0cyBpbnRlcmlvciBwcm9wcywgcm9vbSBkcmVzc2luZyBhbmQgZW52aXJvbm1lbnRhbCBzdG9yeXRlbGxpbmcgc2NlbmVzIGluc3BpcmVkIGJ5IHRoZSBvcmlnaW5hbCBCcmltc3RvbmUgcHJvamVjdC4=",
       "tags": "warning_sign,safety,signage,interior,realistic,game_ready",
+=======
+      "descriptionB64": "SGVsbG8sIHNvIGdsYWQgeW91IGFyZSBoZXJlISBUaGVzZSBhcmUgc29tZSBwcm9wcyBJIG1hZGUgZm9yIGEgY2Fwc3RvbmUgY2xhc3MgdGhhdCByZXF1aXJlcyB0aGUgc3R1ZGVudHMgdG8gbWFrZSBhIGdhbWUgdW5kZXIgdGhlIGdhbWUgamFtIHRpbWVmcmFtZS4gSSBtb2RlbGVkIHRoZXNlIHByb3BzIGFuZCB0ZXh0dXJlZCBhIGZldy4KSSByZWFsbHkgZW5qb3llZCBtYWtpbmcgdGhlc2UgcHJvcHMgZm9yIHNlcnZhbCByZWFzb25zLCBvbmUgYmVpbmcgdGhhdCBJIGhhdmUgbmV2ZXIgZ29uZSBmb3IgYSByZWFsaXN0aWMgc3R5bGUgYW5kIEkgZmVlbCBsaWtlIEkgbmFpbGVkIGl0ISB0aGUgcmVhbGlzdGljIGFydCBzdHlsZSB3YXMgYSBjaGFsbGVuZ2UgYXQgZmlyc3QgYnV0IGFmdGVyIHNvbWUgdGltZSBpIGJlY2FtZSBmYXN0ZXIgYW5kIHdhcyBhYmxlIHRvIGNyZWF0ZSB3aGF0IHlvdSBzZWUgdG9kYXkuCklmIHlvdSB3b3VsZCBsaWtlIHRvIGNoZWNrIG91dCB0aGUgZ2FtZSB0byBwbGF5IHlvdXJzZWxmIHlvdSBjYW4gZ28gdG8gaHR0cHM6Ly9jcmVhdHVyZW1vb24uaXRjaC5pby90aGVicmltc3RvbmU=",
+      "tags": "3d,model,assets,props,wetfloorboard",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-WetFloorBoard",
@@ -3276,13 +4186,22 @@
       ],
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9icmltc3RvbmUtcHJvcHMtYzhkYzFlYTI1ZmY3NGVhNGIzZWJjM2RjZDc1NDBlODk=",
       "repivot": true,
+<<<<<<< HEAD
       "id": "b518d9df-5446-4037-9f73-d65fdc3c3a6b",
+=======
+      "id": "b0dd2a82-5105-4096-acd2-09b6784d1ff4",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "userName": "ITsMagic"
     },
     {
       "titleB64": "V2hlZWxCYXJyb3c=",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSB3aGVlbGJhcnJvdyBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkZhY3RvcnkgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IFRob21hc19Dcm96ZWxvbi4gSXQgaXMgc3VpdGVkIGZvciBpbmR1c3RyaWFsIHNjZW5lcywgc2VydmljZSBhcmVhcywgdXRpbGl0eSBzcGFjZXMgYW5kIGVudmlyb25tZW50IGRyZXNzaW5nIGluIHJlYWwtdGltZSBwcm9qZWN0cywgdXNpbmcgdGhlIG9yaWdpbmFsIHBhY2sncyA0SyBtYXBzLg==",
       "tags": "wheelbarrow,transport,utility,garden,game_ready,unity",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFdoZWVsQmFycm93",
+      "tags": "3d,model,assets,props,wheel,barrow",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-WheelBarrow",
@@ -3299,8 +4218,13 @@
     },
     {
       "titleB64": "V29vZGVuQm9hcmQ=",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSB3b29kZW4gYm9hcmQgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJGYWN0b3J5IFByb3BzIiBTa2V0Y2hmYWIgcGFjayBieSBUaG9tYXNfQ3JvemVsb24uIEl0IGlzIHN1aXRlZCBmb3IgaW5kdXN0cmlhbCBzY2VuZXMsIHNlcnZpY2UgYXJlYXMsIHV0aWxpdHkgc3BhY2VzIGFuZCBlbnZpcm9ubWVudCBkcmVzc2luZyBpbiByZWFsLXRpbWUgcHJvamVjdHMsIHVzaW5nIHRoZSBvcmlnaW5hbCBwYWNrJ3MgNEsgbWFwcy4=",
       "tags": "wooden_board,material,construction,wood,game_ready,unity",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFdvb2RlbkJvYXJk",
+      "tags": "3d,model,assets,props,wooden,board",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-WoodenBoard",
@@ -3317,8 +4241,13 @@
     },
     {
       "titleB64": "V29vZGVuQm9hcmQ=",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgd29vZGVuIGJvYXJkIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRmFjdG9yeSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgVGhvbWFzX0Nyb3plbG9uLiBJdCBpcyBzdWl0ZWQgZm9yIGluZHVzdHJpYWwgc2NlbmVzLCBzZXJ2aWNlIGFyZWFzLCB1dGlsaXR5IHNwYWNlcyBhbmQgZW52aXJvbm1lbnQgZHJlc3NpbmcgaW4gcmVhbC10aW1lIHByb2plY3RzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIDRLIG1hcHMu",
       "tags": "wooden_board,material,construction,wood,game_ready,unity,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFdvb2RlbkJvYXJk",
+      "tags": "3d,model,assets,props,wooden,board",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-WoodenBoard2",
@@ -3335,8 +4264,13 @@
     },
     {
       "titleB64": "V29vZGVuQm94",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSB3b29kZW4gYm94IGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRmFjdG9yeSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgVGhvbWFzX0Nyb3plbG9uLiBJdCBpcyBzdWl0ZWQgZm9yIGluZHVzdHJpYWwgc2NlbmVzLCBzZXJ2aWNlIGFyZWFzLCB1dGlsaXR5IHNwYWNlcyBhbmQgZW52aXJvbm1lbnQgZHJlc3NpbmcgaW4gcmVhbC10aW1lIHByb2plY3RzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIDRLIG1hcHMu",
       "tags": "wooden_box,container,storage,wood,game_ready,unity",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFdvb2RlbkJveA==",
+      "tags": "3d,model,assets,props,wooden,box",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-WoodenBox",
@@ -3353,8 +4287,13 @@
     },
     {
       "titleB64": "V29vZGVuQ3JhdGU=",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSB3b29kZW4gY3JhdGUgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJGdXJuaXR1cmUgUGFjayB8IExvdy1Qb2x5IHwgR2FtZS1SZWFkeSIgU2tldGNoZmFiIHBhY2sgYnkga0VhbS4gSXQgaXMgc3VpdGVkIGZvciByb29tIGRyZXNzaW5nLCBob21lIGludGVyaW9ycyBhbmQgc3R5bGl6ZWQgcmVhbC10aW1lIGVudmlyb25tZW50cyBmcm9tIHRoZSBvcmlnaW5hbCBsb3ctcG9seSBnYW1lLXJlYWR5IGZ1cm5pdHVyZSBjb2xsZWN0aW9uLg==",
       "tags": "wooden_crate,container,storage,wood,low_poly,game_ready",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFdvb2RlbkNyYXRl",
+      "tags": "3d,model,assets,props,wooden,crate",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-WoodenCrate",
@@ -3371,8 +4310,13 @@
     },
     {
       "titleB64": "V29vZGVuUGFsbGV0",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSB3b29kZW4gcGFsbGV0IGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiQmFycmVsIFBhY2siIFNrZXRjaGZhYiBwYWNrIGJ5IHZtYXR0aGV3LiBJdCBmaXRzIHByb3AgZHJlc3NpbmcsIHN0b3JhZ2Ugc2NlbmVzIGFuZCByZWFsLXRpbWUgZW52aXJvbm1lbnQgY29tcG9zaXRpb24sIGJhc2VkIG9uIHRoZSBwYWNrJ3MgaW1wcm92ZWQgdGV4dHVyZXMgYW5kIGhpZ2hlci1wb2x5IHRyZWF0bWVudC4=",
       "tags": "wooden_pallet,storage,warehouse,wood,game_ready",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFdvb2RlblBhbGxldA==",
+      "tags": "3d,model,assets,props,wooden,pallet",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-WoodenPallet",
@@ -3389,8 +4333,13 @@
     },
     {
       "titleB64": "V29vZGVuUGFsbGV0VmFyaWFudA==",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgd29vZGVuIHBhbGxldCBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkZhY3RvcnkgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IFRob21hc19Dcm96ZWxvbi4gSXQgaXMgc3VpdGVkIGZvciBpbmR1c3RyaWFsIHNjZW5lcywgc2VydmljZSBhcmVhcywgdXRpbGl0eSBzcGFjZXMgYW5kIGVudmlyb25tZW50IGRyZXNzaW5nIGluIHJlYWwtdGltZSBwcm9qZWN0cywgdXNpbmcgdGhlIG9yaWdpbmFsIHBhY2sncyA0SyBtYXBzLg==",
       "tags": "wooden_pallet,storage,warehouse,wood,game_ready,unity,variant",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFdvb2RlblBhbGxldFZhcmlhbnQ=",
+      "tags": "3d,model,assets,props,wooden,pallet,variant",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-WoodenPalletVariant",
@@ -3407,8 +4356,13 @@
     },
     {
       "titleB64": "V29vZGVuVHVi",
+<<<<<<< HEAD
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSB3b29kZW4gdHViIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiTWVkaWV2YWwgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IERhbmllbCBWaWNlbnRlLiBJdCBmaXRzIG1vZHVsYXIgbWVkaWV2YWwgY2l0eSBzY2VuZXMsIHZpbGxhZ2UgZW52aXJvbm1lbnRzLCBjb3VydHlhcmRzIGFuZCBoaXN0b3JpY2FsIHNldCBkcmVzc2luZy4=",
       "tags": "wooden_tub,container,wood,utility,medieval,game_ready",
+=======
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFdvb2RlblR1Yg==",
+      "tags": "3d,model,assets,props,wooden,tub",
+>>>>>>> f05d425f986dd8b5d80171215f5116be818f7995
       "version": 1,
       "appMajorVersion": 2,
       "repositoryURL": "https://github.com/ITsMagic-Software/Package-WoodenTub",
