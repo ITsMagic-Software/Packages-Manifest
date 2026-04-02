@@ -1,16 +1,16 @@
-{
-    "titleB64": "T2xkQnVpbGRpbmc=",
-    "descriptionB64": "QXNzZXRzIHBhY2s6IE9sZEJ1aWxkaW5n",
-    "tags": "3d,model,assets,props,old,building",
-    "version": 1,
-    "appMajorVersion": 2,
-    "repositoryURL": "https://github.com/ITsMagic-Software/Package-OldBuilding",
-    "isTemplate": false,
-    "date": "12/03/2026",
-    "thumbnail": "thumb.jpg",
-    "images": [
-        "img1.jpg"
-    ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9vbGQtYnVpbGRpbmctcGFjay1sb3dwb2x5LTA4MWVjY2I5N2JlODQyOWM4M2IyZTlmYjQwNzcyN2U3",
-    "repivot": true
+﻿{
+    "titleB64":  "T2xkQnVpbGRpbmc=",
+    "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBvbGQgYnVpbGRpbmcgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJPbGQgQnVpbGRpbmcgUGFjayB8IExvd3BvbHkiIFNrZXRjaGZhYiBwYWNrIGJ5IEZyaWQuYmxlbmQuIEl0IGZpdHMgdXJiYW4gYmFja2Ryb3BzIGFuZCBhYmFuZG9uZWQgZGlzdHJpY3Qgc2NlbmVzLCBiYXNlZCBvbiB0aGUgb3JpZ2luYWwgRkJYIGFzc2V0IGFuZCBiYXNlY29sb3IgdGV4dHVyZSB3b3JrZmxvdy4=",
+    "tags":  "old-building,architecture,building,urban,low-poly,abandoned",
+    "version":  1,
+    "appMajorVersion":  2,
+    "repositoryURL":  "https://github.com/ITsMagic-Software/Package-OldBuilding",
+    "isTemplate":  false,
+    "date":  "12/03/2026",
+    "thumbnail":  "thumb.jpg",
+    "images":  [
+                   "img1.jpg"
+               ],
+    "licenseB64":  "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9vbGQtYnVpbGRpbmctcGFjay1sb3dwb2x5LTA4MWVjY2I5N2JlODQyOWM4M2IyZTlmYjQwNzcyN2U3",
+    "repivot":  true
 }

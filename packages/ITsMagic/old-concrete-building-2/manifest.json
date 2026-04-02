@@ -1,16 +1,16 @@
-{
-    "titleB64": "T2xkQ29uY3JldGVCdWlsZGluZw==",
-    "descriptionB64": "QXNzZXRzIHBhY2s6IE9sZENvbmNyZXRlQnVpbGRpbmc=",
-    "tags": "3d,model,assets,props,old,concrete,building",
-    "version": 1,
-    "appMajorVersion": 2,
-    "repositoryURL": "https://github.com/ITsMagic-Software/Package-OldConcreteBuilding2",
-    "isTemplate": false,
-    "date": "12/03/2026",
-    "thumbnail": "thumb.jpg",
-    "images": [
-        "img1.jpg"
-    ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9vbGQtY29uY2V0ZS1idWlsZGluZy1wYWNrLWxvd3BvbHktNmQwNzBmY2M4NmIwNDMwZGFkZjUzZGE2NzU0NWM2ZjM=",
-    "repivot": true
+﻿{
+    "titleB64":  "T2xkQ29uY3JldGVCdWlsZGluZw==",
+    "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgb2xkIGNvbmNyZXRlIGJ1aWxkaW5nIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiT2xkIENvbmNldGUgQnVpbGRpbmcgUGFjayB8IExvd3BvbHkiIFNrZXRjaGZhYiBwYWNrIGJ5IEZyaWQuYmxlbmQuIEl0IGZpdHMgYWJhbmRvbmVkIHVyYmFuIGVudmlyb25tZW50cyBhbmQgbW9kdWxhciBjaXR5IHNjZW5lcywgYmFzZWQgb24gdGhlIG9yaWdpbmFsIEZCWCBhc3NldCB3aXRoIDRLIHRleHR1cmVzLg==",
+    "tags":  "concrete-building,architecture,building,urban,low-poly,abandoned,variant",
+    "version":  1,
+    "appMajorVersion":  2,
+    "repositoryURL":  "https://github.com/ITsMagic-Software/Package-OldConcreteBuilding2",
+    "isTemplate":  false,
+    "date":  "12/03/2026",
+    "thumbnail":  "thumb.jpg",
+    "images":  [
+                   "img1.jpg"
+               ],
+    "licenseB64":  "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9vbGQtY29uY2V0ZS1idWlsZGluZy1wYWNrLWxvd3BvbHktNmQwNzBmY2M4NmIwNDMwZGFkZjUzZGE2NzU0NWM2ZjM=",
+    "repivot":  true
 }

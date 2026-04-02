@@ -1,16 +1,16 @@
-{
-    "titleB64": "UGxhc3RpY1RhcnA=",
-    "descriptionB64": "QXNzZXRzIHBhY2s6IFBsYXN0aWNUYXJw",
-    "tags": "3d,model,assets,props,plastic,tarp",
-    "version": 1,
-    "appMajorVersion": 2,
-    "repositoryURL": "https://github.com/ITsMagic-Software/Package-PlasticTarp",
-    "isTemplate": false,
-    "date": "26/02/2026",
-    "thumbnail": "thumb.jpg",
-    "images": [
-        "img1.jpg"
-    ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
-    "repivot": true
+﻿{
+    "titleB64":  "UGxhc3RpY1RhcnA=",
+    "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBwbGFzdGljIHRhcnAgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJGYWN0b3J5IFByb3BzIiBTa2V0Y2hmYWIgcGFjayBieSBUaG9tYXNfQ3JvemVsb24uIEl0IGlzIHN1aXRlZCBmb3IgaW5kdXN0cmlhbCBzY2VuZXMsIHNlcnZpY2UgYXJlYXMsIHV0aWxpdHkgc3BhY2VzIGFuZCBlbnZpcm9ubWVudCBkcmVzc2luZyBpbiByZWFsLXRpbWUgcHJvamVjdHMsIHVzaW5nIHRoZSBvcmlnaW5hbCBwYWNrJ3MgNEsgbWFwcy4=",
+    "tags":  "plastic-tarp,covering,utility,industrial,game-ready,unity",
+    "version":  1,
+    "appMajorVersion":  2,
+    "repositoryURL":  "https://github.com/ITsMagic-Software/Package-PlasticTarp",
+    "isTemplate":  false,
+    "date":  "26/02/2026",
+    "thumbnail":  "thumb.jpg",
+    "images":  [
+                   "img1.jpg"
+               ],
+    "licenseB64":  "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
+    "repivot":  true
 }

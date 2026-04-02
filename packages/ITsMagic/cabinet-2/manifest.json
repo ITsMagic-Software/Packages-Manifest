@@ -1,16 +1,16 @@
-{
-    "titleB64": "Q2FiaW5ldA==",
-    "descriptionB64": "QXNzZXRzIHBhY2s6IENhYmluZXQ=",
-    "tags": "3d,model,assets,props,cabinet",
-    "version": 1,
-    "appMajorVersion": 2,
-    "repositoryURL": "https://github.com/ITsMagic-Software/Package-Cabinet2",
-    "isTemplate": false,
-    "date": "25/02/2026",
-    "thumbnail": "thumb.jpg",
-    "images": [
-        "img1.jpg"
-    ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
-    "repivot": true
+﻿{
+    "titleB64":  "Q2FiaW5ldA==",
+    "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgY2FiaW5ldCBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkZhY3RvcnkgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IFRob21hc19Dcm96ZWxvbi4gSXQgaXMgc3VpdGVkIGZvciBpbmR1c3RyaWFsIHNjZW5lcywgc2VydmljZSBhcmVhcywgdXRpbGl0eSBzcGFjZXMgYW5kIGVudmlyb25tZW50IGRyZXNzaW5nIGluIHJlYWwtdGltZSBwcm9qZWN0cywgdXNpbmcgdGhlIG9yaWdpbmFsIHBhY2sncyA0SyBtYXBzLg==",
+    "tags":  "cabinet,furniture,storage,interior,game-ready,unity,variant",
+    "version":  1,
+    "appMajorVersion":  2,
+    "repositoryURL":  "https://github.com/ITsMagic-Software/Package-Cabinet2",
+    "isTemplate":  false,
+    "date":  "25/02/2026",
+    "thumbnail":  "thumb.jpg",
+    "images":  [
+                   "img1.jpg"
+               ],
+    "licenseB64":  "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
+    "repivot":  true
 }

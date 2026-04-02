@@ -1,16 +1,16 @@
-{
-    "titleB64": "Q29mZmVlQ3Vw",
-    "descriptionB64": "QXNzZXRzIHBhY2s6IENvZmZlZUN1cA==",
-    "tags": "3d,model,assets,props,coffee,cup",
-    "version": 1,
-    "appMajorVersion": 2,
-    "repositoryURL": "https://github.com/ITsMagic-Software/Package-CoffeeCup",
-    "isTemplate": false,
-    "date": "09/02/2026",
-    "thumbnail": "thumb.jpg",
-    "images": [
-        "img1.jpg"
-    ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9zdHJlZXQtYXNzZXQtcGFjay1mM2ViNDdkMDJlMmU0YWIyOTBlNjY3NTJmYTM1NGI0OA==",
-    "repivot": true
+﻿{
+    "titleB64":  "Q29mZmVlQ3Vw",
+    "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBjb2ZmZWUgY3VwIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiU3RyZWV0IEFzc2V0IFBhY2siIFNrZXRjaGZhYiBwYWNrIGJ5IHZtYXR0aGV3LiBJdCBmaXRzIHNpZGV3YWxrcywgcm9hZHdvcmssIGFsbGV5cyBhbmQgdXJiYW4gZW52aXJvbm1lbnQgZHJlc3NpbmcsIGJhc2VkIG9uIGFzc2V0cyBjcmVhdGVkIGluIEJsZW5kZXIgYW5kIFN1YnN0YW5jZSAzRCBQYWludGVyLg==",
+    "tags":  "coffee-cup,tableware,kitchen,street,urban",
+    "version":  1,
+    "appMajorVersion":  2,
+    "repositoryURL":  "https://github.com/ITsMagic-Software/Package-CoffeeCup",
+    "isTemplate":  false,
+    "date":  "09/02/2026",
+    "thumbnail":  "thumb.jpg",
+    "images":  [
+                   "img1.jpg"
+               ],
+    "licenseB64":  "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9zdHJlZXQtYXNzZXQtcGFjay1mM2ViNDdkMDJlMmU0YWIyOTBlNjY3NTJmYTM1NGI0OA==",
+    "repivot":  true
 }

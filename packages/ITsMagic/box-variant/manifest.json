@@ -1,16 +1,16 @@
-{
-    "titleB64": "Qm94VmFyaWFudA==",
-    "descriptionB64": "QXNzZXRzIHBhY2s6IEJveFZhcmlhbnQ=",
-    "tags": "3d,model,assets,props,box,variant",
-    "version": 1,
-    "appMajorVersion": 2,
-    "repositoryURL": "https://github.com/ITsMagic-Software/Package-BoxVariant",
-    "isTemplate": false,
-    "date": "23/02/2026",
-    "thumbnail": "thumb.jpg",
-    "images": [
-        "img1.jpg"
-    ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9tZWRpZXZhbC1wcm9wcy1lNjk3NzdmYTQ3MjQ0NDM0YjMzNzQ4OGI5N2NlY2QwZQ==",
-    "repivot": true
+﻿{
+    "titleB64":  "Qm94VmFyaWFudA==",
+    "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgYm94IGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiTWVkaWV2YWwgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IERhbmllbCBWaWNlbnRlLiBJdCBmaXRzIG1vZHVsYXIgbWVkaWV2YWwgY2l0eSBzY2VuZXMsIHZpbGxhZ2UgZW52aXJvbm1lbnRzLCBjb3VydHlhcmRzIGFuZCBoaXN0b3JpY2FsIHNldCBkcmVzc2luZy4=",
+    "tags":  "box,container,storage,medieval,game-ready,variant",
+    "version":  1,
+    "appMajorVersion":  2,
+    "repositoryURL":  "https://github.com/ITsMagic-Software/Package-BoxVariant",
+    "isTemplate":  false,
+    "date":  "23/02/2026",
+    "thumbnail":  "thumb.jpg",
+    "images":  [
+                   "img1.jpg"
+               ],
+    "licenseB64":  "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9tZWRpZXZhbC1wcm9wcy1lNjk3NzdmYTQ3MjQ0NDM0YjMzNzQ4OGI5N2NlY2QwZQ==",
+    "repivot":  true
 }

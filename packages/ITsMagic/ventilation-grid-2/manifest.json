@@ -1,16 +1,16 @@
-{
-    "titleB64": "VmVudGlsYXRpb25Hcmlk",
-    "descriptionB64": "QXNzZXRzIHBhY2s6IFZlbnRpbGF0aW9uR3JpZA==",
-    "tags": "3d,model,assets,props,ventilation,grid",
-    "version": 1,
-    "appMajorVersion": 2,
-    "repositoryURL": "https://github.com/ITsMagic-Software/Package-VentilationGrid2",
-    "isTemplate": false,
-    "date": "07/03/2026",
-    "thumbnail": "thumb.jpg",
-    "images": [
-        "img1.jpg"
-    ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
-    "repivot": true
+﻿{
+    "titleB64":  "VmVudGlsYXRpb25Hcmlk",
+    "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgdmVudGlsYXRpb24gZ3JpZCBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkZhY3RvcnkgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IFRob21hc19Dcm96ZWxvbi4gSXQgaXMgc3VpdGVkIGZvciBpbmR1c3RyaWFsIHNjZW5lcywgc2VydmljZSBhcmVhcywgdXRpbGl0eSBzcGFjZXMgYW5kIGVudmlyb25tZW50IGRyZXNzaW5nIGluIHJlYWwtdGltZSBwcm9qZWN0cywgdXNpbmcgdGhlIG9yaWdpbmFsIHBhY2sncyA0SyBtYXBzLg==",
+    "tags":  "ventilation-grid,utility,interior,architecture,game-ready,unity,variant",
+    "version":  1,
+    "appMajorVersion":  2,
+    "repositoryURL":  "https://github.com/ITsMagic-Software/Package-VentilationGrid2",
+    "isTemplate":  false,
+    "date":  "07/03/2026",
+    "thumbnail":  "thumb.jpg",
+    "images":  [
+                   "img1.jpg"
+               ],
+    "licenseB64":  "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
+    "repivot":  true
 }

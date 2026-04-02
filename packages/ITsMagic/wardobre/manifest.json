@@ -1,16 +1,16 @@
-{
-    "titleB64": "V2FyZG9icmU=",
-    "descriptionB64": "QXNzZXRzIHBhY2s6IFdhcmRvYnJl",
-    "tags": "3d,model,assets,props,wardobre",
-    "version": 1,
-    "appMajorVersion": 2,
-    "repositoryURL": "https://github.com/ITsMagic-Software/Package-Wardobre",
-    "isTemplate": false,
-    "date": "19/02/2026",
-    "thumbnail": "thumb.jpg",
-    "images": [
-        "img1.jpg"
-    ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mdXJuaXR1cmUtcGFjay1sb3ctcG9seS1nYW1lLXJlYWR5LTFiZmE1ZTQ4NzhlYjRhOWY4M2YzY2JlYzgwMDIyYjVk",
-    "repivot": true
+﻿{
+    "titleB64":  "V2FyZG9icmU=",
+    "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSB3YXJkcm9iZSBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkZ1cm5pdHVyZSBQYWNrIHwgTG93LVBvbHkgfCBHYW1lLVJlYWR5IiBTa2V0Y2hmYWIgcGFjayBieSBrRWFtLiBJdCBpcyBzdWl0ZWQgZm9yIHJvb20gZHJlc3NpbmcsIGhvbWUgaW50ZXJpb3JzIGFuZCBzdHlsaXplZCByZWFsLXRpbWUgZW52aXJvbm1lbnRzIGZyb20gdGhlIG9yaWdpbmFsIGxvdy1wb2x5IGdhbWUtcmVhZHkgZnVybml0dXJlIGNvbGxlY3Rpb24u",
+    "tags":  "wardrobe,furniture,storage,interior,low-poly,game-ready",
+    "version":  1,
+    "appMajorVersion":  2,
+    "repositoryURL":  "https://github.com/ITsMagic-Software/Package-Wardobre",
+    "isTemplate":  false,
+    "date":  "19/02/2026",
+    "thumbnail":  "thumb.jpg",
+    "images":  [
+                   "img1.jpg"
+               ],
+    "licenseB64":  "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mdXJuaXR1cmUtcGFjay1sb3ctcG9seS1nYW1lLXJlYWR5LTFiZmE1ZTQ4NzhlYjRhOWY4M2YzY2JlYzgwMDIyYjVk",
+    "repivot":  true
 }

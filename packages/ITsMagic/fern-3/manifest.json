@@ -1,16 +1,16 @@
-{
-    "titleB64": "RmVybg==",
-    "descriptionB64": "QXNzZXRzIHBhY2s6IEZlcm4=",
-    "tags": "3d,model,assets,props,fern",
-    "version": 1,
-    "appMajorVersion": 2,
-    "repositoryURL": "https://github.com/ITsMagic-Software/Package-Fern3",
-    "isTemplate": false,
-    "date": "04/03/2026",
-    "thumbnail": "thumb.jpg",
-    "images": [
-        "img1.jpg"
-    ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy90cm9waWNhbC1wbGFudHMtcGFjay1tMDJwLTJmMDkzYWZiNzkyNzQyNDM4ZjBmN2JhN2VhYWI5MGYw",
-    "repivot": true
+﻿{
+    "titleB64":  "RmVybg==",
+    "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgZmVybiBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIlRyb3BpY2FsIFBsYW50cyBQYWNrIE0wMlAiIFNrZXRjaGZhYiBwYWNrIGJ5IE1venphcmVsbGFBUkMuIEl0IGZpdHMgdHJvcGljYWwgZ2FyZGVucywgbHVzaCBleHRlcmlvciBzY2VuZXMsIGFyY2hpdGVjdHVyYWwgdmlzdWFsaXphdGlvbiBhbmQgVW5yZWFsIEVuZ2luZSBlbnZpcm9ubWVudHMsIHVzaW5nIHRoZSBvcmlnaW5hbCBwYWNrJ3MgUEJSIHdvcmtmbG93Lg==",
+    "tags":  "fern,plant,vegetation,interior,tropical,pbr,unreal-engine,variant",
+    "version":  1,
+    "appMajorVersion":  2,
+    "repositoryURL":  "https://github.com/ITsMagic-Software/Package-Fern3",
+    "isTemplate":  false,
+    "date":  "04/03/2026",
+    "thumbnail":  "thumb.jpg",
+    "images":  [
+                   "img1.jpg"
+               ],
+    "licenseB64":  "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy90cm9waWNhbC1wbGFudHMtcGFjay1tMDJwLTJmMDkzYWZiNzkyNzQyNDM4ZjBmN2JhN2VhYWI5MGYw",
+    "repivot":  true
 }

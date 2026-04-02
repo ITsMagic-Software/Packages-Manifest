@@ -1,16 +1,16 @@
-{
-    "titleB64": "VG9pbGV0",
-    "descriptionB64": "QXNzZXRzIHBhY2s6IFRvaWxldA==",
-    "tags": "3d,model,assets,props,toilet",
-    "version": 1,
-    "appMajorVersion": 2,
-    "repositoryURL": "https://github.com/ITsMagic-Software/Package-Toilet",
-    "isTemplate": false,
-    "date": "07/03/2026",
-    "thumbnail": "thumb.jpg",
-    "images": [
-        "img1.jpg"
-    ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
-    "repivot": true
+﻿{
+    "titleB64":  "VG9pbGV0",
+    "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSB0b2lsZXQgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJGYWN0b3J5IFByb3BzIiBTa2V0Y2hmYWIgcGFjayBieSBUaG9tYXNfQ3JvemVsb24uIEl0IGlzIHN1aXRlZCBmb3IgaW5kdXN0cmlhbCBzY2VuZXMsIHNlcnZpY2UgYXJlYXMsIHV0aWxpdHkgc3BhY2VzIGFuZCBlbnZpcm9ubWVudCBkcmVzc2luZyBpbiByZWFsLXRpbWUgcHJvamVjdHMsIHVzaW5nIHRoZSBvcmlnaW5hbCBwYWNrJ3MgNEsgbWFwcy4=",
+    "tags":  "toilet,bathroom,plumbing,interior,game-ready,unity",
+    "version":  1,
+    "appMajorVersion":  2,
+    "repositoryURL":  "https://github.com/ITsMagic-Software/Package-Toilet",
+    "isTemplate":  false,
+    "date":  "07/03/2026",
+    "thumbnail":  "thumb.jpg",
+    "images":  [
+                   "img1.jpg"
+               ],
+    "licenseB64":  "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
+    "repivot":  true
 }

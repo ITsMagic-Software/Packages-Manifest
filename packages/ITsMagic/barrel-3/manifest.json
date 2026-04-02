@@ -1,16 +1,16 @@
-{
-    "titleB64": "QmFycmVs",
-    "descriptionB64": "QXNzZXRzIHBhY2s6IEJhcnJlbA==",
-    "tags": "3d,model,assets,props,barrel",
-    "version": 1,
-    "appMajorVersion": 2,
-    "repositoryURL": "https://github.com/ITsMagic-Software/Package-Barrel3",
-    "isTemplate": false,
-    "date": "18/02/2026",
-    "thumbnail": "thumb.jpg",
-    "images": [
-        "img1.jpg"
-    ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9iYXJyZWwtcGFjay0wYzZmODdlYTUxMjM0YTMyOGIxMDZlZTIyMDgyNzU5NQ==",
-    "repivot": true
+﻿{
+    "titleB64":  "QmFycmVs",
+    "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgYmFycmVsIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiQmFycmVsIFBhY2siIFNrZXRjaGZhYiBwYWNrIGJ5IHZtYXR0aGV3LiBJdCBmaXRzIHByb3AgZHJlc3NpbmcsIHN0b3JhZ2Ugc2NlbmVzIGFuZCByZWFsLXRpbWUgZW52aXJvbm1lbnQgY29tcG9zaXRpb24sIGJhc2VkIG9uIHRoZSBwYWNrJ3MgaW1wcm92ZWQgdGV4dHVyZXMgYW5kIGhpZ2hlci1wb2x5IHRyZWF0bWVudC4=",
+    "tags":  "barrel,container,storage,industrial,game-ready,variant",
+    "version":  1,
+    "appMajorVersion":  2,
+    "repositoryURL":  "https://github.com/ITsMagic-Software/Package-Barrel3",
+    "isTemplate":  false,
+    "date":  "18/02/2026",
+    "thumbnail":  "thumb.jpg",
+    "images":  [
+                   "img1.jpg"
+               ],
+    "licenseB64":  "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9iYXJyZWwtcGFjay0wYzZmODdlYTUxMjM0YTMyOGIxMDZlZTIyMDgyNzU5NQ==",
+    "repivot":  true
 }

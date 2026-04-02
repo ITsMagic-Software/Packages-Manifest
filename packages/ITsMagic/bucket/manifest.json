@@ -1,16 +1,16 @@
-{
-    "titleB64": "QnVja2V0",
-    "descriptionB64": "QXNzZXRzIHBhY2s6IEJ1Y2tldA==",
-    "tags": "3d,model,assets,props,bucket",
-    "version": 1,
-    "appMajorVersion": 2,
-    "repositoryURL": "https://github.com/ITsMagic-Software/Package-Bucket",
-    "isTemplate": false,
-    "date": "23/02/2026",
-    "thumbnail": "thumb.jpg",
-    "images": [
-        "img1.jpg"
-    ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9tZWRpZXZhbC1wcm9wcy1lNjk3NzdmYTQ3MjQ0NDM0YjMzNzQ4OGI5N2NlY2QwZQ==",
-    "repivot": true
+﻿{
+    "titleB64":  "QnVja2V0",
+    "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBidWNrZXQgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJNZWRpZXZhbCBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgRGFuaWVsIFZpY2VudGUuIEl0IGZpdHMgbW9kdWxhciBtZWRpZXZhbCBjaXR5IHNjZW5lcywgdmlsbGFnZSBlbnZpcm9ubWVudHMsIGNvdXJ0eWFyZHMgYW5kIGhpc3RvcmljYWwgc2V0IGRyZXNzaW5nLg==",
+    "tags":  "bucket,container,utility,medieval,game-ready",
+    "version":  1,
+    "appMajorVersion":  2,
+    "repositoryURL":  "https://github.com/ITsMagic-Software/Package-Bucket",
+    "isTemplate":  false,
+    "date":  "23/02/2026",
+    "thumbnail":  "thumb.jpg",
+    "images":  [
+                   "img1.jpg"
+               ],
+    "licenseB64":  "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9tZWRpZXZhbC1wcm9wcy1lNjk3NzdmYTQ3MjQ0NDM0YjMzNzQ4OGI5N2NlY2QwZQ==",
+    "repivot":  true
 }

@@ -1,16 +1,16 @@
-{
-    "titleB64": "V2F0ZXJTb3VyY2U=",
-    "descriptionB64": "QXNzZXRzIHBhY2s6IFdhdGVyU291cmNl",
-    "tags": "3d,model,assets,props,water,source",
-    "version": 1,
-    "appMajorVersion": 2,
-    "repositoryURL": "https://github.com/ITsMagic-Software/Package-WaterSource",
-    "isTemplate": false,
-    "date": "23/02/2026",
-    "thumbnail": "thumb.jpg",
-    "images": [
-        "img1.jpg"
-    ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9tZWRpZXZhbC1wcm9wcy1lNjk3NzdmYTQ3MjQ0NDM0YjMzNzQ4OGI5N2NlY2QwZQ==",
-    "repivot": true
+﻿{
+    "titleB64":  "V2F0ZXJTb3VyY2U=",
+    "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBzdG9uZSBmb3VudGFpbiBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIk1lZGlldmFsIFByb3BzIiBTa2V0Y2hmYWIgcGFjayBieSBEYW5pZWwgVmljZW50ZS4gSXQgZml0cyBtb2R1bGFyIG1lZGlldmFsIGNpdHkgc2NlbmVzLCB2aWxsYWdlIGVudmlyb25tZW50cywgY291cnR5YXJkcyBhbmQgaGlzdG9yaWNhbCBzZXQgZHJlc3Npbmcu",
+    "tags":  "fountain,water-feature,medieval,environment,game-ready",
+    "version":  1,
+    "appMajorVersion":  2,
+    "repositoryURL":  "https://github.com/ITsMagic-Software/Package-WaterSource",
+    "isTemplate":  false,
+    "date":  "23/02/2026",
+    "thumbnail":  "thumb.jpg",
+    "images":  [
+                   "img1.jpg"
+               ],
+    "licenseB64":  "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9tZWRpZXZhbC1wcm9wcy1lNjk3NzdmYTQ3MjQ0NDM0YjMzNzQ4OGI5N2NlY2QwZQ==",
+    "repivot":  true
 }
