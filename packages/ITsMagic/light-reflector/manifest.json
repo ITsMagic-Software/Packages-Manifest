@@ -1,16 +1,16 @@
 {
-    "titleB64": "TGlnaHRSZWZsZWN0b3I=",
-    "descriptionB64": "QXNzZXRzIHBhY2s6IExpZ2h0UmVmbGVjdG9y",
-    "tags": "3d,model,assets,props,light,reflector",
-    "version": 1,
-    "appMajorVersion": 2,
-    "repositoryURL": "https://github.com/ITsMagic-Software/Package-LightReflector",
-    "isTemplate": false,
-    "date": "07/03/2026",
-    "thumbnail": "thumb.jpg",
-    "images": [
-        "img1.jpg"
-    ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
-    "repivot": true
+    "titleB64":  "TGlnaHRSZWZsZWN0b3I=",
+    "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBwb3J0YWJsZSB3b3JrIGxpZ2h0IGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRmFjdG9yeSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgVGhvbWFzX0Nyb3plbG9uLiBJdCBpcyBzdWl0ZWQgZm9yIGluZHVzdHJpYWwgc2NlbmVzLCBzZXJ2aWNlIGFyZWFzLCB1dGlsaXR5IHNwYWNlcyBhbmQgZW52aXJvbm1lbnQgZHJlc3NpbmcgaW4gcmVhbC10aW1lIHByb2plY3RzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIDRLIG1hcHMu",
+    "tags":  "work_light,lighting,utility,workshop,game_ready,unity",
+    "version":  1,
+    "appMajorVersion":  2,
+    "repositoryURL":  "https://github.com/ITsMagic-Software/Package-LightReflector",
+    "isTemplate":  false,
+    "date":  "07/03/2026",
+    "thumbnail":  "thumb.jpg",
+    "images":  [
+                   "img1.jpg"
+               ],
+    "licenseB64":  "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
+    "repivot":  true
 }

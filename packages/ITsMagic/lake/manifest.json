@@ -1,16 +1,16 @@
 {
-    "titleB64": "TGFrZQ==",
-    "descriptionB64": "QXNzZXRzIHBhY2s6IExha2U=",
-    "tags": "3d,model,assets,props,lake",
-    "version": 1,
-    "appMajorVersion": 2,
-    "repositoryURL": "https://github.com/ITsMagic-Software/Package-Lake",
-    "isTemplate": false,
-    "date": "04/03/2026",
-    "thumbnail": "thumb.jpg",
-    "images": [
-        "img1.jpg"
-    ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy90cm9waWNhbC1wbGFudHMtcGFjay1tMDJwLTJmMDkzYWZiNzkyNzQyNDM4ZjBmN2JhN2VhYWI5MGYw",
-    "repivot": true
+    "titleB64":  "TGFrZQ==",
+    "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBsYWtlIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiVHJvcGljYWwgUGxhbnRzIFBhY2sgTTAyUCIgU2tldGNoZmFiIHBhY2sgYnkgTW96emFyZWxsYUFSQy4gSXQgZml0cyB0cm9waWNhbCBnYXJkZW5zLCBsdXNoIGV4dGVyaW9yIHNjZW5lcywgYXJjaGl0ZWN0dXJhbCB2aXN1YWxpemF0aW9uIGFuZCBVbnJlYWwgRW5naW5lIGVudmlyb25tZW50cywgdXNpbmcgdGhlIG9yaWdpbmFsIHBhY2sncyBQQlIgd29ya2Zsb3cu",
+    "tags":  "lake,water,environment,terrain,tropical,pbr,unreal_engine",
+    "version":  1,
+    "appMajorVersion":  2,
+    "repositoryURL":  "https://github.com/ITsMagic-Software/Package-Lake",
+    "isTemplate":  false,
+    "date":  "04/03/2026",
+    "thumbnail":  "thumb.jpg",
+    "images":  [
+                   "img1.jpg"
+               ],
+    "licenseB64":  "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy90cm9waWNhbC1wbGFudHMtcGFjay1tMDJwLTJmMDkzYWZiNzkyNzQyNDM4ZjBmN2JhN2VhYWI5MGYw",
+    "repivot":  true
 }

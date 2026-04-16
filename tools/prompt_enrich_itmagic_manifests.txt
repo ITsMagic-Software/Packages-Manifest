@@ -1,0 +1,73 @@
+Task:
+Enrich product manifests in `packages/ITsMagic` using the same standard already established in this repository.
+
+Goal:
+- Improve `tags`
+- Improve `descriptionB64`
+- Ignore any package with `isTemplate: true`
+
+Rules for tags:
+- Remove noise and redundancy
+- Do not use generic tags that do not improve discovery, such as `3d`, `model`, `assets`, `props`
+- Do not simply repeat the package name unless it adds real search value
+- Infer tags from:
+  - package name
+  - current description
+  - `licenseB64` / source page
+  - asset structure and context
+  - images/thumbs when needed to resolve ambiguous names
+- Keep consistency across similar packages
+- Use `variant` for real variants when appropriate
+- Keep between 5 and 8 tags per package
+- Tags must follow the format accepted by the compiler:
+  - only `[A-Za-z0-9_]+`
+  - no spaces
+  - prefer lowercase
+  - use `_` instead of `-`
+
+Rules for description:
+- Rewrite `descriptionB64` with a better text than the original description
+- The new description should:
+  - clearly explain what the asset is
+  - mention that it was extracted from a Sketchfab pack when applicable
+  - reuse useful context from the original pack
+  - describe where the asset fits well
+- Do not invent technical details not supported by the source page or the package itself
+- If multiple packages share the same `licenseB64`, treat them as items from the same pack
+
+How to use `licenseB64`:
+- Decode `licenseB64`
+- If it is a Sketchfab link, open the page and extract useful information
+- Reuse that context across all packages that share the same link
+- Remember that one Sketchfab pack may be split into many local packages
+
+Expected workflow:
+1. Find all `manifest.json` files inside `packages/ITsMagic`
+2. Ignore files with `isTemplate: true`
+3. Group by `licenseB64` when useful
+4. Define a controlled tag vocabulary
+5. Update `tags`
+6. Update `descriptionB64`
+7. Preserve all other fields
+8. Save valid JSON as UTF-8 without BOM
+9. Validate with:
+   - `python tools\\compiler\\buildDatabase.py`
+
+Important constraints:
+- Do not change `titleB64` unless explicitly needed
+- Do not change `repositoryURL` unless explicitly needed
+- Do not touch template packages
+- Do not leave files with BOM
+- Do not use tags outside the compiler-accepted format
+
+Quality criteria:
+- Tags should be more useful for search
+- Descriptions should be more informative and specific
+- Asset families should stay consistent
+- The build must not break
+
+Expected delivery:
+- Apply changes directly to the manifests
+- Report the main criteria used
+- Mention whether ambiguous cases were resolved by thumbnail/image inspection
+- Confirm the result of `buildDatabase.py`

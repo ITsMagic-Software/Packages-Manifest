@@ -1,16 +1,16 @@
 {
-    "titleB64": "TWV0YWxCYXI=",
-    "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsQmFy",
-    "tags": "3d,model,assets,props,metal,bar",
-    "version": 1,
-    "appMajorVersion": 2,
-    "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalBar",
-    "isTemplate": false,
-    "date": "15/02/2026",
-    "thumbnail": "thumb.jpg",
-    "images": [
-        "img1.jpg"
-    ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9zdHJlZXQtYXNzZXQtcGFjay1mM2ViNDdkMDJlMmU0YWIyOTBlNjY3NTJmYTM1NGI0OA==",
-    "repivot": true
+    "titleB64":  "TWV0YWxCYXI=",
+    "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBtZXRhbCBiYXIgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJTdHJlZXQgQXNzZXQgUGFjayIgU2tldGNoZmFiIHBhY2sgYnkgdm1hdHRoZXcuIEl0IGZpdHMgc2lkZXdhbGtzLCByb2Fkd29yaywgYWxsZXlzIGFuZCB1cmJhbiBlbnZpcm9ubWVudCBkcmVzc2luZywgYmFzZWQgb24gYXNzZXRzIGNyZWF0ZWQgaW4gQmxlbmRlciBhbmQgU3Vic3RhbmNlIDNEIFBhaW50ZXIu",
+    "tags":  "metal_bar,construction,industrial,material,street,urban",
+    "version":  1,
+    "appMajorVersion":  2,
+    "repositoryURL":  "https://github.com/ITsMagic-Software/Package-MetalBar",
+    "isTemplate":  false,
+    "date":  "15/02/2026",
+    "thumbnail":  "thumb.jpg",
+    "images":  [
+                   "img1.jpg"
+               ],
+    "licenseB64":  "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9zdHJlZXQtYXNzZXQtcGFjay1mM2ViNDdkMDJlMmU0YWIyOTBlNjY3NTJmYTM1NGI0OA==",
+    "repivot":  true
 }

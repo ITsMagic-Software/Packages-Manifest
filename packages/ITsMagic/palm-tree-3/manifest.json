@@ -1,16 +1,16 @@
 {
-    "titleB64": "UGFsbVRyZWU=",
-    "descriptionB64": "QXNzZXRzIHBhY2s6IFBhbG1UcmVl",
-    "tags": "3d,model,assets,props,palm,tree,nature,vegetation,forest",
-    "version": 1,
-    "appMajorVersion": 2,
-    "repositoryURL": "https://github.com/ITsMagic-Software/Package-PalmTree3",
-    "isTemplate": false,
-    "date": "04/03/2026",
-    "thumbnail": "thumb.jpg",
-    "images": [
-        "img1.jpg"
-    ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy90cm9waWNhbC1wbGFudHMtcGFjay1tMDJwLTJmMDkzYWZiNzkyNzQyNDM4ZjBmN2JhN2VhYWI5MGYw",
-    "repivot": true
+    "titleB64":  "UGFsbVRyZWU=",
+    "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgcGFsbSB0cmVlIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiVHJvcGljYWwgUGxhbnRzIFBhY2sgTTAyUCIgU2tldGNoZmFiIHBhY2sgYnkgTW96emFyZWxsYUFSQy4gSXQgZml0cyB0cm9waWNhbCBnYXJkZW5zLCBsdXNoIGV4dGVyaW9yIHNjZW5lcywgYXJjaGl0ZWN0dXJhbCB2aXN1YWxpemF0aW9uIGFuZCBVbnJlYWwgRW5naW5lIGVudmlyb25tZW50cywgdXNpbmcgdGhlIG9yaWdpbmFsIHBhY2sncyBQQlIgd29ya2Zsb3cu",
+    "tags":  "palm_tree,tree,plant,vegetation,tropical,pbr,unreal_engine,variant",
+    "version":  1,
+    "appMajorVersion":  2,
+    "repositoryURL":  "https://github.com/ITsMagic-Software/Package-PalmTree3",
+    "isTemplate":  false,
+    "date":  "04/03/2026",
+    "thumbnail":  "thumb.jpg",
+    "images":  [
+                   "img1.jpg"
+               ],
+    "licenseB64":  "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy90cm9waWNhbC1wbGFudHMtcGFjay1tMDJwLTJmMDkzYWZiNzkyNzQyNDM4ZjBmN2JhN2VhYWI5MGYw",
+    "repivot":  true
 }

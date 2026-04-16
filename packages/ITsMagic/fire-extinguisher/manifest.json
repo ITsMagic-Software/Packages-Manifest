@@ -1,16 +1,16 @@
 {
-    "titleB64": "RmlyZUV4dGluZ3Vpc2hlcg==",
-    "descriptionB64": "QXNzZXRzIHBhY2s6IEZpcmVFeHRpbmd1aXNoZXI=",
-    "tags": "3d,model,assets,props,fire,extinguisher",
-    "version": 1,
-    "appMajorVersion": 2,
-    "repositoryURL": "https://github.com/ITsMagic-Software/Package-FireExtinguisher",
-    "isTemplate": false,
-    "date": "25/02/2026",
-    "thumbnail": "thumb.jpg",
-    "images": [
-        "img1.jpg"
-    ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
-    "repivot": true
+    "titleB64":  "RmlyZUV4dGluZ3Vpc2hlcg==",
+    "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBmaXJlIGV4dGluZ3Vpc2hlciBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkZhY3RvcnkgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IFRob21hc19Dcm96ZWxvbi4gSXQgaXMgc3VpdGVkIGZvciBpbmR1c3RyaWFsIHNjZW5lcywgc2VydmljZSBhcmVhcywgdXRpbGl0eSBzcGFjZXMgYW5kIGVudmlyb25tZW50IGRyZXNzaW5nIGluIHJlYWwtdGltZSBwcm9qZWN0cywgdXNpbmcgdGhlIG9yaWdpbmFsIHBhY2sncyA0SyBtYXBzLg==",
+    "tags":  "fire_extinguisher,safety,emergency,utility,game_ready,unity",
+    "version":  1,
+    "appMajorVersion":  2,
+    "repositoryURL":  "https://github.com/ITsMagic-Software/Package-FireExtinguisher",
+    "isTemplate":  false,
+    "date":  "25/02/2026",
+    "thumbnail":  "thumb.jpg",
+    "images":  [
+                   "img1.jpg"
+               ],
+    "licenseB64":  "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
+    "repivot":  true
 }

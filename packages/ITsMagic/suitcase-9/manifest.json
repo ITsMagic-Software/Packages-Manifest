@@ -1,16 +1,16 @@
 {
-    "titleB64": "QSBTdWl0Y2FzZSBNb2RlbA==",
-    "descriptionB64": "SGVsbG8sIHNvIGdsYWQgeW91IGFyZSBoZXJlISBUaGVzZSBhcmUgc29tZSBwcm9wcyBJIG1hZGUgZm9yIGEgY2Fwc3RvbmUgY2xhc3MgdGhhdCByZXF1aXJlcyB0aGUgc3R1ZGVudHMgdG8gbWFrZSBhIGdhbWUgdW5kZXIgdGhlIGdhbWUgamFtIHRpbWVmcmFtZS4gSSBtb2RlbGVkIHRoZXNlIHByb3BzIGFuZCB0ZXh0dXJlZCBhIGZldy4KSSByZWFsbHkgZW5qb3llZCBtYWtpbmcgdGhlc2UgcHJvcHMgZm9yIHNlcnZhbCByZWFzb25zLCBvbmUgYmVpbmcgdGhhdCBJIGhhdmUgbmV2ZXIgZ29uZSBmb3IgYSByZWFsaXN0aWMgc3R5bGUgYW5kIEkgZmVlbCBsaWtlIEkgbmFpbGVkIGl0ISB0aGUgcmVhbGlzdGljIGFydCBzdHlsZSB3YXMgYSBjaGFsbGVuZ2UgYXQgZmlyc3QgYnV0IGFmdGVyIHNvbWUgdGltZSBpIGJlY2FtZSBmYXN0ZXIgYW5kIHdhcyBhYmxlIHRvIGNyZWF0ZSB3aGF0IHlvdSBzZWUgdG9kYXkuCklmIHlvdSB3b3VsZCBsaWtlIHRvIGNoZWNrIG91dCB0aGUgZ2FtZSB0byBwbGF5IHlvdXJzZWxmIHlvdSBjYW4gZ28gdG8gaHR0cHM6Ly9jcmVhdHVyZW1vb24uaXRjaC5pby90aGVicmltc3RvbmU=",
-    "tags": "3d,model,assets,props,suitcase",
-    "version": 1,
-    "appMajorVersion": 2,
-    "repositoryURL": "https://github.com/ITsMagic-Software/Package-Suitcase9",
-    "isTemplate": false,
-    "date": "29/03/2026",
-    "thumbnail": "thumb.jpg",
-    "images": [
-        "img1.jpg"
-    ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9icmltc3RvbmUtcHJvcHMtYzhkYzFlYTI1ZmY3NGVhNGIzZWJjM2RjZDc1NDBlODk=",
-    "repivot": true
+    "titleB64":  "QSBTdWl0Y2FzZSBNb2RlbA==",
+    "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgc3VpdGNhc2UgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJCcmltc3RvbmUgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IEN0cmxMaWdodC4gSXQgZml0cyBpbnRlcmlvciBwcm9wcywgcm9vbSBkcmVzc2luZyBhbmQgZW52aXJvbm1lbnRhbCBzdG9yeXRlbGxpbmcgc2NlbmVzIGluc3BpcmVkIGJ5IHRoZSBvcmlnaW5hbCBCcmltc3RvbmUgcHJvamVjdC4=",
+    "tags":  "suitcase,luggage,travel,interior,realistic,game_ready,variant",
+    "version":  1,
+    "appMajorVersion":  2,
+    "repositoryURL":  "https://github.com/ITsMagic-Software/Package-Suitcase9",
+    "isTemplate":  false,
+    "date":  "29/03/2026",
+    "thumbnail":  "thumb.jpg",
+    "images":  [
+                   "img1.jpg"
+               ],
+    "licenseB64":  "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9icmltc3RvbmUtcHJvcHMtYzhkYzFlYTI1ZmY3NGVhNGIzZWJjM2RjZDc1NDBlODk=",
+    "repivot":  true
 }

@@ -1,16 +1,16 @@
 {
-    "titleB64": "QnJva2VuQ29mZmVlQ3Vw",
-    "descriptionB64": "QXNzZXRzIHBhY2s6IEJyb2tlbkNvZmZlZUN1cA==",
-    "tags": "3d,model,assets,props,broken,coffee,cup",
-    "version": 1,
-    "appMajorVersion": 2,
-    "repositoryURL": "https://github.com/ITsMagic-Software/Package-BrokenCoffeeCup",
-    "isTemplate": false,
-    "date": "09/02/2026",
-    "thumbnail": "thumb.jpg",
-    "images": [
-        "img1.jpg"
-    ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9zdHJlZXQtYXNzZXQtcGFjay1mM2ViNDdkMDJlMmU0YWIyOTBlNjY3NTJmYTM1NGI0OA==",
-    "repivot": true
+    "titleB64":  "QnJva2VuQ29mZmVlQ3Vw",
+    "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBicm9rZW4gY29mZmVlIGN1cCBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIlN0cmVldCBBc3NldCBQYWNrIiBTa2V0Y2hmYWIgcGFjayBieSB2bWF0dGhldy4gSXQgZml0cyBzaWRld2Fsa3MsIHJvYWR3b3JrLCBhbGxleXMgYW5kIHVyYmFuIGVudmlyb25tZW50IGRyZXNzaW5nLCBiYXNlZCBvbiBhc3NldHMgY3JlYXRlZCBpbiBCbGVuZGVyIGFuZCBTdWJzdGFuY2UgM0QgUGFpbnRlci4=",
+    "tags":  "broken_cup,debris,tableware,street_prop,street,urban",
+    "version":  1,
+    "appMajorVersion":  2,
+    "repositoryURL":  "https://github.com/ITsMagic-Software/Package-BrokenCoffeeCup",
+    "isTemplate":  false,
+    "date":  "09/02/2026",
+    "thumbnail":  "thumb.jpg",
+    "images":  [
+                   "img1.jpg"
+               ],
+    "licenseB64":  "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9zdHJlZXQtYXNzZXQtcGFjay1mM2ViNDdkMDJlMmU0YWIyOTBlNjY3NTJmYTM1NGI0OA==",
+    "repivot":  true
 }

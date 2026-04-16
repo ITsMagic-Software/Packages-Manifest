@@ -1,16 +1,16 @@
 {
-    "titleB64": "SHlkcmFudA==",
-    "descriptionB64": "QXNzZXRzIHBhY2s6IEh5ZHJhbnQ=",
-    "tags": "3d,model,assets,props,hydrant",
-    "version": 1,
-    "appMajorVersion": 2,
-    "repositoryURL": "https://github.com/ITsMagic-Software/Package-Hydrant",
-    "isTemplate": false,
-    "date": "15/02/2026",
-    "thumbnail": "thumb.jpg",
-    "images": [
-        "img1.jpg"
-    ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9zdHJlZXQtYXNzZXQtcGFjay1mM2ViNDdkMDJlMmU0YWIyOTBlNjY3NTJmYTM1NGI0OA==",
-    "repivot": true
+    "titleB64":  "SHlkcmFudA==",
+    "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBoeWRyYW50IGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiU3RyZWV0IEFzc2V0IFBhY2siIFNrZXRjaGZhYiBwYWNrIGJ5IHZtYXR0aGV3LiBJdCBmaXRzIHNpZGV3YWxrcywgcm9hZHdvcmssIGFsbGV5cyBhbmQgdXJiYW4gZW52aXJvbm1lbnQgZHJlc3NpbmcsIGJhc2VkIG9uIGFzc2V0cyBjcmVhdGVkIGluIEJsZW5kZXIgYW5kIFN1YnN0YW5jZSAzRCBQYWludGVyLg==",
+    "tags":  "fire_hydrant,utility,street_prop,emergency,street,urban",
+    "version":  1,
+    "appMajorVersion":  2,
+    "repositoryURL":  "https://github.com/ITsMagic-Software/Package-Hydrant",
+    "isTemplate":  false,
+    "date":  "15/02/2026",
+    "thumbnail":  "thumb.jpg",
+    "images":  [
+                   "img1.jpg"
+               ],
+    "licenseB64":  "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9zdHJlZXQtYXNzZXQtcGFjay1mM2ViNDdkMDJlMmU0YWIyOTBlNjY3NTJmYTM1NGI0OA==",
+    "repivot":  true
 }

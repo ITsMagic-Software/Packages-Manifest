@@ -14,6 +14,7 @@ from urllib import request as url_request
 
 
 DEFAULT_REPOSITORY_BRANCH = "main"
+OFFICIAL_GITHUB_OWNER = "ITsMagic-Software"
 
 
 def _format_value(value: object) -> str:
@@ -38,6 +39,18 @@ def _check_url_exists(url: str, timeout_seconds: float = 8.0) -> bool:
         return False
     except Exception:
         return False
+
+
+def _is_official_repository_url(repository_url: str) -> bool:
+    parsed = url_parse.urlparse(_normalize_repository_url(repository_url))
+    if parsed.netloc != "github.com":
+        return False
+
+    path_parts = [part for part in parsed.path.split("/") if part]
+    if len(path_parts) < 2:
+        return False
+
+    return path_parts[0] == OFFICIAL_GITHUB_OWNER
 
 
 def _normalize_repository_url(value: str) -> str:
@@ -349,7 +362,10 @@ def main() -> None:
                     f"({ _format_value(repository_url) }) in {package_label}."
                 )
             else:
-                if not _check_url_exists(repository_url):
+                if (
+                    not _is_official_repository_url(repository_url)
+                    and not _check_url_exists(repository_url)
+                ):
                     errors.append(
                         "ERROR: repositoryURL is not reachable "
                         f"({ _format_value(repository_url) }) in {package_label}."

@@ -1,16 +1,16 @@
 {
-    "titleB64": "TWV0YWxQaXBl",
-    "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsUGlwZQ==",
-    "tags": "3d,model,assets,props,metal,pipe",
-    "version": 1,
-    "appMajorVersion": 2,
-    "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalPipe5",
-    "isTemplate": false,
-    "date": "25/02/2026",
-    "thumbnail": "thumb.jpg",
-    "images": [
-        "img1.jpg"
-    ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
-    "repivot": true
+    "titleB64":  "TWV0YWxQaXBl",
+    "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgbWV0YWwgcGlwZSBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkZhY3RvcnkgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IFRob21hc19Dcm96ZWxvbi4gSXQgaXMgc3VpdGVkIGZvciBpbmR1c3RyaWFsIHNjZW5lcywgc2VydmljZSBhcmVhcywgdXRpbGl0eSBzcGFjZXMgYW5kIGVudmlyb25tZW50IGRyZXNzaW5nIGluIHJlYWwtdGltZSBwcm9qZWN0cywgdXNpbmcgdGhlIG9yaWdpbmFsIHBhY2sncyA0SyBtYXBzLg==",
+    "tags":  "metal_pipe,pipe,industrial,construction,game_ready,unity,variant",
+    "version":  1,
+    "appMajorVersion":  2,
+    "repositoryURL":  "https://github.com/ITsMagic-Software/Package-MetalPipe5",
+    "isTemplate":  false,
+    "date":  "25/02/2026",
+    "thumbnail":  "thumb.jpg",
+    "images":  [
+                   "img1.jpg"
+               ],
+    "licenseB64":  "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
+    "repivot":  true
 }

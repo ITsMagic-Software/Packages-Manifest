@@ -1,16 +1,16 @@
 {
-    "titleB64": "TW9uc3RlcmFEZWxpY2lvc2FQbGFudA==",
-    "descriptionB64": "QXNzZXRzIHBhY2s6IE1vbnN0ZXJhRGVsaWNpb3NhUGxhbnQ=",
-    "tags": "3d,model,assets,props,monstera,deliciosa,plant",
-    "version": 1,
-    "appMajorVersion": 2,
-    "repositoryURL": "https://github.com/ITsMagic-Software/Package-MonsteraDeliciosaPlant3",
-    "isTemplate": false,
-    "date": "04/03/2026",
-    "thumbnail": "thumb.jpg",
-    "images": [
-        "img1.jpg"
-    ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy90cm9waWNhbC1wbGFudHMtcGFjay1tMDJwLTJmMDkzYWZiNzkyNzQyNDM4ZjBmN2JhN2VhYWI5MGYw",
-    "repivot": true
+    "titleB64":  "TW9uc3RlcmFEZWxpY2lvc2FQbGFudA==",
+    "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgbW9uc3RlcmEgcGxhbnQgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJUcm9waWNhbCBQbGFudHMgUGFjayBNMDJQIiBTa2V0Y2hmYWIgcGFjayBieSBNb3p6YXJlbGxhQVJDLiBJdCBmaXRzIHRyb3BpY2FsIGdhcmRlbnMsIGx1c2ggZXh0ZXJpb3Igc2NlbmVzLCBhcmNoaXRlY3R1cmFsIHZpc3VhbGl6YXRpb24gYW5kIFVucmVhbCBFbmdpbmUgZW52aXJvbm1lbnRzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIFBCUiB3b3JrZmxvdy4=",
+    "tags":  "monstera,plant,vegetation,interior,tropical,pbr,unreal_engine,variant",
+    "version":  1,
+    "appMajorVersion":  2,
+    "repositoryURL":  "https://github.com/ITsMagic-Software/Package-MonsteraDeliciosaPlant3",
+    "isTemplate":  false,
+    "date":  "04/03/2026",
+    "thumbnail":  "thumb.jpg",
+    "images":  [
+                   "img1.jpg"
+               ],
+    "licenseB64":  "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy90cm9waWNhbC1wbGFudHMtcGFjay1tMDJwLTJmMDkzYWZiNzkyNzQyNDM4ZjBmN2JhN2VhYWI5MGYw",
+    "repivot":  true
 }

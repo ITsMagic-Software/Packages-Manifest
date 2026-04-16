@@ -1,16 +1,16 @@
 {
-    "titleB64": "TWV0YWxCYXJyaWVyNA==",
-    "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsQmFycmllcjQ=",
-    "tags": "3d,model,assets,props,metal,barrier",
-    "version": 1,
-    "appMajorVersion": 2,
-    "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalBarrier4",
-    "isTemplate": false,
-    "date": "15/02/2026",
-    "thumbnail": "thumb.jpg",
-    "images": [
-        "img1.jpg"
-    ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9zdHJlZXQtYXNzZXQtcGFjay1mM2ViNDdkMDJlMmU0YWIyOTBlNjY3NTJmYTM1NGI0OA==",
-    "repivot": true
+    "titleB64":  "TWV0YWxCYXJyaWVyNA==",
+    "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgbWV0YWwgYmFycmllciBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIlN0cmVldCBBc3NldCBQYWNrIiBTa2V0Y2hmYWIgcGFjayBieSB2bWF0dGhldy4gSXQgZml0cyBzaWRld2Fsa3MsIHJvYWR3b3JrLCBhbGxleXMgYW5kIHVyYmFuIGVudmlyb25tZW50IGRyZXNzaW5nLCBiYXNlZCBvbiBhc3NldHMgY3JlYXRlZCBpbiBCbGVuZGVyIGFuZCBTdWJzdGFuY2UgM0QgUGFpbnRlci4=",
+    "tags":  "metal_barrier,barrier,roadwork,safety,street,urban,variant",
+    "version":  1,
+    "appMajorVersion":  2,
+    "repositoryURL":  "https://github.com/ITsMagic-Software/Package-MetalBarrier4",
+    "isTemplate":  false,
+    "date":  "15/02/2026",
+    "thumbnail":  "thumb.jpg",
+    "images":  [
+                   "img1.jpg"
+               ],
+    "licenseB64":  "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9zdHJlZXQtYXNzZXQtcGFjay1mM2ViNDdkMDJlMmU0YWIyOTBlNjY3NTJmYTM1NGI0OA==",
+    "repivot":  true
 }

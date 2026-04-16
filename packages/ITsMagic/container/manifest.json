@@ -1,16 +1,16 @@
 {
-    "titleB64": "Q29udGFpbmVy",
-    "descriptionB64": "QXNzZXRzIHBhY2s6IENvbnRhaW5lcg==",
-    "tags": "3d,model,assets,props,container",
-    "version": 1,
-    "appMajorVersion": 2,
-    "repositoryURL": "https://github.com/ITsMagic-Software/Package-Container",
-    "isTemplate": false,
-    "date": "25/02/2026",
-    "thumbnail": "thumb.jpg",
-    "images": [
-        "img1.jpg"
-    ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
-    "repivot": true
+    "titleB64":  "Q29udGFpbmVy",
+    "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBjb250YWluZXIgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJGYWN0b3J5IFByb3BzIiBTa2V0Y2hmYWIgcGFjayBieSBUaG9tYXNfQ3JvemVsb24uIEl0IGlzIHN1aXRlZCBmb3IgaW5kdXN0cmlhbCBzY2VuZXMsIHNlcnZpY2UgYXJlYXMsIHV0aWxpdHkgc3BhY2VzIGFuZCBlbnZpcm9ubWVudCBkcmVzc2luZyBpbiByZWFsLXRpbWUgcHJvamVjdHMsIHVzaW5nIHRoZSBvcmlnaW5hbCBwYWNrJ3MgNEsgbWFwcy4=",
+    "tags":  "container,storage,industrial,shipping,game_ready,unity",
+    "version":  1,
+    "appMajorVersion":  2,
+    "repositoryURL":  "https://github.com/ITsMagic-Software/Package-Container",
+    "isTemplate":  false,
+    "date":  "25/02/2026",
+    "thumbnail":  "thumb.jpg",
+    "images":  [
+                   "img1.jpg"
+               ],
+    "licenseB64":  "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
+    "repivot":  true
 }

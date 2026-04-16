@@ -1,16 +1,16 @@
 {
-    "titleB64": "TGFkZGVyVmFyaWFudA==",
-    "descriptionB64": "QXNzZXRzIHBhY2s6IExhZGRlclZhcmlhbnQ=",
-    "tags": "3d,model,assets,props,ladder,variant",
-    "version": 1,
-    "appMajorVersion": 2,
-    "repositoryURL": "https://github.com/ITsMagic-Software/Package-LadderVariant2",
-    "isTemplate": false,
-    "date": "25/02/2026",
-    "thumbnail": "thumb.jpg",
-    "images": [
-        "img1.jpg"
-    ],
-    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
-    "repivot": true
+    "titleB64":  "TGFkZGVyVmFyaWFudA==",
+    "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgbGFkZGVyIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRmFjdG9yeSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgVGhvbWFzX0Nyb3plbG9uLiBJdCBpcyBzdWl0ZWQgZm9yIGluZHVzdHJpYWwgc2NlbmVzLCBzZXJ2aWNlIGFyZWFzLCB1dGlsaXR5IHNwYWNlcyBhbmQgZW52aXJvbm1lbnQgZHJlc3NpbmcgaW4gcmVhbC10aW1lIHByb2plY3RzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIDRLIG1hcHMu",
+    "tags":  "ladder,access,utility,game_ready,unity,variant",
+    "version":  1,
+    "appMajorVersion":  2,
+    "repositoryURL":  "https://github.com/ITsMagic-Software/Package-LadderVariant2",
+    "isTemplate":  false,
+    "date":  "25/02/2026",
+    "thumbnail":  "thumb.jpg",
+    "images":  [
+                   "img1.jpg"
+               ],
+    "licenseB64":  "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
+    "repivot":  true
 }
