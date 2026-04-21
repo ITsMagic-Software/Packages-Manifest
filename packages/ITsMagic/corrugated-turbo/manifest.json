@@ -1,10 +1,10 @@
 {
-    "titleB64": "QSBXb29kZW5QYWxsZXQgTW9kZWw=",
+    "titleB64": "QSBDb3JydWdhdGVkVHVyYm8gTW9kZWw=",
     "descriptionB64": "TW9kdWxhciAzRCByb2FkIHBhY2sgYnVpbHQgZm9yIGNyZWF0aW5nIGNpdHkgZW52aXJvbm1lbnRzLiBJbmNsdWRlcyBzdHJhaWdodCwgY3VydmVkLCBhbmQgaW50ZXJzZWN0aW9uIHBpZWNlcyB3aXRoIHNlYW1sZXNzIGNvbm5lY3Rpb25zLiBJbmNsdWRlZCByb2FkIGJhcnJpZXJzLCBidXMgc3RvcCBhbmQgc3BlZWQgbGltaXQgc2luZy4gT3B0aW1pemVkIGZvciBwZXJmb3JtYW5jZSBpbiBVbml0eSwgVW5yZWFsLCBhbmQgQmxlbmRlci4gSWRlYWwgZm9yIGJ1aWxkaW5nIGN1c3RvbSBjaXR5IGxheW91dHMgaW4gZ2FtZXMsIHNpbXVsYXRpb25zLCBhbmQgdmlzdWFsaXphdGlvbnMuCgpUaGFua3MgZm9yIFZpc2l0aW5nLiBNYWtlIHN1cmUgeW91IGxpa2UgaXQu",
-    "tags": "3d,model,assets,props,woodenpallet",
+    "tags": "3d,model,assets,props,corrugatedturbo",
     "version": 1,
     "appMajorVersion": 2,
-    "repositoryURL": "https://github.com/ITsMagic-Software/Package-WoodenPallet",
+    "repositoryURL": "https://github.com/ITsMagic-Software/Package-CorrugatedTurbo",
     "isTemplate": false,
     "date": "20/04/2026",
     "thumbnail": "thumb.jpg",
