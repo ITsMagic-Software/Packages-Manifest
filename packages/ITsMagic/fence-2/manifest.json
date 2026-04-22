@@ -1,0 +1,16 @@
+{
+    "titleB64": "QSBGZW5jZSBNb2RlbA==",
+    "descriptionB64": "TW9kdWxhciAzRCByb2FkIHBhY2sgYnVpbHQgZm9yIGNyZWF0aW5nIGNpdHkgZW52aXJvbm1lbnRzLiBJbmNsdWRlcyBzdHJhaWdodCwgY3VydmVkLCBhbmQgaW50ZXJzZWN0aW9uIHBpZWNlcyB3aXRoIHNlYW1sZXNzIGNvbm5lY3Rpb25zLiBJbmNsdWRlZCByb2FkIGJhcnJpZXJzLCBidXMgc3RvcCBhbmQgc3BlZWQgbGltaXQgc2luZy4gT3B0aW1pemVkIGZvciBwZXJmb3JtYW5jZSBpbiBVbml0eSwgVW5yZWFsLCBhbmQgQmxlbmRlci4gSWRlYWwgZm9yIGJ1aWxkaW5nIGN1c3RvbSBjaXR5IGxheW91dHMgaW4gZ2FtZXMsIHNpbXVsYXRpb25zLCBhbmQgdmlzdWFsaXphdGlvbnMuCgpUaGFua3MgZm9yIFZpc2l0aW5nLiBNYWtlIHN1cmUgeW91IGxpa2UgaXQu",
+    "tags": "3d,model,assets,props,fence",
+    "version": 1,
+    "appMajorVersion": 2,
+    "repositoryURL": "https://github.com/ITsMagic-Software/Package-Fence2",
+    "isTemplate": false,
+    "date": "22/04/2026",
+    "thumbnail": "thumb.jpg",
+    "images": [
+        "img1.jpg"
+    ],
+    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9tb2R1bGFyLWNpdHktcm9hZC1wYWNrLWdhbWUtcmVhZHktZDlkZjVjZmEwNzlmNGRhOGExOGVmMTM3MmMwMGQwMWM=",
+    "repivot": true
+}
