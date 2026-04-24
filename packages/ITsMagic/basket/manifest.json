@@ -1,0 +1,16 @@
+{
+    "titleB64": "QSBCYXNrZXQgTW9kZWw=",
+    "descriptionB64": "UHJvcHMgZm9yIGEgc21hbGwgbm9yc2UgYWdlIGZhcm1zdGVhZC4gVGV4dHVyZXMgYXJlIGEgdmFyaWV0eSBvZiBoYW5kLW1hZGUgYW5kIHF1aXhlbCBtYXRlcmlhbHMu",
+    "tags": "3d,model,assets,props,basket",
+    "version": 1,
+    "appMajorVersion": 2,
+    "repositoryURL": "https://github.com/ITsMagic-Software/Package-Basket",
+    "isTemplate": false,
+    "date": "23/04/2026",
+    "thumbnail": "thumb.jpg",
+    "images": [
+        "img1.jpg"
+    ],
+    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9ub3JzZS1mYXJtc3RlYWQtcHJvcHMtNWI4NjkzMGUxMTgwNDE2NGI1YzAzZDBkNjZlNWIzODk=",
+    "repivot": true
+}
