@@ -364,6 +364,24 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "QSBCYXJyZWxOb3JzZSBNb2RlbA==",
+      "descriptionB64": "UHJvcHMgZm9yIGEgc21hbGwgbm9yc2UgYWdlIGZhcm1zdGVhZC4gVGV4dHVyZXMgYXJlIGEgdmFyaWV0eSBvZiBoYW5kLW1hZGUgYW5kIHF1aXhlbCBtYXRlcmlhbHMu",
+      "tags": "3d,model,assets,props,barrelnorse",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-BarrelNorse",
+      "isTemplate": false,
+      "date": "23/04/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/barrel-norse/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/barrel-norse/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9ub3JzZS1mYXJtc3RlYWQtcHJvcHMtNWI4NjkzMGUxMTgwNDE2NGI1YzAzZDBkNjZlNWIzODk=",
+      "repivot": true,
+      "id": "76f30538-17e7-4d24-9b0f-233e9952912c",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "QmFycmVsVmFyaWFudA==",
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgYmFycmVsIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiTWVkaWV2YWwgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IERhbmllbCBWaWNlbnRlLiBJdCBmaXRzIG1vZHVsYXIgbWVkaWV2YWwgY2l0eSBzY2VuZXMsIHZpbGxhZ2UgZW52aXJvbm1lbnRzLCBjb3VydHlhcmRzIGFuZCBoaXN0b3JpY2FsIHNldCBkcmVzc2luZy4=",
       "tags": "barrel,container,storage,industrial,medieval,game_ready,variant",
@@ -397,6 +415,60 @@
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9tb2R1bGFyLWNpdHktcm9hZC1wYWNrLWdhbWUtcmVhZHktZDlkZjVjZmEwNzlmNGRhOGExOGVmMTM3MmMwMGQwMWM=",
       "repivot": true,
       "id": "d88ad11e-39c9-4517-8bd7-378a8156df9d",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QSBCYXNrZXQgTW9kZWw=",
+      "descriptionB64": "UHJvcHMgZm9yIGEgc21hbGwgbm9yc2UgYWdlIGZhcm1zdGVhZC4gVGV4dHVyZXMgYXJlIGEgdmFyaWV0eSBvZiBoYW5kLW1hZGUgYW5kIHF1aXhlbCBtYXRlcmlhbHMu",
+      "tags": "3d,model,assets,props,basket",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Basket",
+      "isTemplate": false,
+      "date": "23/04/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/basket/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/basket/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9ub3JzZS1mYXJtc3RlYWQtcHJvcHMtNWI4NjkzMGUxMTgwNDE2NGI1YzAzZDBkNjZlNWIzODk=",
+      "repivot": true,
+      "id": "000518db-4992-43aa-879c-446770be6eb1",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QSBCYXNrZXQgTW9kZWw=",
+      "descriptionB64": "UHJvcHMgZm9yIGEgc21hbGwgbm9yc2UgYWdlIGZhcm1zdGVhZC4gVGV4dHVyZXMgYXJlIGEgdmFyaWV0eSBvZiBoYW5kLW1hZGUgYW5kIHF1aXhlbCBtYXRlcmlhbHMu",
+      "tags": "3d,model,assets,props,basket",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Basket2",
+      "isTemplate": false,
+      "date": "23/04/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/basket-2/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/basket-2/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9ub3JzZS1mYXJtc3RlYWQtcHJvcHMtNWI4NjkzMGUxMTgwNDE2NGI1YzAzZDBkNjZlNWIzODk=",
+      "repivot": true,
+      "id": "1a506238-d667-486f-aefd-8c8ee632f735",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QSBCYXNrZXQgTW9kZWw=",
+      "descriptionB64": "UHJvcHMgZm9yIGEgc21hbGwgbm9yc2UgYWdlIGZhcm1zdGVhZC4gVGV4dHVyZXMgYXJlIGEgdmFyaWV0eSBvZiBoYW5kLW1hZGUgYW5kIHF1aXhlbCBtYXRlcmlhbHMu",
+      "tags": "3d,model,assets,props,basket",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Basket3",
+      "isTemplate": false,
+      "date": "23/04/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/basket-3/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/basket-3/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9ub3JzZS1mYXJtc3RlYWQtcHJvcHMtNWI4NjkzMGUxMTgwNDE2NGI1YzAzZDBkNjZlNWIzODk=",
+      "repivot": true,
+      "id": "723c1a91-7825-46e8-a848-d2046e7a1c70",
       "userName": "ITsMagic"
     },
     {
@@ -600,6 +672,42 @@
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9tZWRpZXZhbC1wcm9wcy1lNjk3NzdmYTQ3MjQ0NDM0YjMzNzQ4OGI5N2NlY2QwZQ==",
       "repivot": true,
       "id": "4badf991-0740-4195-870a-5ccf44d5a701",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QSBCdWNrZXRWYXJpYW50IE1vZGVs",
+      "descriptionB64": "UHJvcHMgZm9yIGEgc21hbGwgbm9yc2UgYWdlIGZhcm1zdGVhZC4gVGV4dHVyZXMgYXJlIGEgdmFyaWV0eSBvZiBoYW5kLW1hZGUgYW5kIHF1aXhlbCBtYXRlcmlhbHMu",
+      "tags": "3d,model,assets,props,bucketvariant",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Bucket2Variant",
+      "isTemplate": false,
+      "date": "23/04/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/bucket-2variant/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/bucket-2variant/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9ub3JzZS1mYXJtc3RlYWQtcHJvcHMtNWI4NjkzMGUxMTgwNDE2NGI1YzAzZDBkNjZlNWIzODk=",
+      "repivot": true,
+      "id": "8449aaed-34e0-4100-8dc0-1ea6c2766143",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QSBCdWNrZXRWYXJpYW50IE1vZGVs",
+      "descriptionB64": "UHJvcHMgZm9yIGEgc21hbGwgbm9yc2UgYWdlIGZhcm1zdGVhZC4gVGV4dHVyZXMgYXJlIGEgdmFyaWV0eSBvZiBoYW5kLW1hZGUgYW5kIHF1aXhlbCBtYXRlcmlhbHMu",
+      "tags": "3d,model,assets,props,bucketvariant",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-BucketVariant",
+      "isTemplate": false,
+      "date": "23/04/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/bucket-variant/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/bucket-variant/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9ub3JzZS1mYXJtc3RlYWQtcHJvcHMtNWI4NjkzMGUxMTgwNDE2NGI1YzAzZDBkNjZlNWIzODk=",
+      "repivot": true,
+      "id": "054b4ffb-e09c-443c-80cd-ce969c70c930",
       "userName": "ITsMagic"
     },
     {
@@ -1180,6 +1288,276 @@
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
       "repivot": true,
       "id": "33e67ff8-f87c-4b8e-bee2-82ef7480b42c",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QSBGZW5jZSBNb2RlbA==",
+      "descriptionB64": "Tm9BSTogVGhpcyBtb2RlbCBtYXkgbm90IGJlIHVzZWQgaW4gZGF0YXNldHMgZm9yLCBpbiB0aGUgZGV2ZWxvcG1lbnQgb2YsIG9yIGFzIGlucHV0cyB0byBnZW5lcmF0aXZlIEFJIHByb2dyYW1zCgpNb2R1bGFyIHVyYmFuIGZlbmNlIHBhY2suIFRoaXMgaW5kdXN0cmlhbCB1cmJhbiBmZW5jZSBpbmNsdWRlcyAxMCB0ZXh0dXJlcyB3aXRoIHZhcmlvdXMgZ3JhZmZpdGkgb3B0aW9ucy4gVGhlIGdhdGUgaXMgbW9kZWxlZCB0byBvcGVuIGFuZCBjbG9zZS4gVGhlcmUgYXJlIHR3byBwb3N0IHRleHRpcmUgb3B0aW9ucyAod29vZCBhbmQgY29uY3JldGUpIHdoaWNoIGNhbiBiZSBwbGFjZWQgaW4gYmV0d2VlbiB0aGUgZmVuY2Ugc2VjdGlvbnMuIFRoaXMgbW9kdWxhciBmZW5jZSBjYW4gYmUgY3VzdG9tIHBvc2l0aW9uZWQgdG8gZml0IHlvdXIgcHJvamVjdC4gUGVyZmVjdCBmZW5jZSBwcm9wIHRvIGFkZCB0byB5b3VyIHVyYmFuIHByb2plY3QuCgpUaGlzIGlzIGEgbG93LXBvbHksIGdhbWUgcmVhZHkgYXNzZXQu",
+      "tags": "3d,model,assets,props,fence",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Fence",
+      "isTemplate": false,
+      "date": "22/04/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fence/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fence/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9tb2R1bGFyLXVyYmFuLWZlbmNlLXBhY2stdy1ncmFmZml0aS10ZXh0dXJlcy0xY2YzNjkwMzI3YmQ0NDk4ODFiYTY4NTdkOGZlN2NhZg==",
+      "repivot": true,
+      "id": "c027394f-7c94-45cf-acf7-210027d2ee5e",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QSBGZW5jZSBNb2RlbA==",
+      "descriptionB64": "Tm9BSTogVGhpcyBtb2RlbCBtYXkgbm90IGJlIHVzZWQgaW4gZGF0YXNldHMgZm9yLCBpbiB0aGUgZGV2ZWxvcG1lbnQgb2YsIG9yIGFzIGlucHV0cyB0byBnZW5lcmF0aXZlIEFJIHByb2dyYW1zCgpNb2R1bGFyIHVyYmFuIGZlbmNlIHBhY2suIFRoaXMgaW5kdXN0cmlhbCB1cmJhbiBmZW5jZSBpbmNsdWRlcyAxMCB0ZXh0dXJlcyB3aXRoIHZhcmlvdXMgZ3JhZmZpdGkgb3B0aW9ucy4gVGhlIGdhdGUgaXMgbW9kZWxlZCB0byBvcGVuIGFuZCBjbG9zZS4gVGhlcmUgYXJlIHR3byBwb3N0IHRleHRpcmUgb3B0aW9ucyAod29vZCBhbmQgY29uY3JldGUpIHdoaWNoIGNhbiBiZSBwbGFjZWQgaW4gYmV0d2VlbiB0aGUgZmVuY2Ugc2VjdGlvbnMuIFRoaXMgbW9kdWxhciBmZW5jZSBjYW4gYmUgY3VzdG9tIHBvc2l0aW9uZWQgdG8gZml0IHlvdXIgcHJvamVjdC4gUGVyZmVjdCBmZW5jZSBwcm9wIHRvIGFkZCB0byB5b3VyIHVyYmFuIHByb2plY3QuCgpUaGlzIGlzIGEgbG93LXBvbHksIGdhbWUgcmVhZHkgYXNzZXQu",
+      "tags": "3d,model,assets,props,fence",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Fence10",
+      "isTemplate": false,
+      "date": "22/04/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fence-10/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fence-10/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9tb2R1bGFyLXVyYmFuLWZlbmNlLXBhY2stdy1ncmFmZml0aS10ZXh0dXJlcy0xY2YzNjkwMzI3YmQ0NDk4ODFiYTY4NTdkOGZlN2NhZg==",
+      "repivot": true,
+      "id": "3cb9d12f-350d-4faf-b901-6f1900af83ea",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QSBGZW5jZSBNb2RlbA==",
+      "descriptionB64": "Tm9BSTogVGhpcyBtb2RlbCBtYXkgbm90IGJlIHVzZWQgaW4gZGF0YXNldHMgZm9yLCBpbiB0aGUgZGV2ZWxvcG1lbnQgb2YsIG9yIGFzIGlucHV0cyB0byBnZW5lcmF0aXZlIEFJIHByb2dyYW1zCgpNb2R1bGFyIHVyYmFuIGZlbmNlIHBhY2suIFRoaXMgaW5kdXN0cmlhbCB1cmJhbiBmZW5jZSBpbmNsdWRlcyAxMCB0ZXh0dXJlcyB3aXRoIHZhcmlvdXMgZ3JhZmZpdGkgb3B0aW9ucy4gVGhlIGdhdGUgaXMgbW9kZWxlZCB0byBvcGVuIGFuZCBjbG9zZS4gVGhlcmUgYXJlIHR3byBwb3N0IHRleHRpcmUgb3B0aW9ucyAod29vZCBhbmQgY29uY3JldGUpIHdoaWNoIGNhbiBiZSBwbGFjZWQgaW4gYmV0d2VlbiB0aGUgZmVuY2Ugc2VjdGlvbnMuIFRoaXMgbW9kdWxhciBmZW5jZSBjYW4gYmUgY3VzdG9tIHBvc2l0aW9uZWQgdG8gZml0IHlvdXIgcHJvamVjdC4gUGVyZmVjdCBmZW5jZSBwcm9wIHRvIGFkZCB0byB5b3VyIHVyYmFuIHByb2plY3QuCgpUaGlzIGlzIGEgbG93LXBvbHksIGdhbWUgcmVhZHkgYXNzZXQu",
+      "tags": "3d,model,assets,props,fence",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Fence11",
+      "isTemplate": false,
+      "date": "22/04/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fence-11/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fence-11/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9tb2R1bGFyLXVyYmFuLWZlbmNlLXBhY2stdy1ncmFmZml0aS10ZXh0dXJlcy0xY2YzNjkwMzI3YmQ0NDk4ODFiYTY4NTdkOGZlN2NhZg==",
+      "repivot": true,
+      "id": "c61e8884-743d-4c5f-bfe6-bfa39a3427d6",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QSBGZW5jZSBNb2RlbA==",
+      "descriptionB64": "Tm9BSTogVGhpcyBtb2RlbCBtYXkgbm90IGJlIHVzZWQgaW4gZGF0YXNldHMgZm9yLCBpbiB0aGUgZGV2ZWxvcG1lbnQgb2YsIG9yIGFzIGlucHV0cyB0byBnZW5lcmF0aXZlIEFJIHByb2dyYW1zCgpNb2R1bGFyIHVyYmFuIGZlbmNlIHBhY2suIFRoaXMgaW5kdXN0cmlhbCB1cmJhbiBmZW5jZSBpbmNsdWRlcyAxMCB0ZXh0dXJlcyB3aXRoIHZhcmlvdXMgZ3JhZmZpdGkgb3B0aW9ucy4gVGhlIGdhdGUgaXMgbW9kZWxlZCB0byBvcGVuIGFuZCBjbG9zZS4gVGhlcmUgYXJlIHR3byBwb3N0IHRleHRpcmUgb3B0aW9ucyAod29vZCBhbmQgY29uY3JldGUpIHdoaWNoIGNhbiBiZSBwbGFjZWQgaW4gYmV0d2VlbiB0aGUgZmVuY2Ugc2VjdGlvbnMuIFRoaXMgbW9kdWxhciBmZW5jZSBjYW4gYmUgY3VzdG9tIHBvc2l0aW9uZWQgdG8gZml0IHlvdXIgcHJvamVjdC4gUGVyZmVjdCBmZW5jZSBwcm9wIHRvIGFkZCB0byB5b3VyIHVyYmFuIHByb2plY3QuCgpUaGlzIGlzIGEgbG93LXBvbHksIGdhbWUgcmVhZHkgYXNzZXQu",
+      "tags": "3d,model,assets,props,fence",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Fence2",
+      "isTemplate": false,
+      "date": "22/04/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fence-2/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fence-2/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9tb2R1bGFyLXVyYmFuLWZlbmNlLXBhY2stdy1ncmFmZml0aS10ZXh0dXJlcy0xY2YzNjkwMzI3YmQ0NDk4ODFiYTY4NTdkOGZlN2NhZg==",
+      "repivot": true,
+      "id": "dafdea61-958c-445b-bd50-45b0589fbf3e",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QSBGZW5jZVZhcmlhbnQgTW9kZWw=",
+      "descriptionB64": "UHJvcHMgZm9yIGEgc21hbGwgbm9yc2UgYWdlIGZhcm1zdGVhZC4gVGV4dHVyZXMgYXJlIGEgdmFyaWV0eSBvZiBoYW5kLW1hZGUgYW5kIHF1aXhlbCBtYXRlcmlhbHMu",
+      "tags": "3d,model,assets,props,fencevariant",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Fence2Variant",
+      "isTemplate": false,
+      "date": "23/04/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fence-2variant/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fence-2variant/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9ub3JzZS1mYXJtc3RlYWQtcHJvcHMtNWI4NjkzMGUxMTgwNDE2NGI1YzAzZDBkNjZlNWIzODk=",
+      "repivot": true,
+      "id": "7d854603-0cb9-4145-897c-bf5389d8bc59",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QSBGZW5jZSBNb2RlbA==",
+      "descriptionB64": "Tm9BSTogVGhpcyBtb2RlbCBtYXkgbm90IGJlIHVzZWQgaW4gZGF0YXNldHMgZm9yLCBpbiB0aGUgZGV2ZWxvcG1lbnQgb2YsIG9yIGFzIGlucHV0cyB0byBnZW5lcmF0aXZlIEFJIHByb2dyYW1zCgpNb2R1bGFyIHVyYmFuIGZlbmNlIHBhY2suIFRoaXMgaW5kdXN0cmlhbCB1cmJhbiBmZW5jZSBpbmNsdWRlcyAxMCB0ZXh0dXJlcyB3aXRoIHZhcmlvdXMgZ3JhZmZpdGkgb3B0aW9ucy4gVGhlIGdhdGUgaXMgbW9kZWxlZCB0byBvcGVuIGFuZCBjbG9zZS4gVGhlcmUgYXJlIHR3byBwb3N0IHRleHRpcmUgb3B0aW9ucyAod29vZCBhbmQgY29uY3JldGUpIHdoaWNoIGNhbiBiZSBwbGFjZWQgaW4gYmV0d2VlbiB0aGUgZmVuY2Ugc2VjdGlvbnMuIFRoaXMgbW9kdWxhciBmZW5jZSBjYW4gYmUgY3VzdG9tIHBvc2l0aW9uZWQgdG8gZml0IHlvdXIgcHJvamVjdC4gUGVyZmVjdCBmZW5jZSBwcm9wIHRvIGFkZCB0byB5b3VyIHVyYmFuIHByb2plY3QuCgpUaGlzIGlzIGEgbG93LXBvbHksIGdhbWUgcmVhZHkgYXNzZXQu",
+      "tags": "3d,model,assets,props,fence",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Fence3",
+      "isTemplate": false,
+      "date": "22/04/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fence-3/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fence-3/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9tb2R1bGFyLXVyYmFuLWZlbmNlLXBhY2stdy1ncmFmZml0aS10ZXh0dXJlcy0xY2YzNjkwMzI3YmQ0NDk4ODFiYTY4NTdkOGZlN2NhZg==",
+      "repivot": true,
+      "id": "120cc363-b9bf-4dc7-b2c0-8a0006c99733",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QSBGZW5jZVZhcmlhbnQgTW9kZWw=",
+      "descriptionB64": "UHJvcHMgZm9yIGEgc21hbGwgbm9yc2UgYWdlIGZhcm1zdGVhZC4gVGV4dHVyZXMgYXJlIGEgdmFyaWV0eSBvZiBoYW5kLW1hZGUgYW5kIHF1aXhlbCBtYXRlcmlhbHMu",
+      "tags": "3d,model,assets,props,fencevariant",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Fence3Variant",
+      "isTemplate": false,
+      "date": "23/04/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fence-3variant/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fence-3variant/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9ub3JzZS1mYXJtc3RlYWQtcHJvcHMtNWI4NjkzMGUxMTgwNDE2NGI1YzAzZDBkNjZlNWIzODk=",
+      "repivot": true,
+      "id": "7920dd4b-1d28-4b07-9d44-5c965dfdffca",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QSBGZW5jZSBNb2RlbA==",
+      "descriptionB64": "Tm9BSTogVGhpcyBtb2RlbCBtYXkgbm90IGJlIHVzZWQgaW4gZGF0YXNldHMgZm9yLCBpbiB0aGUgZGV2ZWxvcG1lbnQgb2YsIG9yIGFzIGlucHV0cyB0byBnZW5lcmF0aXZlIEFJIHByb2dyYW1zCgpNb2R1bGFyIHVyYmFuIGZlbmNlIHBhY2suIFRoaXMgaW5kdXN0cmlhbCB1cmJhbiBmZW5jZSBpbmNsdWRlcyAxMCB0ZXh0dXJlcyB3aXRoIHZhcmlvdXMgZ3JhZmZpdGkgb3B0aW9ucy4gVGhlIGdhdGUgaXMgbW9kZWxlZCB0byBvcGVuIGFuZCBjbG9zZS4gVGhlcmUgYXJlIHR3byBwb3N0IHRleHRpcmUgb3B0aW9ucyAod29vZCBhbmQgY29uY3JldGUpIHdoaWNoIGNhbiBiZSBwbGFjZWQgaW4gYmV0d2VlbiB0aGUgZmVuY2Ugc2VjdGlvbnMuIFRoaXMgbW9kdWxhciBmZW5jZSBjYW4gYmUgY3VzdG9tIHBvc2l0aW9uZWQgdG8gZml0IHlvdXIgcHJvamVjdC4gUGVyZmVjdCBmZW5jZSBwcm9wIHRvIGFkZCB0byB5b3VyIHVyYmFuIHByb2plY3QuCgpUaGlzIGlzIGEgbG93LXBvbHksIGdhbWUgcmVhZHkgYXNzZXQu",
+      "tags": "3d,model,assets,props,fence",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Fence4",
+      "isTemplate": false,
+      "date": "22/04/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fence-4/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fence-4/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9tb2R1bGFyLXVyYmFuLWZlbmNlLXBhY2stdy1ncmFmZml0aS10ZXh0dXJlcy0xY2YzNjkwMzI3YmQ0NDk4ODFiYTY4NTdkOGZlN2NhZg==",
+      "repivot": true,
+      "id": "bb018e99-69be-44f5-878a-7c6b48cc0c78",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QSBGZW5jZVZhcmlhbnQgTW9kZWw=",
+      "descriptionB64": "UHJvcHMgZm9yIGEgc21hbGwgbm9yc2UgYWdlIGZhcm1zdGVhZC4gVGV4dHVyZXMgYXJlIGEgdmFyaWV0eSBvZiBoYW5kLW1hZGUgYW5kIHF1aXhlbCBtYXRlcmlhbHMu",
+      "tags": "3d,model,assets,props,fencevariant",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Fence4Variant",
+      "isTemplate": false,
+      "date": "23/04/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fence-4variant/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fence-4variant/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9ub3JzZS1mYXJtc3RlYWQtcHJvcHMtNWI4NjkzMGUxMTgwNDE2NGI1YzAzZDBkNjZlNWIzODk=",
+      "repivot": true,
+      "id": "e222258f-cbe1-4ff8-aa10-9a5a750d621c",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QSBGZW5jZSBNb2RlbA==",
+      "descriptionB64": "Tm9BSTogVGhpcyBtb2RlbCBtYXkgbm90IGJlIHVzZWQgaW4gZGF0YXNldHMgZm9yLCBpbiB0aGUgZGV2ZWxvcG1lbnQgb2YsIG9yIGFzIGlucHV0cyB0byBnZW5lcmF0aXZlIEFJIHByb2dyYW1zCgpNb2R1bGFyIHVyYmFuIGZlbmNlIHBhY2suIFRoaXMgaW5kdXN0cmlhbCB1cmJhbiBmZW5jZSBpbmNsdWRlcyAxMCB0ZXh0dXJlcyB3aXRoIHZhcmlvdXMgZ3JhZmZpdGkgb3B0aW9ucy4gVGhlIGdhdGUgaXMgbW9kZWxlZCB0byBvcGVuIGFuZCBjbG9zZS4gVGhlcmUgYXJlIHR3byBwb3N0IHRleHRpcmUgb3B0aW9ucyAod29vZCBhbmQgY29uY3JldGUpIHdoaWNoIGNhbiBiZSBwbGFjZWQgaW4gYmV0d2VlbiB0aGUgZmVuY2Ugc2VjdGlvbnMuIFRoaXMgbW9kdWxhciBmZW5jZSBjYW4gYmUgY3VzdG9tIHBvc2l0aW9uZWQgdG8gZml0IHlvdXIgcHJvamVjdC4gUGVyZmVjdCBmZW5jZSBwcm9wIHRvIGFkZCB0byB5b3VyIHVyYmFuIHByb2plY3QuCgpUaGlzIGlzIGEgbG93LXBvbHksIGdhbWUgcmVhZHkgYXNzZXQu",
+      "tags": "3d,model,assets,props,fence",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Fence5",
+      "isTemplate": false,
+      "date": "22/04/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fence-5/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fence-5/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9tb2R1bGFyLXVyYmFuLWZlbmNlLXBhY2stdy1ncmFmZml0aS10ZXh0dXJlcy0xY2YzNjkwMzI3YmQ0NDk4ODFiYTY4NTdkOGZlN2NhZg==",
+      "repivot": true,
+      "id": "fff54f1b-09a2-403b-a2c9-594a375f5152",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QSBGZW5jZSBNb2RlbA==",
+      "descriptionB64": "Tm9BSTogVGhpcyBtb2RlbCBtYXkgbm90IGJlIHVzZWQgaW4gZGF0YXNldHMgZm9yLCBpbiB0aGUgZGV2ZWxvcG1lbnQgb2YsIG9yIGFzIGlucHV0cyB0byBnZW5lcmF0aXZlIEFJIHByb2dyYW1zCgpNb2R1bGFyIHVyYmFuIGZlbmNlIHBhY2suIFRoaXMgaW5kdXN0cmlhbCB1cmJhbiBmZW5jZSBpbmNsdWRlcyAxMCB0ZXh0dXJlcyB3aXRoIHZhcmlvdXMgZ3JhZmZpdGkgb3B0aW9ucy4gVGhlIGdhdGUgaXMgbW9kZWxlZCB0byBvcGVuIGFuZCBjbG9zZS4gVGhlcmUgYXJlIHR3byBwb3N0IHRleHRpcmUgb3B0aW9ucyAod29vZCBhbmQgY29uY3JldGUpIHdoaWNoIGNhbiBiZSBwbGFjZWQgaW4gYmV0d2VlbiB0aGUgZmVuY2Ugc2VjdGlvbnMuIFRoaXMgbW9kdWxhciBmZW5jZSBjYW4gYmUgY3VzdG9tIHBvc2l0aW9uZWQgdG8gZml0IHlvdXIgcHJvamVjdC4gUGVyZmVjdCBmZW5jZSBwcm9wIHRvIGFkZCB0byB5b3VyIHVyYmFuIHByb2plY3QuCgpUaGlzIGlzIGEgbG93LXBvbHksIGdhbWUgcmVhZHkgYXNzZXQu",
+      "tags": "3d,model,assets,props,fence",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Fence6",
+      "isTemplate": false,
+      "date": "22/04/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fence-6/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fence-6/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9tb2R1bGFyLXVyYmFuLWZlbmNlLXBhY2stdy1ncmFmZml0aS10ZXh0dXJlcy0xY2YzNjkwMzI3YmQ0NDk4ODFiYTY4NTdkOGZlN2NhZg==",
+      "repivot": true,
+      "id": "68b19df5-2afb-43d3-ba1d-9e8cf85ae631",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QSBGZW5jZSBNb2RlbA==",
+      "descriptionB64": "Tm9BSTogVGhpcyBtb2RlbCBtYXkgbm90IGJlIHVzZWQgaW4gZGF0YXNldHMgZm9yLCBpbiB0aGUgZGV2ZWxvcG1lbnQgb2YsIG9yIGFzIGlucHV0cyB0byBnZW5lcmF0aXZlIEFJIHByb2dyYW1zCgpNb2R1bGFyIHVyYmFuIGZlbmNlIHBhY2suIFRoaXMgaW5kdXN0cmlhbCB1cmJhbiBmZW5jZSBpbmNsdWRlcyAxMCB0ZXh0dXJlcyB3aXRoIHZhcmlvdXMgZ3JhZmZpdGkgb3B0aW9ucy4gVGhlIGdhdGUgaXMgbW9kZWxlZCB0byBvcGVuIGFuZCBjbG9zZS4gVGhlcmUgYXJlIHR3byBwb3N0IHRleHRpcmUgb3B0aW9ucyAod29vZCBhbmQgY29uY3JldGUpIHdoaWNoIGNhbiBiZSBwbGFjZWQgaW4gYmV0d2VlbiB0aGUgZmVuY2Ugc2VjdGlvbnMuIFRoaXMgbW9kdWxhciBmZW5jZSBjYW4gYmUgY3VzdG9tIHBvc2l0aW9uZWQgdG8gZml0IHlvdXIgcHJvamVjdC4gUGVyZmVjdCBmZW5jZSBwcm9wIHRvIGFkZCB0byB5b3VyIHVyYmFuIHByb2plY3QuCgpUaGlzIGlzIGEgbG93LXBvbHksIGdhbWUgcmVhZHkgYXNzZXQu",
+      "tags": "3d,model,assets,props,fence",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Fence7",
+      "isTemplate": false,
+      "date": "22/04/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fence-7/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fence-7/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9tb2R1bGFyLXVyYmFuLWZlbmNlLXBhY2stdy1ncmFmZml0aS10ZXh0dXJlcy0xY2YzNjkwMzI3YmQ0NDk4ODFiYTY4NTdkOGZlN2NhZg==",
+      "repivot": true,
+      "id": "7c712355-1518-454e-b903-05bbab2449ea",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QSBGZW5jZSBNb2RlbA==",
+      "descriptionB64": "Tm9BSTogVGhpcyBtb2RlbCBtYXkgbm90IGJlIHVzZWQgaW4gZGF0YXNldHMgZm9yLCBpbiB0aGUgZGV2ZWxvcG1lbnQgb2YsIG9yIGFzIGlucHV0cyB0byBnZW5lcmF0aXZlIEFJIHByb2dyYW1zCgpNb2R1bGFyIHVyYmFuIGZlbmNlIHBhY2suIFRoaXMgaW5kdXN0cmlhbCB1cmJhbiBmZW5jZSBpbmNsdWRlcyAxMCB0ZXh0dXJlcyB3aXRoIHZhcmlvdXMgZ3JhZmZpdGkgb3B0aW9ucy4gVGhlIGdhdGUgaXMgbW9kZWxlZCB0byBvcGVuIGFuZCBjbG9zZS4gVGhlcmUgYXJlIHR3byBwb3N0IHRleHRpcmUgb3B0aW9ucyAod29vZCBhbmQgY29uY3JldGUpIHdoaWNoIGNhbiBiZSBwbGFjZWQgaW4gYmV0d2VlbiB0aGUgZmVuY2Ugc2VjdGlvbnMuIFRoaXMgbW9kdWxhciBmZW5jZSBjYW4gYmUgY3VzdG9tIHBvc2l0aW9uZWQgdG8gZml0IHlvdXIgcHJvamVjdC4gUGVyZmVjdCBmZW5jZSBwcm9wIHRvIGFkZCB0byB5b3VyIHVyYmFuIHByb2plY3QuCgpUaGlzIGlzIGEgbG93LXBvbHksIGdhbWUgcmVhZHkgYXNzZXQu",
+      "tags": "3d,model,assets,props,fence",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Fence8",
+      "isTemplate": false,
+      "date": "22/04/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fence-8/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fence-8/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9tb2R1bGFyLXVyYmFuLWZlbmNlLXBhY2stdy1ncmFmZml0aS10ZXh0dXJlcy0xY2YzNjkwMzI3YmQ0NDk4ODFiYTY4NTdkOGZlN2NhZg==",
+      "repivot": true,
+      "id": "abb9d811-0f38-4de8-8a22-19bcd49c20c8",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QSBGZW5jZSBNb2RlbA==",
+      "descriptionB64": "Tm9BSTogVGhpcyBtb2RlbCBtYXkgbm90IGJlIHVzZWQgaW4gZGF0YXNldHMgZm9yLCBpbiB0aGUgZGV2ZWxvcG1lbnQgb2YsIG9yIGFzIGlucHV0cyB0byBnZW5lcmF0aXZlIEFJIHByb2dyYW1zCgpNb2R1bGFyIHVyYmFuIGZlbmNlIHBhY2suIFRoaXMgaW5kdXN0cmlhbCB1cmJhbiBmZW5jZSBpbmNsdWRlcyAxMCB0ZXh0dXJlcyB3aXRoIHZhcmlvdXMgZ3JhZmZpdGkgb3B0aW9ucy4gVGhlIGdhdGUgaXMgbW9kZWxlZCB0byBvcGVuIGFuZCBjbG9zZS4gVGhlcmUgYXJlIHR3byBwb3N0IHRleHRpcmUgb3B0aW9ucyAod29vZCBhbmQgY29uY3JldGUpIHdoaWNoIGNhbiBiZSBwbGFjZWQgaW4gYmV0d2VlbiB0aGUgZmVuY2Ugc2VjdGlvbnMuIFRoaXMgbW9kdWxhciBmZW5jZSBjYW4gYmUgY3VzdG9tIHBvc2l0aW9uZWQgdG8gZml0IHlvdXIgcHJvamVjdC4gUGVyZmVjdCBmZW5jZSBwcm9wIHRvIGFkZCB0byB5b3VyIHVyYmFuIHByb2plY3QuCgpUaGlzIGlzIGEgbG93LXBvbHksIGdhbWUgcmVhZHkgYXNzZXQu",
+      "tags": "3d,model,assets,props,fence",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Fence9",
+      "isTemplate": false,
+      "date": "22/04/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fence-9/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fence-9/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9tb2R1bGFyLXVyYmFuLWZlbmNlLXBhY2stdy1ncmFmZml0aS10ZXh0dXJlcy0xY2YzNjkwMzI3YmQ0NDk4ODFiYTY4NTdkOGZlN2NhZg==",
+      "repivot": true,
+      "id": "2e2e4b5a-6b92-4f22-a66a-780fcd2db59d",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QSBGZW5jZVZhcmlhbnQgTW9kZWw=",
+      "descriptionB64": "UHJvcHMgZm9yIGEgc21hbGwgbm9yc2UgYWdlIGZhcm1zdGVhZC4gVGV4dHVyZXMgYXJlIGEgdmFyaWV0eSBvZiBoYW5kLW1hZGUgYW5kIHF1aXhlbCBtYXRlcmlhbHMu",
+      "tags": "3d,model,assets,props,fencevariant",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-FenceVariant",
+      "isTemplate": false,
+      "date": "23/04/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fence-variant/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fence-variant/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9ub3JzZS1mYXJtc3RlYWQtcHJvcHMtNWI4NjkzMGUxMTgwNDE2NGI1YzAzZDBkNjZlNWIzODk=",
+      "repivot": true,
+      "id": "59e18946-b4f9-4e7f-88fb-3978a74f7e97",
       "userName": "ITsMagic"
     },
     {
@@ -1795,6 +2173,42 @@
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9zdHJlZXQtYXNzZXQtcGFjay1mM2ViNDdkMDJlMmU0YWIyOTBlNjY3NTJmYTM1NGI0OA==",
       "repivot": true,
       "id": "96b48290-6731-4a8c-a111-5352fce0e7c1",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QSBNZXRhbEJhclVyYmFuRmVuY2UgTW9kZWw=",
+      "descriptionB64": "Tm9BSTogVGhpcyBtb2RlbCBtYXkgbm90IGJlIHVzZWQgaW4gZGF0YXNldHMgZm9yLCBpbiB0aGUgZGV2ZWxvcG1lbnQgb2YsIG9yIGFzIGlucHV0cyB0byBnZW5lcmF0aXZlIEFJIHByb2dyYW1zCgpNb2R1bGFyIHVyYmFuIGZlbmNlIHBhY2suIFRoaXMgaW5kdXN0cmlhbCB1cmJhbiBmZW5jZSBpbmNsdWRlcyAxMCB0ZXh0dXJlcyB3aXRoIHZhcmlvdXMgZ3JhZmZpdGkgb3B0aW9ucy4gVGhlIGdhdGUgaXMgbW9kZWxlZCB0byBvcGVuIGFuZCBjbG9zZS4gVGhlcmUgYXJlIHR3byBwb3N0IHRleHRpcmUgb3B0aW9ucyAod29vZCBhbmQgY29uY3JldGUpIHdoaWNoIGNhbiBiZSBwbGFjZWQgaW4gYmV0d2VlbiB0aGUgZmVuY2Ugc2VjdGlvbnMuIFRoaXMgbW9kdWxhciBmZW5jZSBjYW4gYmUgY3VzdG9tIHBvc2l0aW9uZWQgdG8gZml0IHlvdXIgcHJvamVjdC4gUGVyZmVjdCBmZW5jZSBwcm9wIHRvIGFkZCB0byB5b3VyIHVyYmFuIHByb2plY3QuCgpUaGlzIGlzIGEgbG93LXBvbHksIGdhbWUgcmVhZHkgYXNzZXQu",
+      "tags": "3d,model,assets,props,metalbarurbanfence",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalBarUrbanFence",
+      "isTemplate": false,
+      "date": "22/04/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-bar-urban-fence/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-bar-urban-fence/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9tb2R1bGFyLXVyYmFuLWZlbmNlLXBhY2stdy1ncmFmZml0aS10ZXh0dXJlcy0xY2YzNjkwMzI3YmQ0NDk4ODFiYTY4NTdkOGZlN2NhZg==",
+      "repivot": true,
+      "id": "9200eba7-380a-4e92-97d7-59f5585297fc",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QSBNZXRhbEJhclVyYmFuRmVuY2UgTW9kZWw=",
+      "descriptionB64": "Tm9BSTogVGhpcyBtb2RlbCBtYXkgbm90IGJlIHVzZWQgaW4gZGF0YXNldHMgZm9yLCBpbiB0aGUgZGV2ZWxvcG1lbnQgb2YsIG9yIGFzIGlucHV0cyB0byBnZW5lcmF0aXZlIEFJIHByb2dyYW1zCgpNb2R1bGFyIHVyYmFuIGZlbmNlIHBhY2suIFRoaXMgaW5kdXN0cmlhbCB1cmJhbiBmZW5jZSBpbmNsdWRlcyAxMCB0ZXh0dXJlcyB3aXRoIHZhcmlvdXMgZ3JhZmZpdGkgb3B0aW9ucy4gVGhlIGdhdGUgaXMgbW9kZWxlZCB0byBvcGVuIGFuZCBjbG9zZS4gVGhlcmUgYXJlIHR3byBwb3N0IHRleHRpcmUgb3B0aW9ucyAod29vZCBhbmQgY29uY3JldGUpIHdoaWNoIGNhbiBiZSBwbGFjZWQgaW4gYmV0d2VlbiB0aGUgZmVuY2Ugc2VjdGlvbnMuIFRoaXMgbW9kdWxhciBmZW5jZSBjYW4gYmUgY3VzdG9tIHBvc2l0aW9uZWQgdG8gZml0IHlvdXIgcHJvamVjdC4gUGVyZmVjdCBmZW5jZSBwcm9wIHRvIGFkZCB0byB5b3VyIHVyYmFuIHByb2plY3QuCgpUaGlzIGlzIGEgbG93LXBvbHksIGdhbWUgcmVhZHkgYXNzZXQu",
+      "tags": "3d,model,assets,props,metalbarurbanfence",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalBarUrbanFence2",
+      "isTemplate": false,
+      "date": "22/04/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-bar-urban-fence-2/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-bar-urban-fence-2/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9tb2R1bGFyLXVyYmFuLWZlbmNlLXBhY2stdy1ncmFmZml0aS10ZXh0dXJlcy0xY2YzNjkwMzI3YmQ0NDk4ODFiYTY4NTdkOGZlN2NhZg==",
+      "repivot": true,
+      "id": "50460bd1-c848-46ba-9c4c-40b0f8bb0bcb",
       "userName": "ITsMagic"
     },
     {
@@ -2879,6 +3293,24 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "QSBTaGllbGQgTW9kZWw=",
+      "descriptionB64": "UHJvcHMgZm9yIGEgc21hbGwgbm9yc2UgYWdlIGZhcm1zdGVhZC4gVGV4dHVyZXMgYXJlIGEgdmFyaWV0eSBvZiBoYW5kLW1hZGUgYW5kIHF1aXhlbCBtYXRlcmlhbHMu",
+      "tags": "3d,model,assets,props,shield",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Shield",
+      "isTemplate": false,
+      "date": "23/04/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/shield/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/shield/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9ub3JzZS1mYXJtc3RlYWQtcHJvcHMtNWI4NjkzMGUxMTgwNDE2NGI1YzAzZDBkNjZlNWIzODk=",
+      "repivot": true,
+      "id": "99376817-9145-4a0a-ac12-9e46c5a031fc",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "U21hbGxUcmVl",
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBzbWFsbCB0cmVlIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiTWVkaWV2YWwgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IERhbmllbCBWaWNlbnRlLiBJdCBmaXRzIG1vZHVsYXIgbWVkaWV2YWwgY2l0eSBzY2VuZXMsIHZpbGxhZ2UgZW52aXJvbm1lbnRzLCBjb3VydHlhcmRzIGFuZCBoaXN0b3JpY2FsIHNldCBkcmVzc2luZy4=",
       "tags": "small_tree,tree,vegetation,nature,medieval,game_ready",
@@ -3604,6 +4036,24 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "QSBUcnVua1dpdGhBeCBNb2RlbA==",
+      "descriptionB64": "UHJvcHMgZm9yIGEgc21hbGwgbm9yc2UgYWdlIGZhcm1zdGVhZC4gVGV4dHVyZXMgYXJlIGEgdmFyaWV0eSBvZiBoYW5kLW1hZGUgYW5kIHF1aXhlbCBtYXRlcmlhbHMu",
+      "tags": "3d,model,assets,props,trunkwithax",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-TrunkWithAx",
+      "isTemplate": false,
+      "date": "23/04/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/trunk-with-ax/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/trunk-with-ax/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9ub3JzZS1mYXJtc3RlYWQtcHJvcHMtNWI4NjkzMGUxMTgwNDE2NGI1YzAzZDBkNjZlNWIzODk=",
+      "repivot": true,
+      "id": "99129df4-7ba2-454f-af9b-79926d1fd907",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "VmFzZQ==",
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSB2YXNlIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiTWVkaWV2YWwgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IERhbmllbCBWaWNlbnRlLiBJdCBmaXRzIG1vZHVsYXIgbWVkaWV2YWwgY2l0eSBzY2VuZXMsIHZpbGxhZ2UgZW52aXJvbm1lbnRzLCBjb3VydHlhcmRzIGFuZCBoaXN0b3JpY2FsIHNldCBkcmVzc2luZy4=",
       "tags": "vase,decor,interior,tabletop,medieval,game_ready",
@@ -3871,6 +4321,24 @@
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9tZWRpZXZhbC1wcm9wcy1lNjk3NzdmYTQ3MjQ0NDM0YjMzNzQ4OGI5N2NlY2QwZQ==",
       "repivot": true,
       "id": "b7ff27b6-249d-4bd7-abdb-9d9515f9a1cb",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QSBXb29kcyBNb2RlbA==",
+      "descriptionB64": "UHJvcHMgZm9yIGEgc21hbGwgbm9yc2UgYWdlIGZhcm1zdGVhZC4gVGV4dHVyZXMgYXJlIGEgdmFyaWV0eSBvZiBoYW5kLW1hZGUgYW5kIHF1aXhlbCBtYXRlcmlhbHMu",
+      "tags": "3d,model,assets,props,woods",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Woods",
+      "isTemplate": false,
+      "date": "23/04/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/woods/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/woods/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9ub3JzZS1mYXJtc3RlYWQtcHJvcHMtNWI4NjkzMGUxMTgwNDE2NGI1YzAzZDBkNjZlNWIzODk=",
+      "repivot": true,
+      "id": "42c7a772-c73d-46a1-ac26-f92798ad5619",
       "userName": "ITsMagic"
     },
     {
