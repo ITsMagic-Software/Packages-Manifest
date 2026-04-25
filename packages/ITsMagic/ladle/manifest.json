@@ -1,0 +1,16 @@
+{
+    "titleB64": "QSBMYWRsZSBNb2RlbA==",
+    "descriptionB64": "",
+    "tags": "3d,model,assets,props,ladle",
+    "version": 1,
+    "appMajorVersion": 2,
+    "repositoryURL": "https://github.com/ITsMagic-Software/Package-Ladle",
+    "isTemplate": false,
+    "date": "25/04/2026",
+    "thumbnail": "thumb.jpg",
+    "images": [
+        "img1.jpg"
+    ],
+    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9vc2N5cGtpLW1ha2VyLTUtcHJvcHMtZGFlLWFzc2lnbm1lbnQtNWQ0NDBmMGIyZTBiNDQwYjljOTg5NWUzMDZmMDQ3NzM=",
+    "repivot": true
+}
