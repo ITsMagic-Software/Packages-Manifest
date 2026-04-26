@@ -1,0 +1,16 @@
+{
+    "titleB64": "QSBCdWlsZGluZ1ZhcmlhbnQgTW9kZWw=",
+    "descriptionB64": "QnVpbGRpbmdzIExvdy1Qb2x5IG9wdGltaXplZCBmb3IgZ2FtZXMu",
+    "tags": "3d,model,assets,props,buildingvariant",
+    "version": 1,
+    "appMajorVersion": 2,
+    "repositoryURL": "https://github.com/ITsMagic-Software/Package-Building2Variant",
+    "isTemplate": false,
+    "date": "26/04/2026",
+    "thumbnail": "thumb.jpg",
+    "images": [
+        "img1.jpg"
+    ],
+    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy82LWJ1aWxkaW5ncy1sb3ctcG9seS1wYWNrLTItZTExNTg2ODQwZDVkNDNiOWFiYWU5YWIzNmRmMTQ5YzY=",
+    "repivot": true
+}
