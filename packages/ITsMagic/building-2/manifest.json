@@ -1,0 +1,16 @@
+{
+    "titleB64": "QSBCdWlsZGluZyBNb2RlbA==",
+    "descriptionB64": "bG93LXBvbHkgYnVpbGRpbmdzIG9wdGltaXplZCBmb3IgZ2FtZXMu",
+    "tags": "3d,model,assets,props,building",
+    "version": 1,
+    "appMajorVersion": 2,
+    "repositoryURL": "https://github.com/ITsMagic-Software/Package-Building2",
+    "isTemplate": false,
+    "date": "25/04/2026",
+    "thumbnail": "thumb.jpg",
+    "images": [
+        "img1.jpg"
+    ],
+    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy82LWJ1aWxkaW5ncy1sb3ctcG9seS1wYWNrLTEtZTA1N2I4YWQ2MWU1NDJhYzhiYWI0ODQ0NWU0Y2RlYjE=",
+    "repivot": true
+}
