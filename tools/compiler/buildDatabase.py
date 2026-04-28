@@ -5,6 +5,7 @@ import re
 import sys
 import base64
 import gzip
+import time
 import uuid
 from datetime import datetime, timezone
 from pathlib import Path
@@ -24,21 +25,38 @@ def _format_value(value: object) -> str:
         return repr(value)
 
 
+def _url_request_succeeds(url: str, method: str, timeout_seconds: float) -> bool:
+    request = url_request.Request(url, method=method)
+    with url_request.urlopen(request, timeout=timeout_seconds) as response:
+        return response.status < 400
+
+
 def _check_url_exists(url: str, timeout_seconds: float = 8.0) -> bool:
-    request = url_request.Request(url, method="HEAD")
-    try:
-        with url_request.urlopen(request, timeout=timeout_seconds) as response:
-            return response.status < 400
-    except url_error.HTTPError as exc:
-        if exc.code in {405, 501}:
+    # GitHub sometimes rejects HEAD or fails briefly under load, so we retry
+    # and fall back to GET before treating the repository as unreachable.
+    retryable_http_statuses = {429, 500, 502, 503, 504}
+    methods = ("HEAD", "GET")
+    attempts_per_method = 3
+    retry_delay_seconds = 0.5
+
+    for method in methods:
+        for attempt in range(attempts_per_method):
             try:
-                with url_request.urlopen(url, timeout=timeout_seconds) as response:
-                    return response.status < 400
-            except Exception:
+                return _url_request_succeeds(url, method, timeout_seconds)
+            except url_error.HTTPError as exc:
+                if method == "HEAD" and exc.code in {405, 501}:
+                    break
+                if exc.code in retryable_http_statuses and attempt + 1 < attempts_per_method:
+                    time.sleep(retry_delay_seconds * (attempt + 1))
+                    continue
                 return False
-        return False
-    except Exception:
-        return False
+            except Exception:
+                if attempt + 1 < attempts_per_method:
+                    time.sleep(retry_delay_seconds * (attempt + 1))
+                    continue
+                break
+
+    return False
 
 
 def _is_official_repository_url(repository_url: str) -> bool:
