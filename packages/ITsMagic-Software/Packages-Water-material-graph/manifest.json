@@ -1,0 +1,17 @@
+{
+  "appMajorVersion": 2,
+  "date": "28/04/2026",
+  "descriptionB64": "V2F0ZXIgc2hhZGVyIGEgbWF0ZXJpYWwgZ3JhcGggZXhhbXBsZQ\u003d\u003d",
+  "images": [
+    "img1.jpg",
+    "img2.jpg",
+    "img3.jpg",
+    "img4.jpg"
+  ],
+  "isTemplate": true,
+  "repositoryURL": "https://github.com/ITsMagic-Software/Packages-Water-material-graph",
+  "tags": "template,project,water,material,graph",
+  "thumbnail": "thumb.jpg",
+  "titleB64": "V2F0ZXIgLSBNYXRlcmlhbCBHcmFwaA\u003d\u003d",
+  "version": 1
+}
