@@ -1,0 +1,16 @@
+{
+    "titleB64": "QSBCYXJyaWNhZGUgTW9kZWw=",
+    "descriptionB64": "U3RyZWV0IHByb3BzIHBhY2sgYmFzZWQgb24gdGhlIGNpdHkgb2YgQmVybGlucyBsb29rLiBTb21lIG9mIHRoZSBwb3N0ZXJzIGFuZCBzdGlja2VycyBhcmUgbWFkZSB3aXRoIEFJLiBUaGUgcmVzdCBvZiB0aGUgdGV4dHVyZXMgYXJlIHBhaW50ZWQgaW4gUGhvdG9zaG9wIGFuZCB0aGUgbW9kZWxzIGFyZSBtYWRlIHdpdGggQmxlbmRlci4=",
+    "tags": "3d,model,assets,props,barricade",
+    "version": 1,
+    "appMajorVersion": 2,
+    "repositoryURL": "https://github.com/ITsMagic-Software/Package-Barricade",
+    "isTemplate": false,
+    "date": "02/05/2026",
+    "thumbnail": "thumb.jpg",
+    "images": [
+        "img1.jpg"
+    ],
+    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9sb3dwb2x5LWJlcmxpbi1zdHJlZXQtcHJvcHMtcGFjay0xLWI0NWUzMjk0NmI0NzQyMDVhOWEwMThmMDFhZDdiYTlh",
+    "repivot": true
+}
