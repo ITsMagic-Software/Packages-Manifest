@@ -1,0 +1,16 @@
+{
+    "titleB64": "QSBUcmFmZmljQ29uZU90aGVyVmFyaWFudCBNb2RlbA==",
+    "descriptionB64": "QXNzZXQgcGFjayBmb3Igc2Nob29sLg==",
+    "tags": "3d,model,assets,props,trafficconeothervariant",
+    "version": 1,
+    "appMajorVersion": 2,
+    "repositoryURL": "https://github.com/ITsMagic-Software/Package-TrafficConeOtherVariant",
+    "isTemplate": false,
+    "date": "01/05/2026",
+    "thumbnail": "thumb.jpg",
+    "images": [
+        "img1.jpg"
+    ],
+    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy91cmJhbi1jaXR5LXByb3AtcGFjay1lYjg3NDZmMjU0NTM0MjJjYmI2MTU4NDE4NTQ3NmRmZg==",
+    "repivot": true
+}
