@@ -1,0 +1,16 @@
+{
+    "titleB64": "QSBHcmFmZml0aWVkQnVpbGRpbmcgTW9kZWw=",
+    "descriptionB64": "TG93IHBvbHkgYnVpbGRpbmcgbW9kZWwsIHRleHR1cmUgY3JlYXRlZCBieSBBSS4=",
+    "tags": "3d,model,assets,props,graffitiedbuilding",
+    "version": 1,
+    "appMajorVersion": 2,
+    "repositoryURL": "https://github.com/ITsMagic-Software/Package-GraffitiedBuilding",
+    "isTemplate": false,
+    "date": "02/05/2026",
+    "thumbnail": "thumb.jpg",
+    "images": [
+        "img1.jpg"
+    ],
+    "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9vbGQtYnVpbGRpbmctbG93cG9seS0xZjMwNGM2ZTU2MzI0YzE5OTU1YTE4YWE3OWIxNWI5Zg==",
+    "repivot": true
+}
