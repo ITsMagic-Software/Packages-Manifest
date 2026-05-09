@@ -436,6 +436,24 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "QSBCYXJyaWNhZGUgTW9kZWw=",
+      "descriptionB64": "U3RyZWV0IHByb3BzIHBhY2sgYmFzZWQgb24gdGhlIGNpdHkgb2YgQmVybGlucyBsb29rLiBTb21lIG9mIHRoZSBwb3N0ZXJzIGFuZCBzdGlja2VycyBhcmUgbWFkZSB3aXRoIEFJLiBUaGUgcmVzdCBvZiB0aGUgdGV4dHVyZXMgYXJlIHBhaW50ZWQgaW4gUGhvdG9zaG9wIGFuZCB0aGUgbW9kZWxzIGFyZSBtYWRlIHdpdGggQmxlbmRlci4=",
+      "tags": "3d,model,assets,props,barricade",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Barricade",
+      "isTemplate": false,
+      "date": "02/05/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/barricade/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/barricade/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9sb3dwb2x5LWJlcmxpbi1zdHJlZXQtcHJvcHMtcGFjay0xLWI0NWUzMjk0NmI0NzQyMDVhOWEwMThmMDFhZDdiYTlh",
+      "repivot": true,
+      "id": "fe2083e4-d6ff-42ff-b178-71c8bd150752",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "QSBCYXNrZXQgTW9kZWw=",
       "descriptionB64": "UHJvcHMgZm9yIGEgc21hbGwgbm9yc2UgYWdlIGZhcm1zdGVhZC4gVGV4dHVyZXMgYXJlIGEgdmFyaWV0eSBvZiBoYW5kLW1hZGUgYW5kIHF1aXhlbCBtYXRlcmlhbHMu",
       "tags": "3d,model,assets,props,basket",
@@ -618,6 +636,24 @@
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mdXJuaXR1cmUtcGFjay1sb3ctcG9seS1nYW1lLXJlYWR5LTFiZmE1ZTQ4NzhlYjRhOWY4M2YzY2JlYzgwMDIyYjVk",
       "repivot": true,
       "id": "61266f10-a7a9-4040-9952-6baaeaebdba9",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QSBCb3hPdGhlclZhcmlhbnQgTW9kZWw=",
+      "descriptionB64": "QXNzZXQgcGFjayBmb3Igc2Nob29sLg==",
+      "tags": "3d,model,assets,props,boxothervariant",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-BoxOtherVariant",
+      "isTemplate": false,
+      "date": "01/05/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/box-other-variant/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/box-other-variant/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy91cmJhbi1jaXR5LXByb3AtcGFjay1lYjg3NDZmMjU0NTM0MjJjYmI2MTU4NDE4NTQ3NmRmZg==",
+      "repivot": true,
+      "id": "826392d6-3b54-4e6b-9324-4ef0bc7278bb",
       "userName": "ITsMagic"
     },
     {
@@ -1669,6 +1705,24 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "QSBFbmVyZ3lQaWxsYXIgTW9kZWw=",
+      "descriptionB64": "U3RyZWV0IHByb3BzIHBhY2sgYmFzZWQgb24gdGhlIGNpdHkgb2YgQmVybGlucyBsb29rLiBTb21lIG9mIHRoZSBwb3N0ZXJzIGFuZCBzdGlja2VycyBhcmUgbWFkZSB3aXRoIEFJLiBUaGUgcmVzdCBvZiB0aGUgdGV4dHVyZXMgYXJlIHBhaW50ZWQgaW4gUGhvdG9zaG9wIGFuZCB0aGUgbW9kZWxzIGFyZSBtYWRlIHdpdGggQmxlbmRlci4=",
+      "tags": "3d,model,assets,props,energypillar",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-EnergyPillar",
+      "isTemplate": false,
+      "date": "02/05/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/energy-pillar/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/energy-pillar/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9sb3dwb2x5LWJlcmxpbi1zdHJlZXQtcHJvcHMtcGFjay0xLWI0NWUzMjk0NmI0NzQyMDVhOWEwMThmMDFhZDdiYTlh",
+      "repivot": true,
+      "id": "3d94a596-f70b-455f-9eb1-6c6d743a5a28",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "RW5naW5lUm9vbQ==",
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBlbmdpbmUgcm9vbSBtb2R1bGUgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJGYWN0b3J5IFByb3BzIiBTa2V0Y2hmYWIgcGFjayBieSBUaG9tYXNfQ3JvemVsb24uIEl0IGlzIHN1aXRlZCBmb3IgaW5kdXN0cmlhbCBzY2VuZXMsIHNlcnZpY2UgYXJlYXMsIHV0aWxpdHkgc3BhY2VzIGFuZCBlbnZpcm9ubWVudCBkcmVzc2luZyBpbiByZWFsLXRpbWUgcHJvamVjdHMsIHVzaW5nIHRoZSBvcmlnaW5hbCBwYWNrJ3MgNEsgbWFwcy4=",
       "tags": "engine_room,machinery,industrial,environment,game_ready,unity",
@@ -1939,6 +1993,24 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "QSBGZW5jZU90aGVyVmFyaWFudCBNb2RlbA==",
+      "descriptionB64": "QXNzZXQgcGFjayBmb3Igc2Nob29sLg==",
+      "tags": "3d,model,assets,props,fenceothervariant",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-FenceOtherVariant",
+      "isTemplate": false,
+      "date": "01/05/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fence-other-variant/thumb.jpeg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fence-other-variant/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy91cmJhbi1jaXR5LXByb3AtcGFjay1lYjg3NDZmMjU0NTM0MjJjYmI2MTU4NDE4NTQ3NmRmZg==",
+      "repivot": true,
+      "id": "72ebbeca-160c-4a23-b555-72fc41ed7f10",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "QSBGZW5jZVZhcmlhbnQgTW9kZWw=",
       "descriptionB64": "UHJvcHMgZm9yIGEgc21hbGwgbm9yc2UgYWdlIGZhcm1zdGVhZC4gVGV4dHVyZXMgYXJlIGEgdmFyaWV0eSBvZiBoYW5kLW1hZGUgYW5kIHF1aXhlbCBtYXRlcmlhbHMu",
       "tags": "3d,model,assets,props,fencevariant",
@@ -2101,6 +2173,24 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "QSBGaXJlRXh0aW5ndWlzaGVyVmFyaWFudCBNb2RlbA==",
+      "descriptionB64": "QXNzZXQgcGFjayBmb3Igc2Nob29sLg==",
+      "tags": "3d,model,assets,props,fireextinguishervariant",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-FireExtinguisherVariant",
+      "isTemplate": false,
+      "date": "01/05/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fire-extinguisher-variant/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fire-extinguisher-variant/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy91cmJhbi1jaXR5LXByb3AtcGFjay1lYjg3NDZmMjU0NTM0MjJjYmI2MTU4NDE4NTQ3NmRmZg==",
+      "repivot": true,
+      "id": "a2c14662-4f5c-417e-b389-709126040910",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "R2FyYmFnZUJhZw==",
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBnYXJiYWdlIGJhZyBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIlN0cmVldCBBc3NldCBQYWNrIiBTa2V0Y2hmYWIgcGFjayBieSB2bWF0dGhldy4gSXQgZml0cyBzaWRld2Fsa3MsIHJvYWR3b3JrLCBhbGxleXMgYW5kIHVyYmFuIGVudmlyb25tZW50IGRyZXNzaW5nLCBiYXNlZCBvbiBhc3NldHMgY3JlYXRlZCBpbiBCbGVuZGVyIGFuZCBTdWJzdGFuY2UgM0QgUGFpbnRlci4=",
       "tags": "garbage_bag,trash,waste,street_prop,street,urban",
@@ -2137,6 +2227,24 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "QSBHYXJiYWdlQ29udGFpbmVyIE1vZGVs",
+      "descriptionB64": "QXNzZXQgcGFjayBmb3Igc2Nob29sLg==",
+      "tags": "3d,model,assets,props,garbagecontainer",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-GarbageContainer",
+      "isTemplate": false,
+      "date": "01/05/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/garbage-container/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/garbage-container/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy91cmJhbi1jaXR5LXByb3AtcGFjay1lYjg3NDZmMjU0NTM0MjJjYmI2MTU4NDE4NTQ3NmRmZg==",
+      "repivot": true,
+      "id": "92792fc4-d027-440c-a4ce-01e3c4293bec",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "R2xhc3NCb3R0bGU=",
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBnbGFzcyBib3R0bGUgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJGdXJuaXR1cmUgUGFjayB8IExvdy1Qb2x5IHwgR2FtZS1SZWFkeSIgU2tldGNoZmFiIHBhY2sgYnkga0VhbS4gSXQgaXMgc3VpdGVkIGZvciByb29tIGRyZXNzaW5nLCBob21lIGludGVyaW9ycyBhbmQgc3R5bGl6ZWQgcmVhbC10aW1lIGVudmlyb25tZW50cyBmcm9tIHRoZSBvcmlnaW5hbCBsb3ctcG9seSBnYW1lLXJlYWR5IGZ1cm5pdHVyZSBjb2xsZWN0aW9uLg==",
       "tags": "glass_bottle,glass,container,interior,low_poly,game_ready",
@@ -2170,6 +2278,24 @@
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
       "repivot": true,
       "id": "229cd8c0-5014-4307-b34b-0a3cd9b781e0",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QSBHcmFmZml0aWVkQnVpbGRpbmcgTW9kZWw=",
+      "descriptionB64": "TG93IHBvbHkgYnVpbGRpbmcgbW9kZWwsIHRleHR1cmUgY3JlYXRlZCBieSBBSS4=",
+      "tags": "3d,model,assets,props,graffitiedbuilding",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-GraffitiedBuilding",
+      "isTemplate": false,
+      "date": "02/05/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/graffitied-building/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/graffitied-building/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9vbGQtYnVpbGRpbmctbG93cG9seS0xZjMwNGM2ZTU2MzI0YzE5OTU1YTE4YWE3OWIxNWI5Zg==",
+      "repivot": true,
+      "id": "ed4d7101-4474-46c8-861b-a15400dbfe09",
       "userName": "ITsMagic"
     },
     {
@@ -2372,6 +2498,42 @@
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy90cm9waWNhbC1wbGFudHMtcGFjay1tMDJwLTJmMDkzYWZiNzkyNzQyNDM4ZjBmN2JhN2VhYWI5MGYw",
       "repivot": true,
       "id": "10e47d98-da9e-481f-8139-91bde78cf402",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QSBMYW1wUG9zdCBNb2RlbA==",
+      "descriptionB64": "QXNzZXQgcGFjayBmb3Igc2Nob29sLg==",
+      "tags": "3d,model,assets,props,lamppost",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-LampPost",
+      "isTemplate": false,
+      "date": "01/05/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/lamp-post/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/lamp-post/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy91cmJhbi1jaXR5LXByb3AtcGFjay1lYjg3NDZmMjU0NTM0MjJjYmI2MTU4NDE4NTQ3NmRmZg==",
+      "repivot": true,
+      "id": "f057b5c3-8094-4b12-a4fa-d0d78f902be4",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QSBMYW1wUG9zdFZhcmlhbnQgTW9kZWw=",
+      "descriptionB64": "U3RyZWV0IHByb3BzIHBhY2sgYmFzZWQgb24gdGhlIGNpdHkgb2YgQmVybGlucyBsb29rLiBTb21lIG9mIHRoZSBwb3N0ZXJzIGFuZCBzdGlja2VycyBhcmUgbWFkZSB3aXRoIEFJLiBUaGUgcmVzdCBvZiB0aGUgdGV4dHVyZXMgYXJlIHBhaW50ZWQgaW4gUGhvdG9zaG9wIGFuZCB0aGUgbW9kZWxzIGFyZSBtYWRlIHdpdGggQmxlbmRlci4=",
+      "tags": "3d,model,assets,props,lamppostvariant",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-LampPostVariant",
+      "isTemplate": false,
+      "date": "02/05/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/lamp-post-variant/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/lamp-post-variant/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9sb3dwb2x5LWJlcmxpbi1zdHJlZXQtcHJvcHMtcGFjay0xLWI0NWUzMjk0NmI0NzQyMDVhOWEwMThmMDFhZDdiYTlh",
+      "repivot": true,
+      "id": "051b2543-69eb-4e65-80e8-3d076c408eb6",
       "userName": "ITsMagic"
     },
     {
@@ -2950,6 +3112,24 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "QSBNZXRhbFRhYmxlVmFyaWFudCBNb2RlbA==",
+      "descriptionB64": "QXNzZXQgcGFjayBmb3Igc2Nob29sLg==",
+      "tags": "3d,model,assets,props,metaltablevariant",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalTableVariant",
+      "isTemplate": false,
+      "date": "01/05/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-table-variant/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-table-variant/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy91cmJhbi1jaXR5LXByb3AtcGFjay1lYjg3NDZmMjU0NTM0MjJjYmI2MTU4NDE4NTQ3NmRmZg==",
+      "repivot": true,
+      "id": "0475c518-01ad-4a81-bde4-e95de8d0369e",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "TWlycm9y",
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBtaXJyb3IgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJGYWN0b3J5IFByb3BzIiBTa2V0Y2hmYWIgcGFjayBieSBUaG9tYXNfQ3JvemVsb24uIEl0IGlzIHN1aXRlZCBmb3IgaW5kdXN0cmlhbCBzY2VuZXMsIHNlcnZpY2UgYXJlYXMsIHV0aWxpdHkgc3BhY2VzIGFuZCBlbnZpcm9ubWVudCBkcmVzc2luZyBpbiByZWFsLXRpbWUgcHJvamVjdHMsIHVzaW5nIHRoZSBvcmlnaW5hbCBwYWNrJ3MgNEsgbWFwcy4=",
       "tags": "mirror,decor,interior,bathroom,game_ready,unity",
@@ -3345,6 +3525,42 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "QSBQbGF0ZSBNb2RlbA==",
+      "descriptionB64": "QXNzZXQgcGFjayBmb3Igc2Nob29sLg==",
+      "tags": "3d,model,assets,props,plate",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Plate",
+      "isTemplate": false,
+      "date": "01/05/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/plate/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/plate/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy91cmJhbi1jaXR5LXByb3AtcGFjay1lYjg3NDZmMjU0NTM0MjJjYmI2MTU4NDE4NTQ3NmRmZg==",
+      "repivot": true,
+      "id": "14aad8cb-54a7-4c13-89a1-4b011fd68e78",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QSBQbGF0ZUNhc2hGb3JHb2xkIE1vZGVs",
+      "descriptionB64": "QXNzZXQgcGFjayBmb3Igc2Nob29sLg==",
+      "tags": "3d,model,assets,props,platecashforgold",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-PlateCashForGold",
+      "isTemplate": false,
+      "date": "01/05/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/plate-cash-for-gold/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/plate-cash-for-gold/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy91cmJhbi1jaXR5LXByb3AtcGFjay1lYjg3NDZmMjU0NTM0MjJjYmI2MTU4NDE4NTQ3NmRmZg==",
+      "repivot": true,
+      "id": "65597b0b-6e2d-4b54-8c83-9a2c3adb7bfa",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "UGxpZXJz",
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBwbGllcnMgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJGYWN0b3J5IFByb3BzIiBTa2V0Y2hmYWIgcGFjayBieSBUaG9tYXNfQ3JvemVsb24uIEl0IGlzIHN1aXRlZCBmb3IgaW5kdXN0cmlhbCBzY2VuZXMsIHNlcnZpY2UgYXJlYXMsIHV0aWxpdHkgc3BhY2VzIGFuZCBlbnZpcm9ubWVudCBkcmVzc2luZyBpbiByZWFsLXRpbWUgcHJvamVjdHMsIHVzaW5nIHRoZSBvcmlnaW5hbCBwYWNrJ3MgNEsgbWFwcy4=",
       "tags": "pliers,tool,workshop,utility,game_ready,unity",
@@ -3360,6 +3576,24 @@
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
       "repivot": true,
       "id": "327bf5a9-51f1-4421-80f8-5a4988f2cccc",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QSBQb3dlclBvbGUgTW9kZWw=",
+      "descriptionB64": "QXNzZXQgcGFjayBmb3Igc2Nob29sLg==",
+      "tags": "3d,model,assets,props,powerpole",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-PowerPole",
+      "isTemplate": false,
+      "date": "01/05/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/power-pole/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/power-pole/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy91cmJhbi1jaXR5LXByb3AtcGFjay1lYjg3NDZmMjU0NTM0MjJjYmI2MTU4NDE4NTQ3NmRmZg==",
+      "repivot": true,
+      "id": "e53225a5-b26d-409c-a426-cf52089710f9",
       "userName": "ITsMagic"
     },
     {
@@ -3776,6 +4010,24 @@
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9ub3JzZS1mYXJtc3RlYWQtcHJvcHMtNWI4NjkzMGUxMTgwNDE2NGI1YzAzZDBkNjZlNWIzODk=",
       "repivot": true,
       "id": "99376817-9145-4a0a-ac12-9e46c5a031fc",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QSBTaWducG9zdCBNb2RlbA==",
+      "descriptionB64": "QXNzZXQgcGFjayBmb3Igc2Nob29sLg==",
+      "tags": "3d,model,assets,props,signpost",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Signpost",
+      "isTemplate": false,
+      "date": "01/05/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/signpost/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/signpost/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy91cmJhbi1jaXR5LXByb3AtcGFjay1lYjg3NDZmMjU0NTM0MjJjYmI2MTU4NDE4NTQ3NmRmZg==",
+      "repivot": true,
+      "id": "ac6ff0f3-1ca9-4514-96f7-6ed5de0ed0b9",
       "userName": "ITsMagic"
     },
     {
@@ -4211,6 +4463,24 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "QSBUZWxlcGhvbmVCb290aCBNb2RlbA==",
+      "descriptionB64": "QXNzZXQgcGFjayBmb3Igc2Nob29sLg==",
+      "tags": "3d,model,assets,props,telephonebooth",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-TelephoneBooth",
+      "isTemplate": false,
+      "date": "01/05/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/telephone-booth/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/telephone-booth/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy91cmJhbi1jaXR5LXByb3AtcGFjay1lYjg3NDZmMjU0NTM0MjJjYmI2MTU4NDE4NTQ3NmRmZg==",
+      "repivot": true,
+      "id": "b3678816-6262-46c6-b807-9f12b6d6cdeb",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "QSBUZWxlc2NvcGUgTW9kZWw=",
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSB0ZWxlc2NvcGUgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJCcmltc3RvbmUgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IEN0cmxMaWdodC4gSXQgZml0cyBpbnRlcmlvciBwcm9wcywgcm9vbSBkcmVzc2luZyBhbmQgZW52aXJvbm1lbnRhbCBzdG9yeXRlbGxpbmcgc2NlbmVzIGluc3BpcmVkIGJ5IHRoZSBvcmlnaW5hbCBCcmltc3RvbmUgcHJvamVjdC4=",
       "tags": "telescope,instrument,decor,interior,realistic,game_ready",
@@ -4302,6 +4572,24 @@
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
       "repivot": true,
       "id": "a0df24aa-78eb-4919-bc44-fee8839bea32",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QSBUcmFmZmljQ29uZU90aGVyVmFyaWFudCBNb2RlbA==",
+      "descriptionB64": "QXNzZXQgcGFjayBmb3Igc2Nob29sLg==",
+      "tags": "3d,model,assets,props,trafficconeothervariant",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-TrafficConeOtherVariant",
+      "isTemplate": false,
+      "date": "01/05/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/traffic-cone-other-variant/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/traffic-cone-other-variant/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy91cmJhbi1jaXR5LXByb3AtcGFjay1lYjg3NDZmMjU0NTM0MjJjYmI2MTU4NDE4NTQ3NmRmZg==",
+      "repivot": true,
+      "id": "f2bafc94-7b0c-4f13-848a-d50f4cc05f41",
       "userName": "ITsMagic"
     },
     {
@@ -4485,6 +4773,24 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "QSBUcmFzaCBNb2RlbA==",
+      "descriptionB64": "QXNzZXQgcGFjayBmb3Igc2Nob29sLg==",
+      "tags": "3d,model,assets,props,trash",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Trash",
+      "isTemplate": false,
+      "date": "01/05/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/trash/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/trash/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy91cmJhbi1jaXR5LXByb3AtcGFjay1lYjg3NDZmMjU0NTM0MjJjYmI2MTU4NDE4NTQ3NmRmZg==",
+      "repivot": true,
+      "id": "216b892c-8d9e-420b-a2d3-13eece3fa596",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "VHJlZQ==",
       "descriptionB64": "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSB0cmVlIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiTWVkaWV2YWwgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IERhbmllbCBWaWNlbnRlLiBJdCBmaXRzIG1vZHVsYXIgbWVkaWV2YWwgY2l0eSBzY2VuZXMsIHZpbGxhZ2UgZW52aXJvbm1lbnRzLCBjb3VydHlhcmRzIGFuZCBoaXN0b3JpY2FsIHNldCBkcmVzc2luZy4=",
       "tags": "tree,vegetation,nature,medieval,game_ready",
@@ -4555,6 +4861,24 @@
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9tZWRpZXZhbC1wcm9wcy1lNjk3NzdmYTQ3MjQ0NDM0YjMzNzQ4OGI5N2NlY2QwZQ==",
       "repivot": true,
       "id": "f326da09-8378-42e0-baff-f3dfcd70d801",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QSBWZW50aWxhdGlvbiBNb2RlbA==",
+      "descriptionB64": "U3RyZWV0IHByb3BzIHBhY2sgYmFzZWQgb24gdGhlIGNpdHkgb2YgQmVybGlucyBsb29rLiBTb21lIG9mIHRoZSBwb3N0ZXJzIGFuZCBzdGlja2VycyBhcmUgbWFkZSB3aXRoIEFJLiBUaGUgcmVzdCBvZiB0aGUgdGV4dHVyZXMgYXJlIHBhaW50ZWQgaW4gUGhvdG9zaG9wIGFuZCB0aGUgbW9kZWxzIGFyZSBtYWRlIHdpdGggQmxlbmRlci4=",
+      "tags": "3d,model,assets,props,ventilation",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Ventilation",
+      "isTemplate": false,
+      "date": "02/05/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/ventilation/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/ventilation/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9sb3dwb2x5LWJlcmxpbi1zdHJlZXQtcHJvcHMtcGFjay0xLWI0NWUzMjk0NmI0NzQyMDVhOWEwMThmMDFhZDdiYTlh",
+      "repivot": true,
+      "id": "f4f01693-8092-4cfc-8d7f-50c6f0dad102",
       "userName": "ITsMagic"
     },
     {
@@ -4666,6 +4990,24 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "QSBXaW5kb3cgTW9kZWw=",
+      "descriptionB64": "QXNzZXQgcGFjayBmb3Igc2Nob29sLg==",
+      "tags": "3d,model,assets,props,window",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Window",
+      "isTemplate": false,
+      "date": "01/05/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/window/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/window/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy91cmJhbi1jaXR5LXByb3AtcGFjay1lYjg3NDZmMjU0NTM0MjJjYmI2MTU4NDE4NTQ3NmRmZg==",
+      "repivot": true,
+      "id": "c79c36c7-0ad7-4828-ada9-fccba24da800",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "QSBXb29kIE1vZGVs",
       "descriptionB64": "TW9kdWxhciAzRCByb2FkIHBhY2sgYnVpbHQgZm9yIGNyZWF0aW5nIGNpdHkgZW52aXJvbm1lbnRzLiBJbmNsdWRlcyBzdHJhaWdodCwgY3VydmVkLCBhbmQgaW50ZXJzZWN0aW9uIHBpZWNlcyB3aXRoIHNlYW1sZXNzIGNvbm5lY3Rpb25zLiBJbmNsdWRlZCByb2FkIGJhcnJpZXJzLCBidXMgc3RvcCBhbmQgc3BlZWQgbGltaXQgc2luZy4gT3B0aW1pemVkIGZvciBwZXJmb3JtYW5jZSBpbiBVbml0eSwgVW5yZWFsLCBhbmQgQmxlbmRlci4gSWRlYWwgZm9yIGJ1aWxkaW5nIGN1c3RvbSBjaXR5IGxheW91dHMgaW4gZ2FtZXMsIHNpbXVsYXRpb25zLCBhbmQgdmlzdWFsaXphdGlvbnMuCgpUaGFua3MgZm9yIFZpc2l0aW5nLiBNYWtlIHN1cmUgeW91IGxpa2UgaXQu",
       "tags": "3d,model,assets,props,wood",
@@ -4771,6 +5113,24 @@
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9tb2R1bGFyLWNpdHktcm9hZC1wYWNrLWdhbWUtcmVhZHktZDlkZjVjZmEwNzlmNGRhOGExOGVmMTM3MmMwMGQwMWM=",
       "repivot": true,
       "id": "39545597-cd27-4093-949b-6bbe789c75b5",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "QSBXb29kZW5QYWxsZXRPdGhlclZhcmlhbnQgTW9kZWw=",
+      "descriptionB64": "QXNzZXQgcGFjayBmb3Igc2Nob29sLg==",
+      "tags": "3d,model,assets,props,woodenpalletothervariant",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-WoodenPalletOtherVariant",
+      "isTemplate": false,
+      "date": "01/05/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/wooden-pallet-other-variant/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/wooden-pallet-other-variant/img1.jpg"
+      ],
+      "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy91cmJhbi1jaXR5LXByb3AtcGFjay1lYjg3NDZmMjU0NTM0MjJjYmI2MTU4NDE4NTQ3NmRmZg==",
+      "repivot": true,
+      "id": "f36904af-c145-404b-a70d-75c0e86c310f",
       "userName": "ITsMagic"
     },
     {
