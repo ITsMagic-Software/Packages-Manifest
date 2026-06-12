@@ -13,8 +13,7 @@
       "images": [
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/acp/img1.jpg",
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/acp/img2.jpg",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/acp/img3.jpg",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/acp/img4.jpg"
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/acp/img3.jpg"
       ],
       "id": "7df7230e-fd01-4eb1-9651-06075ebfbd0e",
       "userName": "ITsMagic"
@@ -1647,6 +1646,27 @@
       "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9mYWN0b3J5LXByb3BzLWVlMDhkMjliYzZjZDQxMWU4NDVlNTA5MDNlNDA2MGNh",
       "repivot": true,
       "id": "9615842c-032c-4f16-89d2-cc280c6731b0",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "Q2FyIHBoeXNpY3MgLSBBQ1A=",
+      "descriptionB64": "QWR2YW5jZWQgY2FyIHBoeXNpY3M=",
+      "tags": "acp",
+      "version": 1,
+      "repositoryURL": "https://github.com/ITsMagic-Software/double-hitch-pickup-acp",
+      "isTemplate": true,
+      "date": "12/06/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/double-hitch/thumb.jpg",
+      "appMajorVersion": 2,
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/double-hitch/img1.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/double-hitch/img2.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/double-hitch/img3.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/double-hitch/img4.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/double-hitch/img5.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/double-hitch/img6.jpg"
+      ],
+      "id": "79cbd151-9f2f-4dd4-8a96-e411110d5447",
       "userName": "ITsMagic"
     },
     {
