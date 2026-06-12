@@ -1,0 +1,19 @@
+{
+    "titleB64": "Q2FyIHBoeXNpY3MgLSBBQ1A=",
+    "descriptionB64": "QWR2YW5jZWQgY2FyIHBoeXNpY3M=",
+    "tags": "acp",
+    "version": 1,
+    "repositoryURL": "https://github.com/ITsMagic-Software/double-hitch-pickup-acp",
+    "isTemplate": true,
+    "date": "12/06/2026",
+    "thumbnail": "thumb.jpg",
+    "appMajorVersion": 2,
+    "images": [
+        "img1.jpg",
+        "img2.jpg",
+        "img3.jpg",
+        "img4.jpg",
+        "img5.jpg",
+        "img6.jpg"
+    ]
+}
