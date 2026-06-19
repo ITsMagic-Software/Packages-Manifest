@@ -1,0 +1,21 @@
+{
+  "appMajorVersion": 2,
+  "date": "28/04/2026",
+  "descriptionB64": "VGhpcmQgcGVyc29uIHBsYXllciBzaG9vdGVyClRoaXMgcHJvamVjdCBpcyAyLjFHQiwgc28gZXhwZWN0IGEgZmFpcmx5IGxvbmcgZG93bmxvYWQgZGVwZW5kaW5nIG9uIHlvdXIgY29ubmVjdGlvbiBzcGVlZC4=",
+  "images": [
+    "img1.jpg",
+    "img2.jpg",
+    "img3.jpg",
+    "img4.jpg",
+    "img5.jpg",
+    "img6.jpg",
+    "img7.jpg",
+    "img8.jpg"
+  ],
+  "isTemplate": true,
+  "repositoryURL": "https://itsmagic.com.br/store-archive/Shooter.itsmbp",
+  "tags": "template,project,tps,shooter,fps",
+  "thumbnail": "thumb.jpg",
+  "titleB64": "VGhpcmQgcGVyc29uIHBsYXllciBzaG9vdGVy",
+  "version": 1
+}
