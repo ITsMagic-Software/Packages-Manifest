@@ -5245,6 +5245,29 @@
     {
       "appMajorVersion": 2,
       "date": "28/04/2026",
+      "descriptionB64": "VGhpcmQgcGVyc29uIHBsYXllciBzaG9vdGVyClRoaXMgcHJvamVjdCBpcyAyLjFHQiwgc28gZXhwZWN0IGEgZmFpcmx5IGxvbmcgZG93bmxvYWQgZGVwZW5kaW5nIG9uIHlvdXIgY29ubmVjdGlvbiBzcGVlZC4=",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic-Software/Packages-Shooter-Template/img1.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic-Software/Packages-Shooter-Template/img2.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic-Software/Packages-Shooter-Template/img3.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic-Software/Packages-Shooter-Template/img4.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic-Software/Packages-Shooter-Template/img5.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic-Software/Packages-Shooter-Template/img6.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic-Software/Packages-Shooter-Template/img7.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic-Software/Packages-Shooter-Template/img8.jpg"
+      ],
+      "isTemplate": true,
+      "repositoryURL": "https://itsmagic.com.br/store-archive/Shooter.itsmbp",
+      "tags": "template,project,tps,shooter,fps",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic-Software/Packages-Shooter-Template/thumb.jpg",
+      "titleB64": "VGhpcmQgcGVyc29uIHBsYXllciBzaG9vdGVy",
+      "version": 1,
+      "id": "7050ba72-7a23-4f93-b4a0-582e3bfc9591",
+      "userName": "ITsMagic-Software"
+    },
+    {
+      "appMajorVersion": 2,
+      "date": "28/04/2026",
       "descriptionB64": "V2F0ZXIgc2hhZGVyIGEgbWF0ZXJpYWwgZ3JhcGggZXhhbXBsZQ==",
       "images": [
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic-Software/Packages-Water-material-graph/img1.jpg",
