@@ -16,6 +16,7 @@ from urllib import request as url_request
 
 DEFAULT_REPOSITORY_BRANCH = "main"
 OFFICIAL_GITHUB_OWNER = "ITsMagic-Software"
+DIRECT_DOWNLOAD_EXTENSIONS = {".itsmbp"}
 
 
 def _format_value(value: object) -> str:
@@ -69,6 +70,12 @@ def _is_official_repository_url(repository_url: str) -> bool:
         return False
 
     return path_parts[0] == OFFICIAL_GITHUB_OWNER
+
+
+def _is_direct_download_url(repository_url: str) -> bool:
+    parsed = url_parse.urlparse(_normalize_repository_url(repository_url))
+    path = parsed.path.lower()
+    return any(path.endswith(extension) for extension in DIRECT_DOWNLOAD_EXTENSIONS)
 
 
 def _normalize_repository_url(value: str) -> str:
@@ -374,9 +381,13 @@ def main() -> None:
                     "ERROR: repositoryURL must be http/https "
                     f"({ _format_value(repository_url) }) in {package_label}."
                 )
-            elif not parsed.netloc.endswith("github.com"):
+            elif not (
+                parsed.netloc.endswith("github.com")
+                or _is_direct_download_url(repository_url)
+            ):
                 errors.append(
                     "ERROR: repositoryURL must point to github.com "
+                    "or a direct .itsmbp download link "
                     f"({ _format_value(repository_url) }) in {package_label}."
                 )
             else:
