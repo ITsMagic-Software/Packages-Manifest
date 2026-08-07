@@ -1,0 +1,16 @@
+{
+  "appMajorVersion": 2,
+  "date": "07/08/2026",
+  "descriptionB64": "aW5maW5pdGUgdm94ZWwgd29ybGQgZ2FtZSB3aXRoIGJyZWFrL3B1dCBibG9ja3MgZmVhdHVyZSBhbmQgY2h1bmsgcGFydGl0aW9ucw\u003d\u003d",
+  "images": [
+    "img1.jpg",
+    "img2.jpg",
+    "img3.jpg"
+  ],
+  "isTemplate": true,
+  "repositoryURL": "https://github.com/ITsMagic-Software/infinity-voxel-game",
+  "tags": "voxel,procedural",
+  "thumbnail": "thumb.jpg",
+  "titleB64": "SW5maW5pdHkgdm94ZWwgZ2FtZQ\u003d\u003d",
+  "version": 1
+}
