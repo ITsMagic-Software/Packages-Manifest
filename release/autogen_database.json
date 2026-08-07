@@ -5285,6 +5285,24 @@
       "userName": "ITsMagic-Software"
     },
     {
+      "appMajorVersion": 2,
+      "date": "07/08/2026",
+      "descriptionB64": "aW5maW5pdGUgdm94ZWwgd29ybGQgZ2FtZSB3aXRoIGJyZWFrL3B1dCBibG9ja3MgZmVhdHVyZSBhbmQgY2h1bmsgcGFydGl0aW9ucw==",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic-Software/infinity-voxel-game/img1.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic-Software/infinity-voxel-game/img2.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic-Software/infinity-voxel-game/img3.jpg"
+      ],
+      "isTemplate": true,
+      "repositoryURL": "https://github.com/ITsMagic-Software/infinity-voxel-game",
+      "tags": "voxel,procedural",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic-Software/infinity-voxel-game/thumb.jpg",
+      "titleB64": "SW5maW5pdHkgdm94ZWwgZ2FtZQ==",
+      "version": 1,
+      "id": "32cf0369-7bab-43bb-a015-1ba849062f77",
+      "userName": "ITsMagic-Software"
+    },
+    {
       "titleB64": "Q2xvdGggU2ltdWxhdGlvbiBTeXN0ZW0gZm9yIElUc01hZ2ljIEVuZ2luZQ==",
       "descriptionB64": "U2ltcGxlIGNsb3RoIHNpbXVsYXRpb24gc3lzdGVtIGZvciBJVHNNYWdpYyBFbmdpbmUuIEluY2x1ZGVzIGJhc2ljIGNvbGxpc2lvbiBzdXBwb3J0LCBtdWx0aXBsZSBjb25maWd1cmF0aW9uIG9wdGlvbnMsIGFuZCBhbiBlZGl0b3Igc2V0dXAuIENvbWVzIHdpdGggYSBjb21wbGV0ZSBIT1dfVE9fVVNFIGd1aWRlLg==",
       "tags": "cloth,mesh,physics",
@@ -5325,59 +5343,6 @@
       ],
       "id": "f7eb6aae-b83b-46d7-8e06-7ca186b048f0",
       "userName": "Vitg1"
-    },
-    {
-      "titleB64": "Q2FyZ28gdHJ1Y2sgcGh5c2ljcw==",
-      "descriptionB64": "VmVyeSBzaW1wbGUgY2FyIHBoeXNpY3MgbWFkZSBvbiBJVHNNYWdpYyBFbmdpbmU=",
-      "tags": "truck,car,physics,control",
-      "version": 3,
-      "appMajorVersion": 1,
-      "repositoryURL": "https://github.com/malik-mohamed-2009/truck-physics-for-itsmagic-1",
-      "isTemplate": true,
-      "date": "07/02/2026",
-      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/malik-mohamed/cargo-truck/thumb.jpg",
-      "images": [
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/malik-mohamed/cargo-truck/img1.jpg",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/malik-mohamed/cargo-truck/img2.jpg",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/malik-mohamed/cargo-truck/img3.jpg",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/malik-mohamed/cargo-truck/img4.jpg"
-      ],
-      "id": "f1f90d1c-7bf4-4a49-99bd-4e8b6dbaefaf",
-      "userName": "malik-mohamed"
-    },
-    {
-      "titleB64": "RHluYW1pYyBJbnB1dCBLZXk=",
-      "descriptionB64": "U2ltcGxlLCBDYXN1YWwgS2V5IFN5c3RlbXMgd2l0aCBEb3VibGUgVGFwcywgUmVsZWFzZSwgZXRjLg==",
-      "tags": "ui,key",
-      "version": 1,
-      "appMajorVersion": 1,
-      "repositoryURL": "https://github.com/malik-mohamed-2009/input-key-itsmagic",
-      "isTemplate": false,
-      "date": "08/02/2026",
-      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/malik-mohamed/input-key/thumb.png",
-      "images": [
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/malik-mohamed/input-key/img1.png",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/malik-mohamed/input-key/img2.png"
-      ],
-      "id": "8e584731-3583-44c8-9af4-fb11f520df1f",
-      "userName": "malik-mohamed"
-    },
-    {
-      "titleB64": "VUkgZXhhbXBsZXM=",
-      "descriptionB64": "VmVyeSBuaWNlIGFuZCBjb29sZXIgVUkncw==",
-      "tags": "ui",
-      "version": 1,
-      "appMajorVersion": 1,
-      "repositoryURL": "https://github.com/malik-mohamed-2009/UI-examples",
-      "isTemplate": true,
-      "date": "07/02/2026",
-      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/malik-mohamed/ui-exp/thumb.jpg",
-      "images": [
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/malik-mohamed/ui-exp/img1.jpg",
-        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/malik-mohamed/ui-exp/img2.jpg"
-      ],
-      "id": "11a9c2fd-aff2-4ada-8866-a393983c833a",
-      "userName": "malik-mohamed"
     }
   ]
 }
